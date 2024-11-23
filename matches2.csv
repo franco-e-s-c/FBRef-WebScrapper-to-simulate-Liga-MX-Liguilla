@@ -1,0 +1,3312 @@
+dayofweek,home_team,score,away_team,home_goals,away_goals,result
+Sáb,Atlético,0–2,UNAM,0,2,0
+Sáb,Pachuca,1–3,León,1,3,0
+Vie,Puebla,1–3,Tijuana,1,3,0
+Vie,Atlas,1–0,FC Juárez,1,0,1
+Dom,Toluca,0–2,Querétaro,0,2,0
+Dom,Santos,3–0,Guadalajara,3,0,1
+Sáb,América,4–2,Monterrey,4,2,1
+Sáb,Necaxa,0–0,Cruz Azul,0,0,-1
+Sáb,UANL,4–2,Morelia,4,2,1
+Vie,Morelia,0–1,Atlas,0,1,0
+Vie,Veracruz,3–3,Pachuca,3,3,-1
+Dom,UNAM,2–0,Necaxa,2,0,1
+Dom,Atlético,1–0,Monterrey,1,0,1
+Dom,Santos,3–0,FC Juárez,3,0,1
+Sáb,León,0–0,América,0,0,-1
+Sáb,Tijuana,1–1,Querétaro,1,1,-1
+Sáb,Cruz Azul,1–1,Toluca,1,1,-1
+Dom,Guadalajara,2–0,UANL,2,0,1
+Sáb,Querétaro,3–0,Cruz Azul,3,0,1
+Vie,Puebla,1–1,Guadalajara,1,1,-1
+Vie,Atlas,1–2,Santos,1,2,0
+Dom,UNAM,0–1,UANL,0,1,0
+Sáb,América,3–1,Tijuana,3,1,1
+Sáb,Pachuca,1–2,Morelia,1,2,0
+Sáb,Necaxa,7–0,Veracruz,7,0,1
+Sáb,Monterrey,3–2,León,3,2,1
+Dom,FC Juárez,2–0,Toluca,2,0,1
+Sáb,Cruz Azul,2–0,FC Juárez,2,0,1
+Sáb,Querétaro,2–1,Pachuca,2,1,1
+Vie,Morelia,0–1,Monterrey,0,1,0
+Vie,Tijuana,1–0,UNAM,1,0,1
+Vie,Veracruz,1–2,Atlas,1,2,0
+Dom,Toluca,0–1,América,0,1,0
+Dom,Santos,4–1,Puebla,4,1,1
+Sáb,UANL,3–1,Necaxa,3,1,1
+Sáb,Guadalajara,3–0,Atlético,3,0,1
+Sáb,Atlético,1–1,UANL,1,1,-1
+Vie,Puebla,0–4,Pachuca,0,4,0
+Vie,Atlas,1–3,Cruz Azul,1,3,0
+Dom,UNAM,2–0,Veracruz,2,0,1
+Dom,Necaxa,3–0,Santos,3,0,1
+Sáb,León,4–3,Guadalajara,4,3,1
+Sáb,América,1–0,Morelia,1,0,1
+Sáb,Monterrey,2–0,Toluca,2,0,1
+Dom,FC Juárez,0–2,Querétaro,0,2,0
+Sáb,Querétaro,0–4,León,0,4,0
+Vie,Veracruz,1–2,Atlético,1,2,0
+Vie,Morelia,2–0,UNAM,2,0,1
+Vie,Santos,2–1,Monterrey,2,1,1
+Dom,Toluca,2–0,Tijuana,2,0,1
+Dom,Guadalajara,1–2,Necaxa,1,2,0
+Sáb,Pachuca,3–1,Atlas,3,1,1
+Sáb,Cruz Azul,1–1,Puebla,1,1,-1
+Sáb,UANL,1–1,América,1,1,-1
+Mar,Atlético,1–1,Morelia,1,1,-1
+Mar,Atlas,1–1,UANL,1,1,-1
+Mar,Veracruz,0–5,Querétaro,0,5,0
+Mar,América,1–1,Pachuca,1,1,-1
+Mié,León,2–2,Santos,2,2,-1
+Mié,Tijuana,3–2,Cruz Azul,3,2,1
+Mié,Necaxa,1–1,Toluca,1,1,-1
+Jue,Puebla,2–1,FC Juárez,2,1,1
+Jue,Monterrey,2–0,UNAM,2,0,1
+Sáb,Necaxa,3–2,Tijuana,3,2,1
+Vie,Morelia,1–0,Veracruz,1,0,1
+Vie,Atlas,3–0,América,3,0,1
+Dom,UNAM,2–1,Toluca,2,1,1
+Dom,Querétaro,1–1,Puebla,1,1,-1
+Sáb,Pachuca,0–2,Atlético,0,2,0
+Sáb,UANL,1–1,León,1,1,-1
+Sáb,Cruz Azul,1–1,Guadalajara,1,1,-1
+Dom,FC Juárez,1–0,Monterrey,1,0,1
+Sáb,Monterrey,0–2,Necaxa,0,2,0
+Vie,Puebla,1–3,Atlético,1,3,0
+Vie,Tijuana,1–1,UANL,1,1,-1
+Vie,Veracruz,0–0,Cruz Azul,0,0,-1
+Dom,Toluca,0–2,Morelia,0,2,0
+Dom,Santos,2–2,Pachuca,2,2,-1
+Sáb,León,3–1,FC Juárez,3,1,1
+Sáb,Guadalajara,1–0,Atlas,1,0,1
+Sáb,América,1–1,UNAM,1,1,-1
+Sáb,Monterrey,3–2,Puebla,3,2,1
+Sáb,Atlético,2–3,Santos,2,3,0
+Sáb,Necaxa,2–4,León,2,4,0
+Vie,Atlas,0–1,Toluca,0,1,0
+Vie,Morelia,1–0,Guadalajara,1,0,1
+Dom,UNAM,1–1,Cruz Azul,1,1,-1
+Sáb,Pachuca,4–1,Tijuana,4,1,1
+Sáb,América,2–2,Querétaro,2,2,-1
+Dom,FC Juárez,2–0,Veracruz,2,0,1
+Mar,Querétaro,1–2,Necaxa,1,2,0
+Mar,UANL,0–1,Puebla,0,1,0
+Mar,León,1–1,Atlas,1,1,-1
+Mar,Guadalajara,2–4,Pachuca,2,4,0
+Mié,FC Juárez,1–1,América,1,1,-1
+Mié,Santos,5–0,Veracruz,5,0,1
+Mié,Tijuana,3–2,Morelia,3,2,1
+Mié,Cruz Azul,1–1,Monterrey,1,1,-1
+Jue,Toluca,3–1,Atlético,3,1,1
+Sáb,Pachuca,2–0,Cruz Azul,2,0,1
+Vie,Puebla,2–1,León,2,1,1
+Vie,Atlas,2–0,Querétaro,2,0,1
+Dom,UNAM,2–0,Santos,2,0,1
+Dom,Atlético,2–3,Tijuana,2,3,0
+Sáb,Necaxa,0–0,FC Juárez,0,0,-1
+Sáb,Monterrey,0–2,UANL,0,2,0
+Sáb,América,4–1,Guadalajara,4,1,1
+Dom,Veracruz,1–1,Toluca,1,1,-1
+Sáb,León,1–1,Veracruz,1,1,-1
+Vie,Morelia,2–3,Necaxa,2,3,0
+Dom,Toluca,1–1,Puebla,1,1,-1
+Dom,FC Juárez,1–2,Atlético,1,2,0
+Sáb,Cruz Azul,5–2,América,5,2,1
+Sáb,UANL,4–0,Santos,4,0,1
+Sáb,Tijuana,2–2,Atlas,2,2,-1
+Sáb,Guadalajara,1–1,UNAM,1,1,-1
+Dom,Querétaro,2–1,Monterrey,2,1,1
+Sáb,Cruz Azul,2–3,Morelia,2,3,0
+Vie,Puebla,0–1,Atlas,0,1,0
+Vie,Veracruz,1–3,UANL,1,3,0
+Vie,Santos,4–1,Tijuana,4,1,1
+Dom,UNAM,1–2,León,1,2,0
+Dom,Atlético,0–2,Querétaro,0,2,0
+Sáb,Pachuca,0–1,FC Juárez,0,1,0
+Sáb,Necaxa,2–2,América,2,2,-1
+Dom,Monterrey,1–1,Guadalajara,1,1,-1
+Sáb,Querétaro,3–0,UNAM,3,0,1
+Vie,Morelia,2–2,Santos,2,2,-1
+Vie,Tijuana,2–0,Veracruz,2,0,1
+Vie,Atlas,0–2,Necaxa,0,2,0
+Dom,Toluca,2–0,Pachuca,2,0,1
+Sáb,América,2–0,Puebla,2,0,1
+Sáb,León,3–2,Atlético,3,2,1
+Sáb,UANL,1–1,Cruz Azul,1,1,-1
+Dom,FC Juárez,1–2,Guadalajara,1,2,0
+Mar,Atlético,0–1,América,0,1,0
+Mar,Veracruz,1–0,Puebla,1,0,1
+Mar,Santos,1–0,Querétaro,1,0,1
+Mar,UNAM,5–1,Atlas,5,1,1
+Mié,Pachuca,2–3,Monterrey,2,3,0
+Mié,UANL,1–0,Toluca,1,0,1
+Mié,Guadalajara,0–1,Tijuana,0,1,0
+Jue,Morelia,6–1,FC Juárez,6,1,1
+Jue,Cruz Azul,1–0,León,1,0,1
+Sáb,Querétaro,0–0,UANL,0,0,-1
+Vie,Puebla,1–1,UNAM,1,1,-1
+Vie,Atlas,1–2,Atlético,1,2,0
+Dom,Toluca,1–3,Guadalajara,1,3,0
+Sáb,América,1–2,Santos,1,2,0
+Sáb,Monterrey,1–1,Veracruz,1,1,-1
+Sáb,Necaxa,1–2,Pachuca,1,2,0
+Dom,FC Juárez,3–0,Tijuana,3,0,1
+Dom,León,1–1,Morelia,1,1,-1
+Sáb,Atlético,0–2,Necaxa,0,2,0
+Vie,Morelia,3–2,Puebla,3,2,1
+Vie,Tijuana,0–4,Monterrey,0,4,0
+Vie,Veracruz,0–5,América,0,5,0
+Dom,UNAM,1–1,FC Juárez,1,1,-1
+Sáb,UANL,0–0,Pachuca,0,0,-1
+Sáb,León,4–0,Toluca,4,0,1
+Sáb,Guadalajara,3–2,Querétaro,3,2,1
+Dom,Santos,3–1,Cruz Azul,3,1,1
+Sáb,Querétaro,3–1,Morelia,3,1,1
+Vie,Puebla,3–0,Necaxa,3,0,1
+Vie,Tijuana,1–2,León,1,2,0
+Dom,Toluca,2–2,Santos,2,2,-1
+Sáb,Monterrey,2–0,Atlas,2,0,1
+Sáb,Cruz Azul,3–1,Atlético,3,1,1
+Sáb,Guadalajara,3–1,Veracruz,3,1,1
+Sáb,Pachuca,2–0,UNAM,2,0,1
+Dom,FC Juárez,1–2,UANL,1,2,0
+Mié,Morelia,3–3,León,3,3,-1
+Mié,Necaxa,3–0,Querétaro,3,0,1
+Jue,Monterrey,5–2,Santos,5,2,1
+Jue,América,1–2,UANL,1,2,0
+Sáb,León,1–2,Morelia,1,2,0
+Sáb,Querétaro,2–3,Necaxa,2,3,0
+Dom,Santos,1–1,Monterrey,1,1,-1
+Dom,UANL,2–4,América,2,4,0
+Mié,Monterrey,2–1,Necaxa,2,1,1
+Jue,Morelia,2–0,América,2,0,1
+Sáb,Necaxa,0–1,Monterrey,0,1,0
+Dom,América,2–0,Morelia,2,0,1
+Jue,Monterrey,2–1,América,2,1,1
+Dom,América,2–1,Monterrey,2,1,1
+Sáb,Cruz Azul,1–2,Atlas,1,2,0
+Vie,Tijuana,2–1,Santos,2,1,1
+Vie,Morelia,0–1,Toluca,0,1,0
+Dom,UNAM,2–1,Pachuca,2,1,1
+Sáb,León,3–1,Querétaro,3,1,1
+Sáb,Guadalajara,2–0,FC Juárez,2,0,1
+Sáb,UANL,0–0,Atlético,0,0,-1
+Jue,FC Juárez,4–4,UNAM,4,4,-1
+Sáb,Monterrey,2–2,Morelia,2,2,-1
+Vie,Atlético,2–1,Cruz Azul,2,1,1
+Vie,Atlas,0–1,Puebla,0,1,0
+Dom,Toluca,2–3,Necaxa,2,3,0
+Dom,Querétaro,3–0,Tijuana,3,0,1
+Sáb,Pachuca,0–0,Guadalajara,0,0,-1
+Sáb,América,1–0,UANL,1,0,1
+Dom,Santos,3–2,León,3,2,1
+Sáb,Cruz Azul,3–0,Santos,3,0,1
+Vie,Tijuana,0–0,América,0,0,-1
+Vie,Puebla,0–1,Querétaro,0,1,0
+Dom,UNAM,1–0,Monterrey,1,0,1
+Dom,Necaxa,1–1,Atlético,1,1,-1
+Sáb,UANL,2–1,Atlas,2,1,1
+Sáb,León,3–0,Pachuca,3,0,1
+Sáb,Guadalajara,2–2,Toluca,2,2,-1
+Dom,FC Juárez,3–0,Morelia,3,0,1
+Sáb,Necaxa,2–0,Puebla,2,0,1
+Sáb,Monterrey,1–2,Querétaro,1,2,0
+Sáb,Morelia,1–2,León,1,2,0
+Vie,Atlético,2–2,Guadalajara,2,2,-1
+Vie,Atlas,2–1,Tijuana,2,1,1
+Dom,Toluca,3–3,Cruz Azul,3,3,-1
+Sáb,Pachuca,2–0,UANL,2,0,1
+Sáb,América,1–3,FC Juárez,1,3,0
+Sáb,Santos,1–1,UNAM,1,1,-1
+Mar,Puebla,0–1,América,0,1,0
+Mié,Necaxa,2–2,Monterrey,2,2,-1
+Jue,Atlas,1–3,Morelia,1,3,0
+Sáb,Cruz Azul,3–1,Pachuca,3,1,1
+Vie,Tijuana,1–1,Toluca,1,1,-1
+Vie,Puebla,2–2,Santos,2,2,-1
+Dom,UNAM,4–0,Atlético,4,0,1
+Sáb,UANL,3–0,Guadalajara,3,0,1
+Sáb,León,3–1,Monterrey,3,1,1
+Dom,Querétaro,1–2,América,1,2,0
+Dom,FC Juárez,2–1,Necaxa,2,1,1
+Sáb,Pachuca,1–0,Puebla,1,0,1
+Sáb,Toluca,2–3,UNAM,2,3,0
+Vie,Atlético,3–1,León,3,1,1
+Vie,Morelia,1–1,Tijuana,1,1,-1
+Dom,Necaxa,2–3,Querétaro,2,3,0
+Sáb,América,2–0,Atlas,2,0,1
+Sáb,Monterrey,1–1,FC Juárez,1,1,-1
+Sáb,Guadalajara,1–2,Cruz Azul,1,2,0
+Dom,Santos,2–1,UANL,2,1,1
+Sáb,León,2–1,Necaxa,2,1,1
+Vie,Atlas,0–2,Pachuca,0,2,0
+Vie,Tijuana,0–1,Guadalajara,0,1,0
+Vie,Puebla,2–0,Toluca,2,0,1
+Dom,UNAM,1–2,Morelia,1,2,0
+Dom,Querétaro,0–1,Atlético,0,1,0
+Sáb,Cruz Azul,2–1,UANL,2,1,1
+Sáb,Monterrey,0–1,América,0,1,0
+Dom,FC Juárez,1–2,Santos,1,2,0
+Sáb,Pachuca,1–1,Querétaro,1,1,-1
+Vie,Atlético,0–3,FC Juárez,0,3,0
+Vie,Toluca,2–0,Monterrey,2,0,1
+Vie,Tijuana,0–1,Puebla,0,1,0
+Vie,Morelia,2–4,Cruz Azul,2,4,0
+Dom,Guadalajara,2–0,León,2,0,1
+Sáb,América,0–3,Necaxa,0,3,0
+Sáb,UANL,3–0,UNAM,3,0,1
+Dom,Santos,1–0,Atlas,1,0,1
+Sáb,Cruz Azul,4–2,Tijuana,4,2,1
+Sáb,Monterrey,2–2,Atlético,2,2,-1
+Vie,Querétaro,1–1,Toluca,1,1,-1
+Vie,UNAM,3–3,América,3,3,-1
+Vie,Puebla,0–0,UANL,0,0,-1
+Dom,Necaxa,1–2,Morelia,1,2,0
+Sáb,Pachuca,1–0,Santos,1,0,1
+Sáb,Atlas,1–2,Guadalajara,1,2,0
+Dom,FC Juárez,1–4,León,1,4,0
+Sáb,Atlético,0–1,Puebla,0,1,0
+Vie,Tijuana,3–2,Pachuca,3,2,1
+Vie,Morelia,4–0,Querétaro,4,0,1
+Dom,Toluca,2–3,Atlas,2,3,0
+Sáb,UANL,3–2,FC Juárez,3,2,1
+Sáb,León,3–1,UNAM,3,1,1
+Sáb,Guadalajara,1–1,Monterrey,1,1,-1
+Dom,Santos,2–1,Necaxa,2,1,1
+Dom,América,0–1,Cruz Azul,0,1,0
+Vie,Necaxa,0–3,UANL,0,3,0
+Dom,UNAM,3–2,Querétaro,3,2,1
+Sáb,Tijuana,3–1,Atlas,3,1,1
+Sáb,Guadalajara,0–0,León,0,0,-1
+Sáb,Cruz Azul,2–0,Santos,2,0,1
+Lun,Atlético,1–1,FC Juárez,1,1,-1
+Lun,Pachuca,1–2,América,1,2,0
+Lun,Mazatlán,1–4,Puebla,1,4,0
+Mar,Monterrey,3–1,Toluca,3,1,1
+Vie,Puebla,1–1,Cruz Azul,1,1,-1
+Vie,FC Juárez,1–0,Necaxa,1,0,1
+Dom,Toluca,3–2,Atlético,3,2,1
+Dom,Querétaro,1–1,Mazatlán,1,1,-1
+Sáb,UANL,1–1,Pachuca,1,1,-1
+Sáb,América,4–0,Tijuana,4,0,1
+Dom,Santos,2–0,Guadalajara,2,0,1
+Lun,Atlas,1–2,UNAM,1,2,0
+Lun,León,1–0,Monterrey,1,0,1
+Jue,Pachuca,1–0,Querétaro,1,0,1
+Jue,Tijuana,0–0,UANL,0,0,-1
+Vie,Necaxa,1–1,América,1,1,-1
+Vie,Mazatlán,2–1,Toluca,2,1,1
+Dom,UNAM,1–1,FC Juárez,1,1,-1
+Sáb,Cruz Azul,2–0,León,2,0,1
+Sáb,Monterrey,2–2,Santos,2,2,-1
+Sáb,Guadalajara,0–1,Puebla,0,1,0
+Dom,Atlético,1–1,Atlas,1,1,-1
+Mar,Necaxa,1–0,Mazatlán,1,0,1
+Mié,Querétaro,1–0,Cruz Azul,1,0,1
+Mar,Pachuca,0–1,León,0,1,0
+Mar,UANL,2–1,Puebla,2,1,1
+Mié,FC Juárez,0–2,Guadalajara,0,2,0
+Mié,Tijuana,0–2,Atlético,0,2,0
+Mié,UNAM,1–1,Monterrey,1,1,-1
+Jue,Atlas,1–2,Toluca,1,2,0
+Jue,América,3–1,Santos,3,1,1
+Sáb,Guadalajara,2–1,Atlético,2,1,1
+Vie,Puebla,0–1,Pachuca,0,1,0
+Dom,Toluca,3–2,UANL,3,2,1
+Sáb,Cruz Azul,3–2,FC Juárez,3,2,1
+Sáb,Mazatlán,0–0,UNAM,0,0,-1
+Sáb,Monterrey,1–1,Necaxa,1,1,-1
+Dom,Santos,0–0,Atlas,0,0,-1
+Dom,Querétaro,4–1,América,4,1,1
+Lun,León,2–1,Tijuana,2,1,1
+Sáb,Atlas,1–0,Querétaro,1,0,1
+Vie,Necaxa,2–1,Santos,2,1,1
+Vie,FC Juárez,0–0,León,0,0,-1
+Dom,Toluca,1–0,Guadalajara,1,0,1
+Sáb,UANL,1–1,UNAM,1,1,-1
+Sáb,América,1–3,Monterrey,1,3,0
+Dom,Tijuana,1–0,Puebla,1,0,1
+Dom,Atlético,1–3,Cruz Azul,1,3,0
+Lun,Pachuca,4–3,Mazatlán,4,3,1
+Vie,Puebla,4–1,Toluca,4,1,1
+Vie,Mazatlán,1–1,UANL,1,1,-1
+Dom,UNAM,3–0,Tijuana,3,0,1
+Sáb,Guadalajara,0–0,Pachuca,0,0,-1
+Sáb,Atlético,1–2,América,1,2,0
+Sáb,Cruz Azul,3–0,Necaxa,3,0,1
+Dom,Santos,2–1,Querétaro,2,1,1
+Dom,Monterrey,2–1,FC Juárez,2,1,1
+Lun,León,2–1,Atlas,2,1,1
+Mié,América,3–1,Mazatlán,3,1,1
+Jue,Querétaro,4–1,Toluca,4,1,1
+Jue,Pachuca,3–1,Atlético,3,1,1
+Sáb,UNAM,4–1,Puebla,4,1,1
+Vie,Tijuana,2–1,Monterrey,2,1,1
+Vie,Necaxa,0–2,León,0,2,0
+Vie,FC Juárez,1–1,Santos,1,1,-1
+Sáb,Atlas,1–0,Cruz Azul,1,0,1
+Sáb,UANL,1–3,Guadalajara,1,3,0
+Mar,Atlético,2–1,Necaxa,2,1,1
+Mié,León,1–1,UANL,1,1,-1
+Mar,Toluca,0–1,FC Juárez,0,1,0
+Mar,Monterrey,1–1,Atlas,1,1,-1
+Mar,Guadalajara,1–1,Querétaro,1,1,-1
+Mar,Puebla,2–3,América,2,3,0
+Mié,Cruz Azul,1–0,Pachuca,1,0,1
+Mié,Mazatlán,1–0,Tijuana,1,0,1
+Mié,Santos,1–2,UNAM,1,2,0
+Sáb,Atlas,1–1,Mazatlán,1,1,-1
+Vie,Necaxa,1–2,Guadalajara,1,2,0
+Vie,FC Juárez,1–0,Puebla,1,0,1
+Dom,UNAM,3–0,Atlético,3,0,1
+Sáb,UANL,2–0,Santos,2,0,1
+Sáb,América,1–1,Toluca,1,1,-1
+Dom,Querétaro,2–3,León,2,3,0
+Dom,Tijuana,1–2,Cruz Azul,1,2,0
+Lun,Pachuca,1–1,Monterrey,1,1,-1
+Sáb,Atlas,0–1,Pachuca,0,1,0
+Vie,Necaxa,0–1,Puebla,0,1,0
+Vie,Mazatlán,2–3,Cruz Azul,2,3,0
+Dom,Toluca,1–2,Santos,1,2,0
+Sáb,UANL,3–0,Querétaro,3,0,1
+Sáb,América,1–0,Guadalajara,1,0,1
+Dom,Atlético,1–2,Monterrey,1,2,0
+Lun,León,2–0,UNAM,2,0,1
+Jue,Pachuca,0–0,Toluca,0,0,-1
+Sáb,Guadalajara,2–1,Mazatlán,2,1,1
+Vie,Puebla,3–3,Querétaro,3,3,-1
+Vie,FC Juárez,0–1,Atlas,0,1,0
+Dom,Atlético,0–2,León,0,2,0
+Sáb,UNAM,1–1,Necaxa,1,1,-1
+Sáb,Monterrey,0–2,UANL,0,2,0
+Dom,Cruz Azul,0–0,América,0,0,-1
+Mié,Tijuana,2–1,FC Juárez,2,1,1
+Sáb,Atlas,0–1,Necaxa,0,1,0
+Vie,Puebla,0–2,Santos,0,2,0
+Vie,León,2–1,Mazatlán,2,1,1
+Dom,Toluca,2–0,Cruz Azul,2,0,1
+Dom,FC Juárez,1–1,Pachuca,1,1,-1
+Sáb,UANL,3–0,Atlético,3,0,1
+Sáb,América,2–2,UNAM,2,2,-1
+Dom,Querétaro,1–2,Monterrey,1,2,0
+Dom,Tijuana,0–0,Guadalajara,0,0,-1
+Dom,Santos,2–0,Tijuana,2,0,1
+Jue,Atlético,2–1,Querétaro,2,1,1
+Sáb,Monterrey,3–1,Puebla,3,1,1
+Vie,Necaxa,2–0,Tijuana,2,0,1
+Vie,Mazatlán,3–2,FC Juárez,3,2,1
+Dom,UNAM,1–0,Toluca,1,0,1
+Sáb,Guadalajara,3–2,Atlas,3,2,1
+Sáb,Cruz Azul,0–2,UANL,0,2,0
+Dom,Santos,1–1,Pachuca,1,1,-1
+Lun,León,3–2,América,3,2,1
+Sáb,Querétaro,0–1,Necaxa,0,1,0
+Vie,Puebla,1–2,León,1,2,0
+Dom,Toluca,2–0,Tijuana,2,0,1
+Dom,Guadalajara,0–2,Cruz Azul,0,2,0
+Sáb,UANL,1–1,FC Juárez,1,1,-1
+Sáb,Mazatlán,1–2,Monterrey,1,2,0
+Sáb,América,1–0,Atlas,1,0,1
+Dom,Santos,2–1,Atlético,2,1,1
+Lun,Pachuca,1–1,UNAM,1,1,-1
+Jue,Atlético,0–5,Mazatlán,0,5,0
+Sáb,Atlas,0–1,Puebla,0,1,0
+Vie,Necaxa,3–2,Toluca,3,2,1
+Vie,Tijuana,0–2,Pachuca,0,2,0
+Vie,FC Juárez,1–0,Querétaro,1,0,1
+Dom,América,3–1,UANL,3,1,1
+Sáb,UNAM,2–2,Guadalajara,2,2,-1
+Sáb,Monterrey,1–0,Cruz Azul,1,0,1
+Lun,León,2–1,Santos,2,1,1
+Sáb,Guadalajara,3–1,Monterrey,3,1,1
+Sáb,Pachuca,0–1,Necaxa,0,1,0
+Vie,Puebla,1–0,Atlético,1,0,1
+Vie,FC Juárez,1–1,América,1,1,-1
+Dom,Toluca,2–2,León,2,2,-1
+Sáb,UANL,1–1,Atlas,1,1,-1
+Sáb,Cruz Azul,1–2,UNAM,1,2,0
+Dom,Santos,4–0,Mazatlán,4,0,1
+Dom,Querétaro,2–2,Tijuana,2,2,-1
+Sáb,Santos,0–3,Pachuca,0,3,0
+Sáb,Guadalajara,1–0,Necaxa,1,0,1
+Dom,UANL,2–1,Toluca,2,1,1
+Dom,Monterrey,2–2,Puebla,2,2,-1
+Mié,Puebla,2–1,León,2,1,1
+Mié,Guadalajara,1–0,América,1,0,1
+Jue,UANL,1–3,Cruz Azul,1,3,0
+Jue,Pachuca,0–1,UNAM,0,1,0
+Dom,UNAM,0–0,Pachuca,0,0,-1
+Sáb,León,2–0,Puebla,2,0,1
+Sáb,América,1–2,Guadalajara,1,2,0
+Dom,Cruz Azul,0–1,UANL,0,1,0
+Mié,Guadalajara,1–1,León,1,1,-1
+Jue,Cruz Azul,4–0,UNAM,4,0,1
+Sáb,León,1–0,Guadalajara,1,0,1
+Dom,UNAM,4–0,Cruz Azul,4,0,1
+Jue,UNAM,1–1,León,1,1,-1
+Dom,León,2–0,UNAM,2,0,1
+Sáb,Atlas,0–2,Monterrey,0,2,0
+Vie,Tijuana,0–0,UNAM,0,0,-1
+Vie,Puebla,1–1,Guadalajara,1,1,-1
+Vie,Mazatlán,3–2,Necaxa,3,2,1
+Dom,Toluca,3–1,Querétaro,3,1,1
+Sáb,UANL,2–0,León,2,0,1
+Sáb,América,2–1,Atlético,2,1,1
+Dom,Santos,1–0,Cruz Azul,1,0,1
+Lun,Pachuca,1–1,FC Juárez,1,1,-1
+Sáb,Guadalajara,1–1,Toluca,1,1,-1
+Vie,Necaxa,1–0,Atlético,1,0,1
+Vie,FC Juárez,0–0,Tijuana,0,0,-1
+Dom,UNAM,3–0,Mazatlán,3,0,1
+Sáb,Cruz Azul,0–1,Puebla,0,1,0
+Sáb,Monterrey,1–0,América,1,0,1
+Dom,Santos,2–0,UANL,2,0,1
+Dom,Querétaro,1–0,Atlas,1,0,1
+Lun,León,0–0,Pachuca,0,0,-1
+Jue,Atlético,3–1,Guadalajara,3,1,1
+Vie,Puebla,0–1,Tijuana,0,1,0
+Vie,Mazatlán,0–0,Santos,0,0,-1
+Dom,Toluca,2–0,Necaxa,2,0,1
+Sáb,Atlas,0–2,UANL,0,2,0
+Dom,Querétaro,2–0,UNAM,2,0,1
+Lun,Pachuca,0–1,Cruz Azul,0,1,0
+Mar,América,2–0,FC Juárez,2,0,1
+Jue,UANL,1–1,Necaxa,1,1,-1
+Vie,Mazatlán,1–0,Pachuca,1,0,1
+Dom,UNAM,0–0,Atlas,0,0,-1
+Sáb,Guadalajara,1–2,FC Juárez,1,2,0
+Sáb,Tijuana,3–2,Toluca,3,2,1
+Sáb,Cruz Azul,4–1,Querétaro,4,1,1
+Dom,Santos,1–1,América,1,1,-1
+Lun,León,3–1,Atlético,3,1,1
+Mar,Puebla,0–0,Monterrey,0,0,-1
+Jue,Atlético,2–2,Tijuana,2,2,-1
+Jue,Querétaro,3–1,Pachuca,3,1,1
+Sáb,Atlas,1–1,Santos,1,1,-1
+Vie,Necaxa,0–2,Cruz Azul,0,2,0
+Dom,Toluca,4–1,Mazatlán,4,1,1
+Sáb,América,1–0,Puebla,1,0,1
+Sáb,Monterrey,1–0,UNAM,1,0,1
+Lun,León,1–3,Guadalajara,1,3,0
+Vie,Tijuana,2–0,León,2,0,1
+Vie,Puebla,4–0,FC Juárez,4,0,1
+Vie,Mazatlán,0–3,Atlético,0,3,0
+Dom,Toluca,1–0,UNAM,1,0,1
+Sáb,Guadalajara,2–2,Necaxa,2,2,-1
+Sáb,América,2–1,Querétaro,2,1,1
+Dom,Santos,1–0,Monterrey,1,0,1
+Lun,Pachuca,0–1,Atlas,0,1,0
+Mié,UANL,0–2,Cruz Azul,0,2,0
+Jue,Atlético,1–0,Santos,1,0,1
+Vie,Necaxa,1–1,Monterrey,1,1,-1
+Vie,FC Juárez,1–0,Mazatlán,1,0,1
+Dom,UNAM,0–1,León,0,1,0
+Dom,Querétaro,1–1,Puebla,1,1,-1
+Sáb,Cruz Azul,3–2,Toluca,3,2,1
+Sáb,Atlas,3–0,América,3,0,1
+Dom,UANL,3–2,Tijuana,3,2,1
+Lun,Pachuca,1–1,Guadalajara,1,1,-1
+Jue,Atlético,2–2,UANL,2,2,-1
+Sáb,Toluca,0–0,Atlas,0,0,-1
+Vie,Puebla,1–0,Necaxa,1,0,1
+Vie,Mazatlán,3–0,Querétaro,3,0,1
+Dom,Monterrey,1–1,Tijuana,1,1,-1
+Sáb,América,2–0,Pachuca,2,0,1
+Sáb,León,0–1,Cruz Azul,0,1,0
+Dom,Santos,3–2,FC Juárez,3,2,1
+Dom,Guadalajara,2–1,UNAM,2,1,1
+Mar,Atlas,3–1,Atlético,3,1,1
+Mar,UANL,0–1,Toluca,0,1,0
+Mar,León,1–2,Puebla,1,2,0
+Mié,FC Juárez,1–6,Monterrey,1,6,0
+Mié,Querétaro,2–2,Guadalajara,2,2,-1
+Mié,Tijuana,0–2,América,0,2,0
+Mié,Cruz Azul,1–0,Mazatlán,1,0,1
+Jue,Necaxa,2–2,Pachuca,2,2,-1
+Jue,UNAM,1–0,Santos,1,0,1
+Sáb,Atlas,2–0,FC Juárez,2,0,1
+Vie,Atlético,0–0,Toluca,0,0,-1
+Vie,Puebla,1–1,UANL,1,1,-1
+Sáb,América,2–1,León,2,1,1
+Sáb,Monterrey,2–1,Querétaro,2,1,1
+Sáb,Mazatlán,1–1,Guadalajara,1,1,-1
+Dom,Santos,3–1,Necaxa,3,1,1
+Dom,UNAM,0–1,Cruz Azul,0,1,0
+Lun,Pachuca,2–1,Tijuana,2,1,1
+Mié,Monterrey,1–1,León,1,1,-1
+Vie,Puebla,0–1,Atlas,0,1,0
+Vie,FC Juárez,1–1,UNAM,1,1,-1
+Dom,Toluca,0–2,Pachuca,0,2,0
+Sáb,UANL,1–2,Mazatlán,1,2,0
+Sáb,Tijuana,0–1,Santos,0,1,0
+Sáb,Cruz Azul,1–0,Monterrey,1,0,1
+Dom,Querétaro,2–1,Atlético,2,1,1
+Dom,Guadalajara,0–3,América,0,3,0
+Lun,León,3–1,Necaxa,3,1,1
+Jue,Pachuca,1–0,UANL,1,0,1
+Sáb,Atlético,0–1,UNAM,0,1,0
+Vie,Necaxa,1–0,FC Juárez,1,0,1
+Vie,Mazatlán,0–1,América,0,1,0
+Dom,Toluca,4–4,Puebla,4,4,-1
+Sáb,Cruz Azul,3–2,Atlas,3,2,1
+Sáb,Tijuana,3–1,Querétaro,3,1,1
+Dom,Santos,1–2,León,1,2,0
+Sáb,Atlas,1–0,Tijuana,1,0,1
+Vie,Puebla,3–1,Mazatlán,3,1,1
+Vie,FC Juárez,0–1,Cruz Azul,0,1,0
+Dom,UNAM,2–2,Pachuca,2,2,-1
+Dom,Guadalajara,1–1,Santos,1,1,-1
+Sáb,América,2–1,Necaxa,2,1,1
+Sáb,Monterrey,2–0,Atlético,2,0,1
+Dom,Querétaro,0–1,UANL,0,1,0
+Dom,León,2–1,Toluca,2,1,1
+Sáb,Atlas,1–3,León,1,3,0
+Vie,Necaxa,0–1,UNAM,0,1,0
+Vie,FC Juárez,2–1,Atlético,2,1,1
+Dom,Toluca,1–2,Monterrey,1,2,0
+Sáb,Cruz Azul,1–0,Guadalajara,1,0,1
+Sáb,UANL,1–3,América,1,3,0
+Dom,Querétaro,1–0,Santos,1,0,1
+Dom,Tijuana,2–3,Mazatlán,2,3,0
+Lun,Pachuca,1–3,Puebla,1,3,0
+Mié,FC Juárez,2–3,UANL,2,3,0
+Sáb,Atlético,1–4,Puebla,1,4,0
+Vie,Necaxa,0–0,Querétaro,0,0,-1
+Vie,Mazatlán,0–0,Atlas,0,0,-1
+Dom,UNAM,0–0,UANL,0,0,-1
+Sáb,Guadalajara,2–0,Tijuana,2,0,1
+Sáb,América,1–1,Cruz Azul,1,1,-1
+Dom,Santos,3–1,Toluca,3,1,1
+Dom,Monterrey,0–1,Pachuca,0,1,0
+Lun,León,2–0,FC Juárez,2,0,1
+Mié,Monterrey,1–2,Guadalajara,1,2,0
+Sáb,Cruz Azul,3–2,Atlético,3,2,1
+Vie,Tijuana,1–0,Necaxa,1,0,1
+Vie,Puebla,0–0,UNAM,0,0,-1
+Vie,Mazatlán,4–3,León,4,3,1
+Dom,Toluca,3–1,América,3,1,1
+Sáb,Atlas,0–1,Guadalajara,0,1,0
+Sáb,UANL,2–1,Monterrey,2,1,1
+Dom,Querétaro,1–0,FC Juárez,1,0,1
+Lun,Pachuca,1–0,Santos,1,0,1
+Jue,Atlético,1–5,Pachuca,1,5,0
+Sáb,Guadalajara,0–0,UANL,0,0,-1
+Sáb,León,2–1,Querétaro,2,1,1
+Vie,Necaxa,1–5,Atlas,1,5,0
+Vie,FC Juárez,1–0,Toluca,1,0,1
+Sáb,Cruz Azul,1–1,Tijuana,1,1,-1
+Sáb,Monterrey,1–0,Mazatlán,1,0,1
+Dom,Santos,0–0,Puebla,0,0,-1
+Dom,UNAM,0–1,América,0,1,0
+Sáb,Atlas,1–0,UANL,1,0,1
+Sáb,Santos,5–0,Querétaro,5,0,1
+Dom,León,2–2,Toluca,2,2,-1
+Dom,Pachuca,4–2,Guadalajara,4,2,1
+Mié,Toluca,2–1,Cruz Azul,2,1,1
+Mié,Atlas,1–0,Puebla,1,0,1
+Jue,Pachuca,3–1,América,3,1,1
+Jue,Santos,2–1,Monterrey,2,1,1
+Sáb,Puebla,1–0,Atlas,1,0,1
+Dom,Monterrey,1–1,Santos,1,1,-1
+Sáb,Cruz Azul,3–1,Toluca,3,1,1
+Dom,América,4–2,Pachuca,4,2,1
+Mié,Pachuca,0–0,Cruz Azul,0,0,-1
+Jue,Santos,3–0,Puebla,3,0,1
+Sáb,Cruz Azul,1–0,Pachuca,1,0,1
+Dom,Puebla,1–0,Santos,1,0,1
+Jue,Santos,0–1,Cruz Azul,0,1,0
+Dom,Cruz Azul,1–1,Santos,1,1,-1
+Jue,Querétaro,0–0,América,0,0,-1
+Sáb,Pachuca,4–0,León,4,0,1
+Vie,Necaxa,0–3,Santos,0,3,0
+Vie,FC Juárez,1–3,Toluca,1,3,0
+Dom,UNAM,0–0,Atlas,0,0,-1
+Sáb,Guadalajara,1–2,Atlético,1,2,0
+Dom,Monterrey,1–1,Puebla,1,1,-1
+Dom,Tijuana,1–2,UANL,1,2,0
+Lun,Cruz Azul,0–2,Mazatlán,0,2,0
+Sáb,León,2–1,Tijuana,2,1,1
+Vie,Mazatlán,2–1,Pachuca,2,1,1
+Vie,Puebla,0–2,Guadalajara,0,2,0
+Dom,Toluca,3–1,UANL,3,1,1
+Dom,Santos,1–1,Cruz Azul,1,1,-1
+Sáb,América,2–1,Necaxa,2,1,1
+Sáb,Monterrey,2–0,UNAM,2,0,1
+Sáb,Atlas,2–0,FC Juárez,2,0,1
+Lun,Atlético,1–1,Querétaro,1,1,-1
+Jue,Querétaro,0–1,León,0,1,0
+Sáb,Guadalajara,2–2,FC Juárez,2,2,-1
+Vie,Mazatlán,1–1,Monterrey,1,1,-1
+Vie,Tijuana,0–2,Toluca,0,2,0
+Vie,Necaxa,1–2,Cruz Azul,1,2,0
+Dom,UNAM,1–3,Atlético,1,3,0
+Sáb,América,2–0,Puebla,2,0,1
+Sáb,UANL,1–1,Santos,1,1,-1
+Lun,Pachuca,0–1,Atlas,0,1,0
+Jue,Atlético,0–2,Necaxa,0,2,0
+Sáb,UNAM,0–0,Querétaro,0,0,-1
+Vie,Puebla,1–1,UANL,1,1,-1
+Vie,FC Juárez,1–1,Tijuana,1,1,-1
+Dom,Atlas,0–1,América,0,1,0
+Sáb,León,3–0,Mazatlán,3,0,1
+Sáb,Cruz Azul,4–0,Toluca,4,0,1
+Sáb,Monterrey,3–1,Pachuca,3,1,1
+Dom,Santos,0–0,Guadalajara,0,0,-1
+Mar,Toluca,2–2,Mazatlán,2,2,-1
+Mar,UANL,3–0,Querétaro,3,0,1
+Mar,Tijuana,1–1,Puebla,1,1,-1
+Mar,Necaxa,3–0,UNAM,3,0,1
+Mié,Santos,1–1,Atlas,1,1,-1
+Mié,Cruz Azul,1–1,Monterrey,1,1,-1
+Mié,FC Juárez,1–2,América,1,2,0
+Mié,Guadalajara,0–3,León,0,3,0
+Sáb,Atlas,0–0,Toluca,0,0,-1
+Vie,Mazatlán,0–3,UANL,0,3,0
+Dom,UNAM,2–0,Puebla,2,0,1
+Dom,América,2–0,Tijuana,2,0,1
+Sáb,León,1–1,Santos,1,1,-1
+Sáb,Atlético,0–0,Cruz Azul,0,0,-1
+Sáb,Monterrey,0–0,Guadalajara,0,0,-1
+Dom,Necaxa,1–0,FC Juárez,1,0,1
+Dom,Querétaro,0–2,Pachuca,0,2,0
+Sáb,Guadalajara,2–1,Necaxa,2,1,1
+Vie,Mazatlán,2–2,Atlético,2,2,-1
+Vie,Tijuana,2–2,Monterrey,2,2,-1
+Vie,Puebla,1–0,Querétaro,1,0,1
+Dom,Toluca,2–1,UNAM,2,1,1
+Dom,Santos,2–0,FC Juárez,2,0,1
+Sáb,UANL,1–1,Atlas,1,1,-1
+Sáb,León,1–1,América,1,1,-1
+Dom,Cruz Azul,1–1,Pachuca,1,1,-1
+Sáb,Atlas,2–1,Monterrey,2,1,1
+Vie,Puebla,2–2,Atlético,2,2,-1
+Vie,Tijuana,2–1,Santos,2,1,1
+Vie,FC Juárez,2–1,Cruz Azul,2,1,1
+Dom,UNAM,0–0,Guadalajara,0,0,-1
+Sáb,UANL,2–2,León,2,2,-1
+Sáb,América,2–0,Mazatlán,2,0,1
+Dom,Querétaro,3–0,Necaxa,3,0,1
+Lun,Pachuca,1–2,Toluca,1,2,0
+Jue,Atlético,4–1,Tijuana,4,1,1
+Sáb,León,0–1,FC Juárez,0,1,0
+Vie,Necaxa,0–3,Atlas,0,3,0
+Sáb,Toluca,3–1,América,3,1,1
+Sáb,Mazatlán,2–2,UNAM,2,2,-1
+Sáb,Guadalajara,1–0,Pachuca,1,0,1
+Dom,Cruz Azul,2–0,Querétaro,2,0,1
+Dom,Monterrey,2–0,UANL,2,0,1
+Dom,Santos,1–1,Puebla,1,1,-1
+Mar,FC Juárez,1–0,Atlético,1,0,1
+Mié,Monterrey,2–0,Toluca,2,0,1
+Jue,Pachuca,1–0,Necaxa,1,0,1
+Sáb,Atlas,2–0,León,2,0,1
+Vie,Tijuana,0–0,Mazatlán,0,0,-1
+Vie,Puebla,1–1,Cruz Azul,1,1,-1
+Dom,Toluca,1–2,Atlético,1,2,0
+Sáb,UANL,0–0,UNAM,0,0,-1
+Sáb,América,0–0,Guadalajara,0,0,-1
+Dom,Santos,1–2,Monterrey,1,2,0
+Mar,Necaxa,3–0,Tijuana,3,0,1
+Mié,Atlético,0–3,UANL,0,3,0
+Mar,Mazatlán,3–1,FC Juárez,3,1,1
+Mar,Atlas,0–1,Puebla,0,1,0
+Mar,Pachuca,1–1,América,1,1,-1
+Mié,Querétaro,1–0,Guadalajara,1,0,1
+Sáb,León,0–0,Atlético,0,0,-1
+Vie,Puebla,1–2,Pachuca,1,2,0
+Vie,FC Juárez,3–1,Monterrey,3,1,1
+Dom,Toluca,1–1,Querétaro,1,1,-1
+Dom,América,2–0,UNAM,2,0,1
+Sáb,Santos,1–0,Mazatlán,1,0,1
+Sáb,Guadalajara,0–1,Atlas,0,1,0
+Dom,UANL,0–0,Necaxa,0,0,-1
+Dom,Tijuana,0–1,Cruz Azul,0,1,0
+Vie,FC Juárez,0–0,Querétaro,0,0,-1
+Jue,Querétaro,1–1,Tijuana,1,1,-1
+Sáb,Monterrey,0–1,León,0,1,0
+Vie,Necaxa,0–1,Puebla,0,1,0
+Vie,Mazatlán,1–0,Atlas,1,0,1
+Dom,UNAM,1–0,FC Juárez,1,0,1
+Dom,Guadalajara,2–0,Toluca,2,0,1
+Sáb,Atlético,0–1,América,0,1,0
+Sáb,Pachuca,1–1,Santos,1,1,-1
+Sáb,Cruz Azul,1–1,UANL,1,1,-1
+Mar,Querétaro,1–0,Monterrey,1,0,1
+Mar,Puebla,2–0,Mazatlán,2,0,1
+Mar,América,2–1,Santos,2,1,1
+Mar,Atlas,0–0,Cruz Azul,0,0,-1
+Mié,León,1–2,UNAM,1,2,0
+Mié,Toluca,1–1,Necaxa,1,1,-1
+Mié,Tijuana,0–0,Guadalajara,0,0,-1
+Mié,UANL,3–0,Pachuca,3,0,1
+Sáb,Puebla,0–1,León,0,1,0
+Sáb,Monterrey,0–1,Necaxa,0,1,0
+Vie,Mazatlán,2–1,Querétaro,2,1,1
+Dom,UNAM,3–1,Tijuana,3,1,1
+Sáb,América,1–0,UANL,1,0,1
+Sáb,Guadalajara,1–1,Cruz Azul,1,1,-1
+Dom,Atlético,2–6,Atlas,2,6,0
+Dom,Santos,2–2,Toluca,2,2,-1
+Dom,Pachuca,1–1,FC Juárez,1,1,-1
+Jue,Atlas,0–2,Tijuana,0,2,0
+Sáb,Querétaro,2–3,Santos,2,3,0
+Vie,Necaxa,2–1,Mazatlán,2,1,1
+Vie,FC Juárez,0–2,Puebla,0,2,0
+Dom,Toluca,0–0,León,0,0,-1
+Dom,Cruz Azul,2–1,América,2,1,1
+Sáb,Pachuca,1–1,UNAM,1,1,-1
+Sáb,UANL,2–1,Guadalajara,2,1,1
+Dom,Atlético,1–1,Monterrey,1,1,-1
+Mié,Pachuca,0–0,Atlético,0,0,-1
+Mié,Cruz Azul,0–1,León,0,1,0
+Jue,UNAM,0–3,Santos,0,3,0
+Jue,Atlas,2–0,Querétaro,2,0,1
+Sáb,León,3–0,Necaxa,3,0,1
+Vie,Puebla,1–0,Toluca,1,0,1
+Vie,Mazatlán,0–1,Guadalajara,0,1,0
+Dom,UNAM,4–3,Cruz Azul,4,3,1
+Sáb,América,0–0,Monterrey,0,0,-1
+Sáb,Tijuana,3–2,Pachuca,3,2,1
+Sáb,UANL,3–0,FC Juárez,3,0,1
+Dom,Santos,0–0,Atlético,0,0,-1
+Dom,Toluca,1–2,UNAM,1,2,0
+Sáb,Santos,2–0,Atlético,2,0,1
+Sáb,Puebla,2–2,Guadalajara,2,2,-1
+Dom,Cruz Azul,1–4,Monterrey,1,4,0
+Mié,UNAM,0–0,América,0,0,-1
+Mié,Monterrey,0–0,Atlas,0,0,-1
+Jue,Puebla,2–1,León,2,1,1
+Jue,Santos,2–1,UANL,2,1,1
+Sáb,América,1–3,UNAM,1,3,0
+Sáb,Atlas,1–1,Monterrey,1,1,-1
+Dom,UANL,1–0,Santos,1,0,1
+Dom,León,2–0,Puebla,2,0,1
+Mié,UANL,2–1,León,2,1,1
+Jue,UNAM,0–1,Atlas,0,1,0
+Sáb,León,2–1,UANL,2,1,1
+Dom,Atlas,0–1,UNAM,0,1,0
+Jue,León,3–2,Atlas,3,2,1
+Dom,Atlas,1–0,León,1,0,1
+Jue,Atlético,0–2,Pachuca,0,2,0
+Vie,FC Juárez,2–1,Necaxa,2,1,1
+Vie,Puebla,1–1,América,1,1,-1
+Sáb,Monterrey,0–0,Querétaro,0,0,-1
+Sáb,Cruz Azul,2–0,Tijuana,2,0,1
+Dom,Guadalajara,3–0,Mazatlán,3,0,1
+Lun,UNAM,5–0,Toluca,5,0,1
+Mié,Santos,1–1,UANL,1,1,-1
+Sáb,Atlas,1–0,Atlético,1,0,1
+Vie,Querétaro,1–3,UNAM,1,3,0
+Vie,Necaxa,0–4,Monterrey,0,4,0
+Dom,Toluca,3–1,Santos,3,1,1
+Dom,Pachuca,2–1,Guadalajara,2,1,1
+Sáb,UANL,0–2,Puebla,0,2,0
+Sáb,Tijuana,1–1,León,1,1,-1
+Sáb,Cruz Azul,1–0,FC Juárez,1,0,1
+Mié,León,1–1,Atlas,1,1,-1
+Jue,Atlético,0–1,FC Juárez,0,1,0
+Sáb,Guadalajara,1–1,Querétaro,1,1,-1
+Vie,Mazatlán,1–2,Toluca,1,2,0
+Dom,UNAM,1–2,UANL,1,2,0
+Sáb,León,2–1,Pachuca,2,1,1
+Sáb,América,0–2,Atlas,0,2,0
+Sáb,Monterrey,2–2,Cruz Azul,2,2,-1
+Dom,Santos,1–4,Necaxa,1,4,0
+Vie,Puebla,3–1,Tijuana,3,1,1
+Sáb,Necaxa,1–3,Pachuca,1,3,0
+Dom,Querétaro,0–2,Puebla,0,2,0
+Sáb,América,2–3,Atlético,2,3,0
+Sáb,Tijuana,1–0,UNAM,1,0,1
+Dom,Atlas,2–1,Santos,2,1,1
+Dom,UANL,4–3,Mazatlán,4,3,1
+Lun,León,0–1,Cruz Azul,0,1,0
+Mié,FC Juárez,1–3,Guadalajara,1,3,0
+Sáb,Guadalajara,1–3,UANL,1,3,0
+Sáb,Atlético,0–1,Toluca,0,1,0
+Vie,Mazatlán,2–0,Tijuana,2,0,1
+Vie,Puebla,1–1,Atlas,1,1,-1
+Dom,UNAM,2–1,León,2,1,1
+Sáb,Cruz Azul,1–2,Necaxa,1,2,0
+Sáb,Santos,2–3,América,2,3,0
+Lun,Pachuca,2–2,Querétaro,2,2,-1
+Mié,Mazatlán,2–1,América,2,1,1
+Sáb,Querétaro,2–0,Mazatlán,2,0,1
+Vie,Puebla,1–0,Monterrey,1,0,1
+Vie,Tijuana,1–1,Necaxa,1,1,-1
+Vie,FC Juárez,0–0,Santos,0,0,-1
+Dom,América,1–3,Pachuca,1,3,0
+Sáb,UANL,2–1,Atlético,2,1,1
+Sáb,León,2–1,Guadalajara,2,1,1
+Dom,Toluca,1–4,Cruz Azul,1,4,0
+Dom,Atlas,0–0,UNAM,0,0,-1
+Jue,Pachuca,3–1,Mazatlán,3,1,1
+Jue,Querétaro,1–1,Toluca,1,1,-1
+Sáb,Monterrey,0–2,Atlético,0,2,0
+Vie,Necaxa,0–1,León,0,1,0
+Vie,Tijuana,2–0,Atlas,2,0,1
+Vie,FC Juárez,2–3,UANL,2,3,0
+Sáb,Guadalajara,2–3,Puebla,2,3,0
+Sáb,UNAM,0–0,América,0,0,-1
+Dom,Cruz Azul,1–2,Santos,1,2,0
+Mar,Puebla,1–1,FC Juárez,1,1,-1
+Mar,Toluca,1–2,Tijuana,1,2,0
+Mar,Mazatlán,0–0,Necaxa,0,0,-1
+Mar,América,1–1,Querétaro,1,1,-1
+Mar,León,0–0,Monterrey,0,0,-1
+Mié,Atlas,0–1,Pachuca,0,1,0
+Mié,UANL,2–2,Cruz Azul,2,2,-1
+Mié,Atlético,2–2,Guadalajara,2,2,-1
+Mié,Santos,3–2,UNAM,3,2,1
+Sáb,Querétaro,0–3,Atlas,0,3,0
+Vie,Necaxa,0–1,Toluca,0,1,0
+Vie,FC Juárez,0–1,León,0,1,0
+Sáb,Monterrey,2–1,América,2,1,1
+Sáb,Guadalajara,1–0,Santos,1,0,1
+Sáb,Cruz Azul,1–3,Puebla,1,3,0
+Sáb,León,0–3,UANL,0,3,0
+Vie,Necaxa,1–0,Querétaro,1,0,1
+Vie,FC Juárez,1–2,Atlas,1,2,0
+Vie,Monterrey,2–1,Mazatlán,2,1,1
+Dom,Toluca,0–3,Pachuca,0,3,0
+Dom,Atlético,2–1,Puebla,2,1,1
+Sáb,Cruz Azul,2–1,UNAM,2,1,1
+Sáb,Guadalajara,0–0,América,0,0,-1
+Dom,Santos,4–0,Tijuana,4,0,1
+Mar,Monterrey,3–0,FC Juárez,3,0,1
+Jue,Querétaro,2–1,Atlético,2,1,1
+Sáb,UNAM,1–3,Necaxa,1,3,0
+Vie,Puebla,2–2,Santos,2,2,-1
+Dom,América,3–0,Toluca,3,0,1
+Sáb,UANL,2–0,Monterrey,2,0,1
+Sáb,Pachuca,1–0,Cruz Azul,1,0,1
+Dom,Atlas,1–1,Guadalajara,1,1,-1
+Dom,Mazatlán,1–2,León,1,2,0
+Dom,Tijuana,1–0,FC Juárez,1,0,1
+Sáb,UNAM,1–1,Mazatlán,1,1,-1
+Sáb,Cruz Azul,1–0,Atlas,1,0,1
+Vie,Atlético,1–0,Mazatlán,1,0,1
+Dom,Toluca,2–1,Puebla,2,1,1
+Dom,León,1–1,Querétaro,1,1,-1
+Sáb,Necaxa,0–1,América,0,1,0
+Sáb,FC Juárez,0–1,UNAM,0,1,0
+Dom,UANL,2–0,Tijuana,2,0,1
+Dom,Santos,3–1,Pachuca,3,1,1
+Mié,Toluca,2–2,Monterrey,2,2,-1
+Mié,Tijuana,1–1,Atlético,1,1,-1
+Jue,Pachuca,2–1,UANL,2,1,1
+Jue,Atlas,2–1,Necaxa,2,1,1
+Sáb,Atlético,2–0,León,2,0,1
+Vie,Puebla,2–2,UNAM,2,2,-1
+Vie,Mazatlán,1–1,Cruz Azul,1,1,-1
+Sáb,Toluca,1–1,Guadalajara,1,1,-1
+Sáb,Monterrey,1–0,Santos,1,0,1
+Sáb,América,3–0,FC Juárez,3,0,1
+Dom,Querétaro,0–1,UANL,0,1,0
+Lun,Pachuca,0–0,Tijuana,0,0,-1
+Mié,Guadalajara,1–3,Monterrey,1,3,0
+Jue,Atlas,1–2,Mazatlán,1,2,0
+Sáb,León,0–1,Puebla,0,1,0
+Vie,Necaxa,4–2,Atlético,4,2,1
+Vie,Tijuana,1–3,América,1,3,0
+Vie,FC Juárez,1–2,Pachuca,1,2,0
+Dom,UNAM,2–0,Monterrey,2,0,1
+Sáb,Santos,1–1,Querétaro,1,1,-1
+Sáb,UANL,3–0,Toluca,3,0,1
+Sáb,Cruz Azul,0–1,Guadalajara,0,1,0
+Mar,Pachuca,1–0,Puebla,1,0,1
+Mar,Necaxa,2–0,UANL,2,0,1
+Mar,Mazatlán,1–0,Santos,1,0,1
+Mar,Guadalajara,2–1,Tijuana,2,1,1
+Mar,Toluca,0–1,FC Juárez,0,1,0
+Mié,Atlético,2–0,UNAM,2,0,1
+Mié,América,2–0,León,2,0,1
+Mié,Monterrey,0–0,Atlas,0,0,-1
+Jue,Querétaro,0–1,Cruz Azul,0,1,0
+Sáb,Pachuca,3–0,Monterrey,3,0,1
+Vie,Puebla,0–1,Necaxa,0,1,0
+Vie,FC Juárez,0–2,Mazatlán,0,2,0
+Dom,Toluca,2–4,Atlas,2,4,0
+Dom,Cruz Azul,0–1,Atlético,0,1,0
+Sáb,UANL,0–2,América,0,2,0
+Sáb,Guadalajara,3–1,UNAM,3,1,1
+Dom,Santos,1–1,León,1,1,-1
+Dom,Tijuana,2–2,Querétaro,2,2,-1
+Sáb,Querétaro,4–0,FC Juárez,4,0,1
+Vie,Necaxa,0–1,Guadalajara,0,1,0
+Vie,Mazatlán,2–1,Puebla,2,1,1
+Dom,UNAM,2–0,Pachuca,2,0,1
+Dom,Atlético,1–3,Santos,1,3,0
+Sáb,Atlas,1–1,UANL,1,1,-1
+Sáb,Monterrey,2–0,Tijuana,2,0,1
+Sáb,América,0–0,Cruz Azul,0,0,-1
+Dom,León,4–4,Toluca,4,4,-1
+Sáb,Cruz Azul,1–1,Necaxa,1,1,-1
+Dom,Puebla,2–2,Mazatlán,2,2,-1
+Sáb,Monterrey,2–2,Atlético,2,2,-1
+Dom,Guadalajara,4–1,UNAM,4,1,1
+Mié,Atlético,2–2,Pachuca,2,2,-1
+Mié,Puebla,1–1,América,1,1,-1
+Jue,Cruz Azul,0–1,UANL,0,1,0
+Jue,Guadalajara,1–2,Atlas,1,2,0
+Sáb,América,3–2,Puebla,3,2,1
+Dom,Atlas,1–1,Guadalajara,1,1,-1
+Sáb,Pachuca,3–2,Atlético,3,2,1
+Dom,UANL,0–1,Cruz Azul,0,1,0
+Mié,Atlas,3–0,UANL,3,0,1
+Jue,América,1–1,Pachuca,1,1,-1
+Sáb,UANL,4–2,Atlas,4,2,1
+Dom,Pachuca,3–0,América,3,0,1
+Jue,Atlas,2–0,Pachuca,2,0,1
+Dom,Pachuca,2–1,Atlas,2,1,1
+Sáb,Necaxa,1–3,Toluca,1,3,0
+Sáb,Guadalajara,0–0,FC Juárez,0,0,-1
+Vie,Mazatlán,2–4,Puebla,2,4,0
+Dom,UNAM,1–1,Tijuana,1,1,-1
+Dom,Atlético,1–2,León,1,2,0
+Sáb,UANL,2–3,Cruz Azul,2,3,0
+Sáb,América,0–0,Atlas,0,0,-1
+Dom,Santos,4–3,Monterrey,4,3,1
+Lun,Pachuca,2–0,Querétaro,2,0,1
+Vie,Mazatlán,0–1,UANL,0,1,0
+Vie,Tijuana,0–2,FC Juárez,0,2,0
+Vie,Puebla,1–0,Santos,1,0,1
+Dom,Toluca,3–2,Atlas,3,2,1
+Dom,Querétaro,1–2,Necaxa,1,2,0
+Sáb,León,3–3,UNAM,3,3,-1
+Sáb,Guadalajara,0–1,Atlético,0,1,0
+Sáb,Monterrey,3–2,América,3,2,1
+Sáb,Cruz Azul,1–2,Pachuca,1,2,0
+Mié,América,1–0,Toluca,1,0,1
+Sáb,Atlas,3–2,Cruz Azul,3,2,1
+Vie,Puebla,1–1,León,1,1,-1
+Vie,FC Juárez,1–1,Querétaro,1,1,-1
+Dom,UNAM,1–0,Necaxa,1,0,1
+Dom,Atlético,0–1,Monterrey,0,1,0
+Sáb,Santos,1–1,Guadalajara,1,1,-1
+Dom,UANL,1–0,Tijuana,1,0,1
+Lun,Pachuca,1–1,Mazatlán,1,1,-1
+Mié,Guadalajara,0–0,León,0,0,-1
+Jue,Querétaro,0–3,Monterrey,0,3,0
+Sáb,Toluca,2–1,Santos,2,1,1
+Vie,Mazatlán,1–1,Atlético,1,1,-1
+Vie,Necaxa,1–0,FC Juárez,1,0,1
+Sáb,Tijuana,2–0,América,2,0,1
+Sáb,Cruz Azul,2–2,Puebla,2,2,-1
+Sáb,UANL,2–0,Atlas,2,0,1
+Dom,Pachuca,0–0,UNAM,0,0,-1
+Mar,FC Juárez,0–1,UANL,0,1,0
+Mar,Monterrey,1–0,Puebla,1,0,1
+Mar,Atlas,1–2,Tijuana,1,2,0
+Mar,Atlético,0–0,Cruz Azul,0,0,-1
+Mar,León,0–1,Toluca,0,1,0
+Mié,Necaxa,2–0,Pachuca,2,0,1
+Mié,Querétaro,2–2,Guadalajara,2,2,-1
+Mié,UNAM,1–1,Mazatlán,1,1,-1
+Sáb,Cruz Azul,1–0,Necaxa,1,0,1
+Vie,FC Juárez,1–1,Toluca,1,1,-1
+Dom,UNAM,1–1,Monterrey,1,1,-1
+Sáb,Tijuana,2–0,Mazatlán,2,0,1
+Sáb,UANL,2–1,Querétaro,2,1,1
+Sáb,Guadalajara,0–0,Pachuca,0,0,-1
+Sáb,Puebla,0–0,Atlético,0,0,-1
+Dom,Santos,1–0,Atlas,1,0,1
+Dom,León,3–2,América,3,2,1
+Mar,Toluca,1–1,Puebla,1,1,-1
+Mié,FC Juárez,1–1,Atlético,1,1,-1
+Jue,Atlas,3–1,Querétaro,3,1,1
+Vie,Mazatlán,2–1,Guadalajara,2,1,1
+Dom,Toluca,3–1,Tijuana,3,1,1
+Dom,Atlético,1–2,Necaxa,1,2,0
+Dom,Pachuca,2–0,UANL,2,0,1
+Sáb,Monterrey,5–1,León,5,1,1
+Sáb,Santos,4–0,Cruz Azul,4,0,1
+Dom,América,2–1,FC Juárez,2,1,1
+Jue,Querétaro,1–1,Atlético,1,1,-1
+Sáb,León,0–3,Mazatlán,0,3,0
+Vie,Tijuana,3–3,Puebla,3,3,-1
+Vie,Necaxa,1–2,Monterrey,1,2,0
+Dom,Cruz Azul,2–3,Toluca,2,3,0
+Sáb,UNAM,0–3,América,0,3,0
+Sáb,Guadalajara,1–1,Atlas,1,1,-1
+Dom,UANL,2–0,Santos,2,0,1
+Mar,Mazatlán,1–1,Querétaro,1,1,-1
+Mar,Atlas,0–1,FC Juárez,0,1,0
+Mar,Puebla,2–2,Necaxa,2,2,-1
+Mié,Toluca,1–1,Monterrey,1,1,-1
+Mié,Pachuca,0–3,América,0,3,0
+Mié,Cruz Azul,1–2,Tijuana,1,2,0
+Jue,Santos,2–1,León,2,1,1
+Jue,Atlético,3–2,UNAM,3,2,1
+Sáb,Querétaro,2–0,Tijuana,2,0,1
+Vie,Necaxa,0–4,Guadalajara,0,4,0
+Dom,UNAM,1–5,Santos,1,5,0
+Dom,Atlético,1–0,Toluca,1,0,1
+Sáb,Atlas,1–1,Puebla,1,1,-1
+Sáb,Monterrey,0–0,UANL,0,0,-1
+Sáb,FC Juárez,1–1,Mazatlán,1,1,-1
+Sáb,América,7–0,Cruz Azul,7,0,1
+Dom,Pachuca,1–0,León,1,0,1
+Mar,Guadalajara,1–0,Monterrey,1,0,1
+Mar,Querétaro,0–1,América,0,1,0
+Mié,UNAM,1–1,UANL,1,1,-1
+Jue,Pachuca,3–1,Atlas,3,1,1
+Jue,Tijuana,0–2,Santos,0,2,0
+Sáb,Cruz Azul,2–1,Querétaro,2,1,1
+Vie,Puebla,2–2,FC Juárez,2,2,-1
+Vie,Mazatlán,1–3,América,1,3,0
+Dom,Toluca,1–4,Pachuca,1,4,0
+Sáb,UANL,0–0,Necaxa,0,0,-1
+Sáb,Guadalajara,3–1,UNAM,3,1,1
+Dom,León,4–2,Atlas,4,2,1
+Dom,Tijuana,0–3,Monterrey,0,3,0
+Dom,Santos,4–1,Atlético,4,1,1
+Jue,Atlético,0–0,Tijuana,0,0,-1
+Jue,Querétaro,1–1,Puebla,1,1,-1
+Sáb,Pachuca,2–0,Santos,2,0,1
+Vie,Necaxa,3–2,León,3,2,1
+Vie,FC Juárez,2–2,Cruz Azul,2,2,-1
+Dom,Toluca,0–0,Guadalajara,0,0,-1
+Sáb,Atlas,0–0,UNAM,0,0,-1
+Sáb,Monterrey,0–0,Mazatlán,0,0,-1
+Sáb,América,2–1,UANL,2,1,1
+Mar,León,1–0,FC Juárez,1,0,1
+Mar,Santos,3–1,Necaxa,3,1,1
+Mar,América,3–0,Atlético,3,0,1
+Mar,Monterrey,3–2,Cruz Azul,3,2,1
+Mié,Puebla,2–2,Pachuca,2,2,-1
+Mié,UANL,3–1,Toluca,3,1,1
+Mié,Tijuana,1–2,Guadalajara,1,2,0
+Mié,Mazatlán,1–0,Atlas,1,0,1
+Mié,UNAM,4–1,Querétaro,4,1,1
+Sáb,Querétaro,3–3,Santos,3,3,-1
+Vie,FC Juárez,0–1,Monterrey,0,1,0
+Dom,Cruz Azul,2–0,Mazatlán,2,0,1
+Dom,Atlas,1–3,Atlético,1,3,0
+Sáb,Necaxa,1–2,América,1,2,0
+Sáb,UANL,0–1,León,0,1,0
+Sáb,Guadalajara,1–0,Puebla,1,0,1
+Sáb,Toluca,2–2,UNAM,2,2,-1
+Dom,Pachuca,6–1,Tijuana,6,1,1
+Mar,Guadalajara,1–4,UANL,1,4,0
+Mié,FC Juárez,2–1,Pachuca,2,1,1
+Mié,América,3–3,Santos,3,3,-1
+Jue,Cruz Azul,2–1,León,2,1,1
+Vie,Puebla,2–1,UANL,2,1,1
+Vie,Mazatlán,1–1,Toluca,1,1,-1
+Dom,UNAM,1–2,Cruz Azul,1,2,0
+Sáb,Monterrey,2–0,Atlas,2,0,1
+Sáb,América,2–1,Guadalajara,2,1,1
+Dom,Santos,2–0,FC Juárez,2,0,1
+Dom,León,3–1,Querétaro,3,1,1
+Dom,Tijuana,1–1,Necaxa,1,1,-1
+Dom,Atlético,1–2,Pachuca,1,2,0
+Vie,Necaxa,2–2,Mazatlán,2,2,-1
+Vie,Puebla,2–1,UNAM,2,1,1
+Sáb,Atlético,0–3,UANL,0,3,0
+Sáb,Monterrey,0–0,Pachuca,0,0,-1
+Vie,Puebla,1–2,América,1,2,0
+Vie,FC Juárez,3–1,UNAM,3,1,1
+Dom,Toluca,4–1,Querétaro,4,1,1
+Dom,Santos,3–0,Mazatlán,3,0,1
+Sáb,Atlas,1–0,Necaxa,1,0,1
+Sáb,Cruz Azul,2–1,Guadalajara,2,1,1
+Dom,León,2–2,Tijuana,2,2,-1
+Dom,Toluca,3–0,FC Juárez,3,0,1
+Dom,Puebla,1–1,Guadalajara,1,1,-1
+Sáb,UANL,2–0,Necaxa,2,0,1
+Sáb,Cruz Azul,1–0,León,1,0,1
+Mié,Puebla,1–6,América,1,6,0
+Mié,Cruz Azul,0–0,Monterrey,0,0,-1
+Jue,Toluca,4–3,Santos,4,3,1
+Jue,UANL,1–0,Pachuca,1,0,1
+Sáb,Monterrey,3–0,Cruz Azul,3,0,1
+Sáb,América,5–1,Puebla,5,1,1
+Dom,Santos,1–2,Toluca,1,2,0
+Dom,Pachuca,2–1,UANL,2,1,1
+Mié,Toluca,2–1,América,2,1,1
+Jue,Pachuca,5–2,Monterrey,5,2,1
+Sáb,América,1–1,Toluca,1,1,-1
+Dom,Monterrey,0–1,Pachuca,0,1,0
+Jue,Toluca,1–5,Pachuca,1,5,0
+Dom,Pachuca,3–1,Toluca,3,1,1
+Sáb,América,0–0,Querétaro,0,0,-1
+Vie,Necaxa,2–3,Atlético,2,3,0
+Dom,UNAM,2–1,FC Juárez,2,1,1
+Sáb,Monterrey,0–1,Guadalajara,0,1,0
+Dom,Santos,0–3,UANL,0,3,0
+Dom,Tijuana,1–1,Cruz Azul,1,1,-1
+Lun,Pachuca,5–1,Puebla,5,1,1
+Jue,Atlas,2–1,Mazatlán,2,1,1
+Sáb,Cruz Azul,2–3,Monterrey,2,3,0
+Vie,Atlético,0–0,Guadalajara,0,0,-1
+Vie,Puebla,2–0,Querétaro,2,0,1
+Sáb,FC Juárez,3–0,Tijuana,3,0,1
+Sáb,Toluca,2–2,América,2,2,-1
+Sáb,Santos,3–0,UNAM,3,0,1
+Dom,UANL,4–1,Pachuca,4,1,1
+Lun,León,2–1,Necaxa,2,1,1
+Sáb,Monterrey,3–1,Atlético,3,1,1
+Vie,Tijuana,1–1,UANL,1,1,-1
+Vie,Mazatlán,1–2,Santos,1,2,0
+Dom,UNAM,4–1,León,4,1,1
+Dom,Querétaro,3–3,Atlas,3,3,-1
+Sáb,América,2–2,Puebla,2,2,-1
+Sáb,Guadalajara,1–2,Toluca,1,2,0
+Sáb,Necaxa,1–0,Cruz Azul,1,0,1
+Dom,Pachuca,4–1,FC Juárez,4,1,1
+Jue,Atlas,2–2,Santos,2,2,-1
+Vie,Tijuana,0–0,UNAM,0,0,-1
+Vie,Puebla,1–2,Monterrey,1,2,0
+Dom,Toluca,0–0,León,0,0,-1
+Sáb,UANL,0–0,Atlético,0,0,-1
+Sáb,FC Juárez,1–2,Guadalajara,1,2,0
+Sáb,América,6–0,Mazatlán,6,0,1
+Dom,Pachuca,2–1,Necaxa,2,1,1
+Mié,Atlas,0–0,Toluca,0,0,-1
+Jue,Atlético,2–0,Puebla,2,0,1
+Sáb,León,0–1,Pachuca,0,1,0
+Vie,Necaxa,1–1,Tijuana,1,1,-1
+Vie,Mazatlán,2–3,FC Juárez,2,3,0
+Dom,UNAM,2–2,Atlas,2,2,-1
+Dom,Guadalajara,1–1,Querétaro,1,1,-1
+Sáb,Cruz Azul,0–1,UANL,0,1,0
+Sáb,Santos,2–2,América,2,2,-1
+Dom,Monterrey,2–1,Toluca,2,1,1
+Jue,Querétaro,0–3,León,0,3,0
+Jue,Atlas,0–2,Monterrey,0,2,0
+Sáb,América,2–1,Necaxa,2,1,1
+Vie,Puebla,3–1,Mazatlán,3,1,1
+Vie,Tijuana,1–0,Atlético,1,0,1
+Dom,Toluca,3–1,Cruz Azul,3,1,1
+Sáb,FC Juárez,3–1,Santos,3,1,1
+Sáb,UANL,4–2,UNAM,4,2,1
+Sáb,Pachuca,1–1,Guadalajara,1,1,-1
+Mar,León,2–0,Puebla,2,0,1
+Mar,UANL,0–0,FC Juárez,0,0,-1
+Mar,Atlético,1–3,América,1,3,0
+Mié,Guadalajara,2–1,Tijuana,2,1,1
+Mié,Monterrey,2–0,Querétaro,2,0,1
+Mié,Necaxa,3–1,UNAM,3,1,1
+Jue,Mazatlán,2–3,Pachuca,2,3,0
+Sáb,Atlético,1–1,Santos,1,1,-1
+Sáb,Monterrey,2–1,Necaxa,2,1,1
+Vie,FC Juárez,0–0,León,0,0,-1
+Vie,Puebla,1–3,Cruz Azul,1,3,0
+Dom,Querétaro,1–1,Mazatlán,1,1,-1
+Sáb,Atlas,0–1,UANL,0,1,0
+Sáb,UNAM,1–2,Guadalajara,1,2,0
+Dom,América,2–1,Tijuana,2,1,1
+Dom,Pachuca,1–2,Toluca,1,2,0
+Mié,Cruz Azul,1–0,Atlas,1,0,1
+Jue,Santos,0–5,Toluca,0,5,0
+Sáb,Cruz Azul,1–0,FC Juárez,1,0,1
+Vie,Necaxa,1–1,Querétaro,1,1,-1
+Vie,Mazatlán,1–2,UNAM,1,2,0
+Dom,Toluca,2–0,Atlético,2,0,1
+Sáb,UANL,1–2,Guadalajara,1,2,0
+Sáb,Atlas,2–2,América,2,2,-1
+Dom,Santos,3–2,Puebla,3,2,1
+Dom,Tijuana,2–0,Pachuca,2,0,1
+Lun,León,1–1,Monterrey,1,1,-1
+Sáb,León,2–0,Atlético,2,0,1
+Vie,Mazatlán,3–1,Cruz Azul,3,1,1
+Vie,Necaxa,0–1,UANL,0,1,0
+Vie,Tijuana,1–1,Atlas,1,1,-1
+Dom,UNAM,2–4,Puebla,2,4,0
+Sáb,América,0–3,Pachuca,0,3,0
+Sáb,Monterrey,3–0,FC Juárez,3,0,1
+Sáb,Guadalajara,2–0,Santos,2,0,1
+Dom,Querétaro,1–0,Toluca,1,0,1
+Sáb,Atlas,0–1,León,0,1,0
+Vie,Atlético,2–0,Querétaro,2,0,1
+Vie,Puebla,1–0,Guadalajara,1,0,1
+Dom,Toluca,4–1,Mazatlán,4,1,1
+Sáb,Cruz Azul,1–0,UNAM,1,0,1
+Sáb,UANL,0–2,América,0,2,0
+Dom,Santos,3–2,Tijuana,3,2,1
+Dom,Pachuca,1–2,Monterrey,1,2,0
+Dom,FC Juárez,1–1,Necaxa,1,1,-1
+Sáb,Cruz Azul,1–0,Atlético,1,0,1
+Vie,Puebla,0–4,Atlas,0,4,0
+Vie,Mazatlán,0–1,Necaxa,0,1,0
+Vie,Tijuana,3–3,Toluca,3,3,-1
+Dom,UNAM,0–2,Pachuca,0,2,0
+Sáb,UANL,0–1,Monterrey,0,1,0
+Sáb,Guadalajara,2–4,América,2,4,0
+Dom,Querétaro,2–2,FC Juárez,2,2,-1
+Dom,León,4–1,Santos,4,1,1
+Vie,Mazatlán,1–2,León,1,2,0
+Mié,Querétaro,2–2,Cruz Azul,2,2,-1
+Sáb,Pachuca,0–2,Cruz Azul,0,2,0
+Vie,Necaxa,0–0,Santos,0,0,-1
+Vie,FC Juárez,0–2,Puebla,0,2,0
+Dom,Toluca,3–2,UANL,3,2,1
+Dom,Atlético,2–1,Mazatlán,2,1,1
+Sáb,América,2–2,León,2,2,-1
+Sáb,Monterrey,4–0,Tijuana,4,0,1
+Sáb,Atlas,3–3,Guadalajara,3,3,-1
+Dom,Querétaro,1–0,UNAM,1,0,1
+Sáb,Guadalajara,1–0,Necaxa,1,0,1
+Vie,Puebla,1–2,Toluca,1,2,0
+Vie,Tijuana,1–2,Querétaro,1,2,0
+Dom,UNAM,3–1,Atlético,3,1,1
+Sáb,León,0–0,Cruz Azul,0,0,-1
+Sáb,UANL,1–2,Mazatlán,1,2,0
+Sáb,América,2–1,Monterrey,2,1,1
+Dom,Santos,1–4,Pachuca,1,4,0
+Dom,FC Juárez,1–1,Atlas,1,1,-1
+Jue,Atlético,2–0,FC Juárez,2,0,1
+Sáb,Atlas,4–1,Pachuca,4,1,1
+Vie,Necaxa,1–1,Puebla,1,1,-1
+Vie,Mazatlán,1–2,Tijuana,1,2,0
+Dom,UNAM,3–1,Toluca,3,1,1
+Dom,Querétaro,0–0,UANL,0,0,-1
+Sáb,León,0–2,Guadalajara,0,2,0
+Sáb,Cruz Azul,1–3,América,1,3,0
+Dom,Monterrey,1–2,Santos,1,2,0
+Jue,UANL,1–0,Puebla,1,0,1
+Sáb,Pachuca,2–1,Atlético,2,1,1
+Vie,Mazatlán,0–2,Monterrey,0,2,0
+Vie,Necaxa,1–3,Atlas,1,3,0
+Vie,Tijuana,0–0,León,0,0,-1
+Dom,Toluca,1–1,FC Juárez,1,1,-1
+Sáb,Guadalajara,2–1,Cruz Azul,2,1,1
+Sáb,América,1–1,UNAM,1,1,-1
+Dom,Santos,0–2,Querétaro,0,2,0
+Sáb,Puebla,5–2,Tijuana,5,2,1
+Vie,FC Juárez,0–1,América,0,1,0
+Dom,Toluca,3–0,Necaxa,3,0,1
+Dom,Querétaro,0–1,Pachuca,0,1,0
+Sáb,Atlético,0–0,Atlas,0,0,-1
+Sáb,Guadalajara,4–1,Mazatlán,4,1,1
+Sáb,Monterrey,4–1,UNAM,4,1,1
+Sáb,Cruz Azul,3–2,Santos,3,2,1
+Dom,León,3–0,UANL,3,0,1
+Sáb,Cruz Azul,0–1,Atlas,0,1,0
+Sáb,Pachuca,4–4,Santos,4,4,-1
+Dom,León,1–3,Atlético,1,3,0
+Dom,UANL,1–0,Puebla,1,0,1
+Mié,Santos,0–0,Monterrey,0,0,-1
+Mié,Atlético,1–3,América,1,3,0
+Jue,Atlas,1–0,Guadalajara,1,0,1
+Jue,UANL,4–1,Toluca,4,1,1
+Dom,Toluca,3–1,UANL,3,1,1
+Sáb,Monterrey,2–0,Santos,2,0,1
+Sáb,América,1–2,Atlético,1,2,0
+Dom,Guadalajara,1–0,Atlas,1,0,1
+Mié,UANL,1–1,Monterrey,1,1,-1
+Jue,Guadalajara,0–1,América,0,1,0
+Sáb,Monterrey,0–1,UANL,0,1,0
+Dom,América,1–3,Guadalajara,1,3,0
+Jue,UANL,0–0,Guadalajara,0,0,-1
+Dom,Guadalajara,2–3,UANL,2,3,0
+Sáb,Atlético,1–1,Monterrey,1,1,-1
+Vie,Mazatlán,1–1,Pachuca,1,1,-1
+Vie,Tijuana,2–3,UNAM,2,3,0
+Vie,América,1–2,FC Juárez,1,2,0
+Dom,Toluca,0–0,Necaxa,0,0,-1
+Sáb,UANL,1–1,Puebla,1,1,-1
+Sáb,Atlas,2–0,Cruz Azul,2,0,1
+Dom,Santos,0–2,Querétaro,0,2,0
+Lun,León,1–2,Guadalajara,1,2,0
+Sáb,Cruz Azul,0–2,Toluca,0,2,0
+Vie,Puebla,2–3,Santos,2,3,0
+Vie,Necaxa,1–1,Tijuana,1,1,-1
+Dom,UNAM,0–0,Mazatlán,0,0,-1
+Sáb,FC Juárez,1–1,UANL,1,1,-1
+Sáb,Guadalajara,3–1,Atlético,3,1,1
+Dom,Monterrey,1–0,Atlas,1,0,1
+Lun,León,4–0,Pachuca,4,0,1
+Jue,Santos,0–0,Atlas,0,0,-1
+Jue,Guadalajara,2–0,Necaxa,2,0,1
+Sáb,Atlético,4–1,Querétaro,4,1,1
+Vie,Mazatlán,0–3,Monterrey,0,3,0
+Vie,Tijuana,2–1,Cruz Azul,2,1,1
+Dom,Toluca,2–4,FC Juárez,2,4,0
+Sáb,América,3–0,Puebla,3,0,1
+Sáb,UANL,1–0,León,1,0,1
+Dom,Pachuca,1–1,UNAM,1,1,-1
+Vie,León,2–1,Mazatlán,2,1,1
+Vie,FC Juárez,1–1,Guadalajara,1,1,-1
+Vie,UNAM,1–1,Toluca,1,1,-1
+Vie,Puebla,1–2,Atlético,1,2,0
+Dom,Cruz Azul,2–2,Santos,2,2,-1
+Dom,Querétaro,1–1,Pachuca,1,1,-1
+Dom,América,1–1,Atlas,1,1,-1
+Dom,Necaxa,0–3,UANL,0,3,0
+Mar,Mazatlán,1–0,Puebla,1,0,1
+Mar,Guadalajara,1–0,Tijuana,1,0,1
+Mar,FC Juárez,4–1,UNAM,4,1,1
+Mié,América,3–2,Necaxa,3,2,1
+Mié,Pachuca,1–0,Cruz Azul,1,0,1
+Mié,Atlético,3–0,León,3,0,1
+Sáb,Atlas,0–0,Toluca,0,0,-1
+Vie,Puebla,1–0,FC Juárez,1,0,1
+Vie,Tijuana,1–1,Mazatlán,1,1,-1
+Dom,Necaxa,0–1,Querétaro,0,1,0
+Sáb,América,1–1,León,1,1,-1
+Sáb,Santos,2–1,Guadalajara,2,1,1
+Dom,UNAM,2–1,UANL,2,1,1
+Dom,Monterrey,1–2,Cruz Azul,1,2,0
+Lun,Pachuca,0–2,Atlético,0,2,0
+Mié,Toluca,1–0,Monterrey,1,0,1
+Mié,Querétaro,1–2,Atlas,1,2,0
+Mié,UANL,3–2,Santos,3,2,1
+Sáb,León,1–1,Necaxa,1,1,-1
+Vie,FC Juárez,3–1,Mazatlán,3,1,1
+Vie,Puebla,3–0,Tijuana,3,0,1
+Dom,Toluca,5–0,Pachuca,5,0,1
+Dom,Guadalajara,1–2,Monterrey,1,2,0
+Sáb,Santos,2–1,UNAM,2,1,1
+Sáb,UANL,5–0,Querétaro,5,0,1
+Sáb,Cruz Azul,2–3,América,2,3,0
+Dom,Atlético,2–0,Atlas,2,0,1
+Sáb,Necaxa,1–1,FC Juárez,1,1,-1
+Vie,Mazatlán,2–2,Cruz Azul,2,2,-1
+Vie,Tijuana,2–1,Toluca,2,1,1
+Dom,UNAM,3–2,Atlético,3,2,1
+Dom,Querétaro,1–1,Puebla,1,1,-1
+Sáb,Monterrey,3–1,León,3,1,1
+Sáb,América,4–0,Guadalajara,4,0,1
+Dom,Atlas,2–0,UANL,2,0,1
+Lun,Pachuca,3–2,Santos,3,2,1
+Mié,Querétaro,1–2,América,1,2,0
+Vie,FC Juárez,1–2,Atlas,1,2,0
+Vie,Atlético,3–2,Mazatlán,3,2,1
+Vie,Puebla,0–2,UNAM,0,2,0
+Dom,Toluca,1–1,América,1,1,-1
+Dom,Cruz Azul,1–3,Querétaro,1,3,0
+Sáb,Guadalajara,0–0,Pachuca,0,0,-1
+Sáb,León,1–0,Tijuana,1,0,1
+Sáb,UANL,3–0,Monterrey,3,0,1
+Dom,Santos,2–5,Necaxa,2,5,0
+Mar,Guadalajara,1–3,Mazatlán,1,3,0
+Jue,Atlas,2–3,Puebla,2,3,0
+Sáb,Pachuca,1–1,Necaxa,1,1,-1
+Vie,Querétaro,1–1,León,1,1,-1
+Vie,Tijuana,5–1,FC Juárez,5,1,1
+Vie,Atlético,1–2,Cruz Azul,1,2,0
+Dom,Toluca,1–1,Guadalajara,1,1,-1
+Sáb,Mazatlán,2–3,UANL,2,3,0
+Sáb,América,1–0,UNAM,1,0,1
+Mar,Puebla,1–1,Monterrey,1,1,-1
+Mar,América,4–0,Pachuca,4,0,1
+Mié,UNAM,4–0,Querétaro,4,0,1
+Mié,Necaxa,1–3,Cruz Azul,1,3,0
+Mié,Santos,2–1,Tijuana,2,1,1
+Mié,UANL,2–2,Toluca,2,2,-1
+Sáb,Monterrey,3–1,FC Juárez,3,1,1
+Vie,Mazatlán,1–2,América,1,2,0
+Dom,Toluca,3–1,Querétaro,3,1,1
+Dom,Necaxa,1–2,Puebla,1,2,0
+Sáb,Pachuca,1–1,UANL,1,1,-1
+Sáb,Guadalajara,4–1,Atlas,4,1,1
+Sáb,Cruz Azul,1–4,UNAM,1,4,0
+Dom,Tijuana,2–1,Atlético,2,1,1
+Dom,Santos,0–2,León,0,2,0
+Sáb,León,1–0,Toluca,1,0,1
+Vie,FC Juárez,0–1,Pachuca,0,1,0
+Vie,Atlas,1–3,Mazatlán,1,3,0
+Vie,Puebla,0–2,Guadalajara,0,2,0
+Dom,UNAM,0–1,Monterrey,0,1,0
+Sáb,América,4–3,Santos,4,3,1
+Sáb,Querétaro,1–0,Tijuana,1,0,1
+Sáb,UANL,2–1,Cruz Azul,2,1,1
+Dom,Atlético,4–0,Necaxa,4,0,1
+Mar,León,1–1,Atlas,1,1,-1
+Mié,Monterrey,3–1,Tijuana,3,1,1
+Mié,FC Juárez,3–2,Atlético,3,2,1
+Sáb,Cruz Azul,1–0,León,1,0,1
+Vie,Necaxa,1–0,UNAM,1,0,1
+Vie,Mazatlán,3–0,Querétaro,3,0,1
+Dom,Toluca,3–1,Atlético,3,1,1
+Sáb,Pachuca,1–1,Puebla,1,1,-1
+Sáb,Guadalajara,0–4,UANL,0,4,0
+Sáb,Monterrey,0–3,América,0,3,0
+Dom,Santos,5–1,FC Juárez,5,1,1
+Dom,Tijuana,2–0,Atlas,2,0,1
+Mar,Toluca,0–1,Puebla,0,1,0
+Mar,Querétaro,1–2,Guadalajara,1,2,0
+Mar,Monterrey,3–0,Necaxa,3,0,1
+Mar,León,1–1,UNAM,1,1,-1
+Mié,Cruz Azul,2–0,FC Juárez,2,0,1
+Mié,Atlas,0–2,Pachuca,0,2,0
+Mié,Mazatlán,3–1,Santos,3,1,1
+Mié,Tijuana,2–0,UANL,2,0,1
+Mié,Atlético,0–1,América,0,1,0
+Sáb,UANL,2–2,Atlético,2,2,-1
+Vie,Puebla,5–4,León,5,4,1
+Dom,UNAM,3–0,Atlas,3,0,1
+Dom,Necaxa,4–0,Mazatlán,4,0,1
+Sáb,América,3–0,Tijuana,3,0,1
+Sáb,Pachuca,0–2,Monterrey,0,2,0
+Sáb,Guadalajara,1–0,Cruz Azul,1,0,1
+Dom,Santos,3–1,Toluca,3,1,1
+Dom,FC Juárez,0–3,Querétaro,0,3,0
+Mié,Monterrey,3–0,Santos,3,0,1
+Sáb,Querétaro,0–0,Monterrey,0,0,-1
+Sáb,Atlético,0–2,Santos,0,2,0
+Vie,Mazatlán,1–0,Toluca,1,0,1
+Vie,Atlas,0–0,Necaxa,0,0,-1
+Vie,Tijuana,2–3,Pachuca,2,3,0
+Sáb,UNAM,1–0,Guadalajara,1,0,1
+Sáb,UANL,0–0,América,0,0,-1
+Dom,Cruz Azul,1–2,Puebla,1,2,0
+Dom,León,2–1,FC Juárez,2,1,1
+Jue,Atlético,3–2,León,3,2,1
+Jue,Santos,2–1,Mazatlán,2,1,1
+Dom,León,3–2,Santos,3,2,1
+Mié,León,2–2,América,2,2,-1
+Mié,Atlético,1–0,Monterrey,1,0,1
+Jue,Puebla,2–2,UANL,2,2,-1
+Jue,Guadalajara,1–0,UNAM,1,0,1
+Sáb,América,2–0,León,2,0,1
+Sáb,Monterrey,1–1,Atlético,1,1,-1
+Dom,UNAM,3–0,Guadalajara,3,0,1
+Dom,UANL,3–0,Puebla,3,0,1
+Mié,Atlético,0–5,América,0,5,0
+Jue,UNAM,0–1,UANL,0,1,0
+Sáb,América,0–2,Atlético,0,2,0
+Dom,UANL,1–1,UNAM,1,1,-1
+Jue,UANL,1–1,América,1,1,-1
+Dom,América,3–0,UANL,3,0,1
+Vie,Querétaro,2–2,Toluca,2,2,-1
+Vie,Mazatlán,0–1,Atlético,0,1,0
+Dom,UNAM,1–0,FC Juárez,1,0,1
+Sáb,Cruz Azul,0–1,Pachuca,0,1,0
+Sáb,Tijuana,0–2,América,0,2,0
+Sáb,Guadalajara,1–1,Santos,1,1,-1
+Sáb,Monterrey,2–0,Puebla,2,0,1
+Dom,Necaxa,2–1,Atlas,2,1,1
+Mié,León,1–2,UANL,1,2,0
+Sáb,Toluca,4–1,Mazatlán,4,1,1
+Vie,Puebla,1–2,Necaxa,1,2,0
+Vie,FC Juárez,0–0,Cruz Azul,0,0,-1
+Vie,Atlético,3–1,UNAM,3,1,1
+Sáb,América,2–0,Querétaro,2,0,1
+Sáb,Atlas,0–0,Tijuana,0,0,-1
+Dom,UANL,1–0,Guadalajara,1,0,1
+Dom,Santos,0–2,Monterrey,0,2,0
+Mié,Monterrey,1–1,Querétaro,1,1,-1
+Mié,Atlético,1–2,UANL,1,2,0
+Mié,FC Juárez,0–2,América,0,2,0
+Sáb,Cruz Azul,2–1,Mazatlán,2,1,1
+Sáb,León,3–2,Santos,3,2,1
+Vie,Tijuana,1–1,Guadalajara,1,1,-1
+Vie,Puebla,1–1,Toluca,1,1,-1
+Dom,UNAM,3–1,Pachuca,3,1,1
+Sáb,Monterrey,3–1,Atlético,3,1,1
+Sáb,Necaxa,0–0,América,0,0,-1
+Dom,Atlas,2–1,FC Juárez,2,1,1
+Dom,Querétaro,1–1,UANL,1,1,-1
+Mar,Mazatlán,2–2,León,2,2,-1
+Mar,Cruz Azul,1–0,Tijuana,1,0,1
+Mar,Santos,3–0,Puebla,3,0,1
+Mar,Guadalajara,3–2,Toluca,3,2,1
+Mié,Pachuca,4–3,Atlas,4,3,1
+Mié,UNAM,2–2,Necaxa,2,2,-1
+Sáb,FC Juárez,2–2,Necaxa,2,2,-1
+Sáb,Toluca,4–1,León,4,1,1
+Vie,Querétaro,1–3,Cruz Azul,1,3,0
+Vie,Puebla,3–2,Mazatlán,3,2,1
+Sáb,UANL,2–2,UNAM,2,2,-1
+Sáb,Pachuca,3–2,Tijuana,3,2,1
+Sáb,América,1–1,Monterrey,1,1,-1
+Dom,Atlas,3–0,Santos,3,0,1
+Dom,Atlético,0–2,Guadalajara,0,2,0
+Mié,Pachuca,3–2,León,3,2,1
+Sáb,Necaxa,3–3,Toluca,3,3,-1
+Sáb,Guadalajara,2–1,FC Juárez,2,1,1
+Vie,Mazatlán,2–0,Atlas,2,0,1
+Vie,Tijuana,1–1,Querétaro,1,1,-1
+Dom,UNAM,3–0,Puebla,3,0,1
+Sáb,León,0–1,América,0,1,0
+Sáb,Cruz Azul,3–0,Atlético,3,0,1
+Sáb,Monterrey,3–2,Pachuca,3,2,1
+Sáb,Santos,0–3,UANL,0,3,0
+Mié,Atlas,0–0,UNAM,0,0,-1
+Sáb,Atlético,3–3,Tijuana,3,3,-1
+Vie,Querétaro,1–1,Necaxa,1,1,-1
+Vie,Mazatlán,2–2,Guadalajara,2,2,-1
+Dom,Atlas,0–1,León,0,1,0
+Sáb,Pachuca,2–1,América,2,1,1
+Sáb,Cruz Azul,1–0,UANL,1,0,1
+Dom,UNAM,3–0,Santos,3,0,1
+Dom,Monterrey,0–0,Toluca,0,0,-1
+Mar,Puebla,1–4,Pachuca,1,4,0
+Mar,Necaxa,1–0,Guadalajara,1,0,1
+Mié,Toluca,1–0,Santos,1,0,1
+Mié,León,2–3,Cruz Azul,2,3,0
+Mié,América,2–2,Mazatlán,2,2,-1
+Sáb,León,1–0,Atlético,1,0,1
+Vie,Puebla,0–2,Querétaro,0,2,0
+Vie,FC Juárez,0–3,Monterrey,0,3,0
+Vie,Necaxa,1–1,Pachuca,1,1,-1
+Dom,Toluca,2–0,Tijuana,2,0,1
+Sáb,UANL,1–1,Atlas,1,1,-1
+Sáb,Guadalajara,3–1,UNAM,3,1,1
+Sáb,América,1–0,Cruz Azul,1,0,1
+Dom,Santos,1–0,Mazatlán,1,0,1
+Mar,Querétaro,4–1,Atlético,4,1,1
+Mié,Tijuana,1–1,Monterrey,1,1,-1
+Mié,UANL,1–0,FC Juárez,1,0,1
+Sáb,Toluca,2–1,UANL,2,1,1
+Vie,Atlético,4–0,Puebla,4,0,1
+Vie,Querétaro,0–1,Santos,0,1,0
+Vie,Mazatlán,2–1,Necaxa,2,1,1
+Sáb,Pachuca,3–2,FC Juárez,3,2,1
+Sáb,Cruz Azul,3–0,Guadalajara,3,0,1
+Sáb,Atlas,1–5,América,1,5,0
+Dom,Monterrey,3–0,UNAM,3,0,1
+Dom,Tijuana,1–1,León,1,1,-1
+Sáb,Guadalajara,1–2,León,1,2,0
+Vie,Puebla,2–2,Atlas,2,2,-1
+Vie,FC Juárez,1–1,Toluca,1,1,-1
+Vie,Necaxa,3–1,Atlético,3,1,1
+Dom,UNAM,3–3,Tijuana,3,3,-1
+Sáb,Santos,3–0,Cruz Azul,3,0,1
+Sáb,Pachuca,1–2,Querétaro,1,2,0
+Sáb,América,2–0,UANL,2,0,1
+Dom,Monterrey,2–1,Mazatlán,2,1,1
+Sáb,Cruz Azul,1–2,Necaxa,1,2,0
+Vie,Querétaro,1–0,FC Juárez,1,0,1
+Vie,Tijuana,2–2,Santos,2,2,-1
+Dom,Atlas,1–2,Monterrey,1,2,0
+Sáb,León,2–1,Puebla,2,1,1
+Sáb,UANL,5–1,Mazatlán,5,1,1
+Sáb,Guadalajara,0–0,América,0,0,-1
+Dom,Atlético,2–1,Pachuca,2,1,1
+Dom,Toluca,3–0,UNAM,3,0,1
+Sáb,FC Juárez,4–3,Puebla,4,3,1
+Vie,Puebla,2–3,UANL,2,3,0
+Vie,Mazatlán,2–0,Tijuana,2,0,1
+Vie,América,2–1,Atlético,2,1,1
+Dom,Atlas,2–3,Querétaro,2,3,0
+Sáb,Monterrey,0–2,Guadalajara,0,2,0
+Sáb,Pachuca,2–3,Toluca,2,3,0
+Sáb,UNAM,0–0,Cruz Azul,0,0,-1
+Dom,Necaxa,1–2,León,1,2,0
+Dom,FC Juárez,2–1,Santos,2,1,1
+Sáb,León,0–2,Querétaro,0,2,0
+Vie,Mazatlán,0–4,UNAM,0,4,0
+Vie,Tijuana,2–3,Necaxa,2,3,0
+Dom,Toluca,4–1,Atlas,4,1,1
+Sáb,UANL,0–3,Pachuca,0,3,0
+Sáb,Guadalajara,3–2,Puebla,3,2,1
+Sáb,Santos,1–1,América,1,1,-1
+Sáb,Cruz Azul,2–1,Monterrey,2,1,1
+Lun,Atlético,2–3,FC Juárez,2,3,0
+Sáb,Pachuca,0–1,Guadalajara,0,1,0
+Vie,Querétaro,0–2,Mazatlán,0,2,0
+Vie,Puebla,0–1,Cruz Azul,0,1,0
+Vie,Necaxa,2–0,Santos,2,0,1
+Sáb,América,5–1,Toluca,5,1,1
+Sáb,Monterrey,3–3,UANL,3,3,-1
+Dom,Atlas,2–1,Atlético,2,1,1
+Dom,UNAM,1–0,León,1,0,1
+Dom,FC Juárez,0–1,Tijuana,0,1,0
+Sáb,León,2–0,Monterrey,2,0,1
+Vie,Mazatlán,0–2,FC Juárez,0,2,0
+Vie,Tijuana,3–1,Puebla,3,1,1
+Vie,Atlético,1–5,Toluca,1,5,0
+Sáb,UANL,5–2,Necaxa,5,2,1
+Sáb,Guadalajara,2–0,Querétaro,2,0,1
+Sáb,Santos,0–2,Pachuca,0,2,0
+Sáb,UNAM,2–1,América,2,1,1
+Dom,Cruz Azul,2–2,Atlas,2,2,-1
+Sáb,FC Juárez,1–1,León,1,1,-1
+Vie,Puebla,1–2,América,1,2,0
+Vie,Querétaro,1–1,UNAM,1,1,-1
+Sáb,Toluca,0–1,Cruz Azul,0,1,0
+Sáb,UANL,4–1,Tijuana,4,1,1
+Sáb,Pachuca,1–1,Mazatlán,1,1,-1
+Sáb,Atlas,0–1,Guadalajara,0,1,0
+Dom,Necaxa,2–5,Monterrey,2,5,0
+Dom,Santos,0–3,Atlético,0,3,0
+Jue,Necaxa,1–1,Querétaro,1,1,-1
+Jue,Pachuca,0–0,UNAM,0,0,-1
+Dom,Pachuca,2–1,Necaxa,2,1,1
+Mié,Guadalajara,1–0,Toluca,1,0,1
+Mié,Pachuca,1–1,América,1,1,-1
+Jue,UNAM,0–2,Cruz Azul,0,2,0
+Jue,UANL,1–2,Monterrey,1,2,0
+Sáb,América,1–1,Pachuca,1,1,-1
+Sáb,Toluca,0–0,Guadalajara,0,0,-1
+Dom,Cruz Azul,2–2,UNAM,2,2,-1
+Dom,Monterrey,1–1,UANL,1,1,-1
+Mié,Guadalajara,0–0,América,0,0,-1
+Jue,Monterrey,0–1,Cruz Azul,0,1,0
+Sáb,América,1–0,Guadalajara,1,0,1
+Dom,Cruz Azul,1–2,Monterrey,1,2,0
+Jue,Cruz Azul,1–1,América,1,1,-1
+Dom,América,1–0,Cruz Azul,1,0,1
+Sáb,Cruz Azul,3–0,Puebla,3,0,1
+Vie,Veracruz,0–2,UNAM,0,2,0
+Vie,Atlas,0–0,Querétaro,0,0,-1
+Dom,Toluca,2–0,Morelia,2,0,1
+Dom,Santos,2–1,Lobos BUAP,2,1,1
+Sáb,Tijuana,2–1,Guadalajara,2,1,1
+Sáb,Pachuca,0–1,Monterrey,0,1,0
+Sáb,UANL,2–0,León,2,0,1
+Dom,Necaxa,2–1,América,2,1,1
+Sáb,Querétaro,1–0,Pachuca,1,0,1
+Vie,Morelia,3–1,Santos,3,1,1
+Vie,Puebla,2–1,Toluca,2,1,1
+Dom,UNAM,5–3,Necaxa,5,3,1
+Dom,Lobos BUAP,2–0,Veracruz,2,0,1
+Dom,UANL,1–0,Tijuana,1,0,1
+Sáb,América,3–0,Atlas,3,0,1
+Sáb,Guadalajara,0–1,Cruz Azul,0,1,0
+Dom,León,0–2,Monterrey,0,2,0
+Sáb,Necaxa,1–0,Lobos BUAP,1,0,1
+Vie,Veracruz,2–2,Morelia,2,2,-1
+Vie,Atlas,0–3,UNAM,0,3,0
+Dom,Toluca,2–2,Guadalajara,2,2,-1
+Dom,Santos,2–0,Puebla,2,0,1
+Sáb,Pachuca,1–3,América,1,3,0
+Sáb,Cruz Azul,1–0,UANL,1,0,1
+Sáb,Monterrey,2–1,Querétaro,2,1,1
+Dom,Tijuana,1–1,León,1,1,-1
+Sáb,Lobos BUAP,0–0,Atlas,0,0,-1
+Vie,Puebla,1–2,Veracruz,1,2,0
+Vie,Morelia,2–1,Necaxa,2,1,1
+Dom,UNAM,0–0,Pachuca,0,0,-1
+Dom,Guadalajara,1–2,Santos,1,2,0
+Sáb,León,4–0,Querétaro,4,0,1
+Sáb,UANL,1–2,Toluca,1,2,0
+Sáb,América,3–0,Monterrey,3,0,1
+Dom,Tijuana,1–1,Cruz Azul,1,1,-1
+Sáb,Cruz Azul,3–0,León,3,0,1
+Vie,Veracruz,0–2,Guadalajara,0,2,0
+Vie,Atlas,0–1,Morelia,0,1,0
+Dom,Toluca,3–0,Tijuana,3,0,1
+Dom,Santos,3–1,UANL,3,1,1
+Sáb,Pachuca,3–0,Lobos BUAP,3,0,1
+Sáb,Necaxa,2–2,Puebla,2,2,-1
+Sáb,Querétaro,1–1,América,1,1,-1
+Sáb,Monterrey,1–0,UNAM,1,0,1
+Mar,UNAM,0–1,Querétaro,0,1,0
+Mar,Morelia,1–1,Pachuca,1,1,-1
+Mar,Puebla,2–0,Atlas,2,0,1
+Mar,Guadalajara,1–0,Necaxa,1,0,1
+Mié,Cruz Azul,1–0,Toluca,1,0,1
+Mié,León,2–0,América,2,0,1
+Mié,Tijuana,2–2,Santos,2,2,-1
+Mié,UANL,4–0,Veracruz,4,0,1
+Mié,Lobos BUAP,1–2,Monterrey,1,2,0
+Sáb,Pachuca,2–0,Puebla,2,0,1
+Vie,Atlas,0–1,Guadalajara,0,1,0
+Dom,Querétaro,2–0,Lobos BUAP,2,0,1
+Dom,Toluca,1–2,León,1,2,0
+Dom,Santos,1–1,Cruz Azul,1,1,-1
+Sáb,América,2–2,UNAM,2,2,-1
+Sáb,Veracruz,1–0,Tijuana,1,0,1
+Sáb,Necaxa,1–1,UANL,1,1,-1
+Sáb,Monterrey,2–2,Morelia,2,2,-1
+Sáb,Cruz Azul,4–1,Veracruz,4,1,1
+Vie,Morelia,1–4,Querétaro,1,4,0
+Vie,Tijuana,1–0,Necaxa,1,0,1
+Vie,Puebla,2–1,Monterrey,2,1,1
+Dom,Toluca,2–1,Santos,2,1,1
+Dom,Lobos BUAP,0–2,América,0,2,0
+Sáb,UANL,3–1,Atlas,3,1,1
+Sáb,León,1–2,UNAM,1,2,0
+Sáb,Guadalajara,1–3,Pachuca,1,3,0
+Sáb,Querétaro,0–1,Puebla,0,1,0
+Vie,Veracruz,2–3,Toluca,2,3,0
+Dom,UNAM,4–2,Lobos BUAP,4,2,1
+Dom,Santos,3–0,León,3,0,1
+Dom,Atlas,0–1,Tijuana,0,1,0
+Sáb,Pachuca,1–1,UANL,1,1,-1
+Sáb,América,2–1,Morelia,2,1,1
+Sáb,Necaxa,2–0,Cruz Azul,2,0,1
+Sáb,Monterrey,2–4,Guadalajara,2,4,0
+Sáb,Toluca,3–2,Necaxa,3,2,1
+Vie,Morelia,0–0,UNAM,0,0,-1
+Vie,Puebla,2–3,América,2,3,0
+Dom,Guadalajara,1–1,Querétaro,1,1,-1
+Dom,Santos,1–1,Veracruz,1,1,-1
+Sáb,León,0–1,Lobos BUAP,0,1,0
+Sáb,Tijuana,1–0,Pachuca,1,0,1
+Sáb,Cruz Azul,2–0,Atlas,2,0,1
+Dom,UANL,0–0,Monterrey,0,0,-1
+Sáb,Querétaro,0–2,UANL,0,2,0
+Vie,Veracruz,0–4,León,0,4,0
+Vie,Atlas,2–0,Toluca,2,0,1
+Dom,UNAM,2–2,Puebla,2,2,-1
+Dom,Lobos BUAP,3–1,Morelia,3,1,1
+Dom,América,1–1,Guadalajara,1,1,-1
+Sáb,Pachuca,3–1,Cruz Azul,3,1,1
+Sáb,Necaxa,0–1,Santos,0,1,0
+Sáb,Monterrey,3–0,Tijuana,3,0,1
+Sáb,Cruz Azul,2–1,Monterrey,2,1,1
+Vie,Santos,3–1,Atlas,3,1,1
+Vie,Veracruz,0–0,Necaxa,0,0,-1
+Dom,Toluca,2–1,Pachuca,2,1,1
+Dom,Puebla,2–2,Lobos BUAP,2,2,-1
+Sáb,UANL,2–3,América,2,3,0
+Sáb,León,1–2,Morelia,1,2,0
+Sáb,Tijuana,1–1,Querétaro,1,1,-1
+Sáb,Guadalajara,1–2,UNAM,1,2,0
+Sáb,Querétaro,2–0,Cruz Azul,2,0,1
+Vie,Atlas,4–3,Veracruz,4,3,1
+Dom,Lobos BUAP,1–1,Guadalajara,1,1,-1
+Dom,UNAM,3–3,UANL,3,3,-1
+Dom,Morelia,2–0,Puebla,2,0,1
+Sáb,América,3–0,Tijuana,3,0,1
+Sáb,Pachuca,1–1,Santos,1,1,-1
+Sáb,Necaxa,0–2,León,0,2,0
+Sáb,Monterrey,2–1,Toluca,2,1,1
+Sáb,Necaxa,2–2,Atlas,2,2,-1
+Vie,Santos,1–0,Monterrey,1,0,1
+Vie,Veracruz,2–3,Pachuca,2,3,0
+Dom,Toluca,4–0,Querétaro,4,0,1
+Sáb,Tijuana,0–1,UNAM,0,1,0
+Sáb,UANL,2–2,Lobos BUAP,2,2,-1
+Sáb,Guadalajara,1–2,Morelia,1,2,0
+Sáb,Cruz Azul,0–0,América,0,0,-1
+Dom,León,0–4,Puebla,0,4,0
+Sáb,Pachuca,6–2,Necaxa,6,2,1
+Vie,Morelia,0–2,UANL,0,2,0
+Vie,Puebla,2–2,Guadalajara,2,2,-1
+Dom,UNAM,1–2,Cruz Azul,1,2,0
+Dom,Querétaro,2–1,Santos,2,1,1
+Sáb,América,1–1,Toluca,1,1,-1
+Sáb,Monterrey,2–0,Veracruz,2,0,1
+Sáb,Lobos BUAP,3–1,Tijuana,3,1,1
+Dom,Atlas,0–0,León,0,0,-1
+Sáb,Cruz Azul,2–1,Lobos BUAP,2,1,1
+Vie,Veracruz,2–2,Querétaro,2,2,-1
+Vie,Atlas,0–0,Pachuca,0,0,-1
+Dom,Toluca,0–1,UNAM,0,1,0
+Sáb,Tijuana,2–3,Morelia,2,3,0
+Sáb,León,0–1,Guadalajara,0,1,0
+Sáb,UANL,6–1,Puebla,6,1,1
+Sáb,Necaxa,1–1,Monterrey,1,1,-1
+Dom,Santos,1–1,América,1,1,-1
+Sáb,Querétaro,1–0,Necaxa,1,0,1
+Vie,Morelia,0–2,Cruz Azul,0,2,0
+Vie,Puebla,0–0,Tijuana,0,0,-1
+Dom,UNAM,1–1,Santos,1,1,-1
+Dom,Lobos BUAP,2–0,Toluca,2,0,1
+Sáb,América,4–1,Veracruz,4,1,1
+Sáb,Pachuca,1–1,León,1,1,-1
+Sáb,Guadalajara,0–1,UANL,0,1,0
+Sáb,Monterrey,3–1,Atlas,3,1,1
+Mié,Querétaro,0–2,Cruz Azul,0,2,0
+Mié,Monterrey,1–0,Santos,1,0,1
+Jue,Toluca,2–2,América,2,2,-1
+Jue,UANL,2–1,UNAM,2,1,1
+Dom,UNAM,3–1,UANL,3,1,1
+Sáb,Cruz Azul,1–1,Querétaro,1,1,-1
+Sáb,Santos,0–2,Monterrey,0,2,0
+Dom,América,3–2,Toluca,3,2,1
+Mié,Monterrey,1–0,Cruz Azul,1,0,1
+Jue,UNAM,1–1,América,1,1,-1
+Sáb,Cruz Azul,1–0,Monterrey,1,0,1
+Dom,América,6–1,UNAM,6,1,1
+Jue,América,0–0,Cruz Azul,0,0,-1
+Dom,Cruz Azul,0–2,América,0,2,0
+Sáb,Querétaro,1–2,Atlas,1,2,0
+Sáb,Monterrey,5–0,Pachuca,5,0,1
+Vie,Morelia,1–3,Toluca,1,3,0
+Vie,Puebla,1–1,Cruz Azul,1,1,-1
+Dom,UNAM,0–0,Veracruz,0,0,-1
+Dom,Lobos BUAP,2–0,Santos,2,0,1
+Sáb,León,2–2,UANL,2,2,-1
+Sáb,Guadalajara,2–0,Tijuana,2,0,1
+Sáb,Monterrey,2–2,León,2,2,-1
+Vie,Veracruz,0–1,Lobos BUAP,0,1,0
+Vie,Atlas,1–2,América,1,2,0
+Dom,Toluca,2–0,Puebla,2,0,1
+Sáb,Cruz Azul,0–1,Guadalajara,0,1,0
+Sáb,Tijuana,0–3,UANL,0,3,0
+Sáb,Pachuca,3–0,Querétaro,3,0,1
+Sáb,Necaxa,2–1,UNAM,2,1,1
+Dom,Santos,1–0,Morelia,1,0,1
+Sáb,Querétaro,1–2,Monterrey,1,2,0
+Vie,Morelia,2–0,Veracruz,2,0,1
+Vie,Puebla,1–1,Santos,1,1,-1
+Dom,UNAM,2–2,Atlas,2,2,-1
+Dom,Lobos BUAP,2–3,Necaxa,2,3,0
+Sáb,América,3–0,Pachuca,3,0,1
+Sáb,UANL,0–1,Cruz Azul,0,1,0
+Dom,Guadalajara,1–0,Toluca,1,0,1
+Dom,León,0–1,Tijuana,0,1,0
+Sáb,Cruz Azul,1–0,Tijuana,1,0,1
+Sáb,Monterrey,3–2,América,3,2,1
+Vie,Veracruz,0–1,Puebla,0,1,0
+Vie,Atlas,3–1,Lobos BUAP,3,1,1
+Dom,Toluca,0–1,UANL,0,1,0
+Dom,Querétaro,0–4,León,0,4,0
+Sáb,Pachuca,1–0,UNAM,1,0,1
+Sáb,Necaxa,0–0,Morelia,0,0,-1
+Dom,Santos,1–0,Guadalajara,1,0,1
+Sáb,América,2–0,Querétaro,2,0,1
+Vie,Morelia,1–2,Atlas,1,2,0
+Vie,Puebla,1–4,Necaxa,1,4,0
+Dom,UNAM,1–1,Monterrey,1,1,-1
+Dom,Lobos BUAP,1–1,Pachuca,1,1,-1
+Sáb,León,2–0,Cruz Azul,2,0,1
+Sáb,UANL,2–1,Santos,2,1,1
+Sáb,Tijuana,2–0,Toluca,2,0,1
+Lun,Guadalajara,0–0,Veracruz,0,0,-1
+Sáb,Monterrey,4–0,Lobos BUAP,4,0,1
+Sáb,Querétaro,0–2,UNAM,0,2,0
+Vie,Veracruz,0–2,UANL,0,2,0
+Vie,Atlas,1–2,Puebla,1,2,0
+Dom,Toluca,1–1,Cruz Azul,1,1,-1
+Sáb,Pachuca,2–0,Morelia,2,0,1
+Sáb,América,0–3,León,0,3,0
+Sáb,Necaxa,3–3,Guadalajara,3,3,-1
+Dom,Santos,1–1,Tijuana,1,1,-1
+Sáb,Cruz Azul,1–2,Santos,1,2,0
+Vie,Morelia,2–3,Monterrey,2,3,0
+Vie,Tijuana,3–0,Veracruz,3,0,1
+Vie,Puebla,1–1,Pachuca,1,1,-1
+Dom,UNAM,1–0,América,1,0,1
+Dom,Lobos BUAP,3–1,Querétaro,3,1,1
+Sáb,UANL,3–2,Necaxa,3,2,1
+Sáb,León,3–0,Toluca,3,0,1
+Sáb,Guadalajara,3–0,Atlas,3,0,1
+Sáb,Querétaro,3–0,Morelia,3,0,1
+Vie,Atlas,0–1,UANL,0,1,0
+Vie,Veracruz,1–1,Cruz Azul,1,1,-1
+Dom,UNAM,1–3,León,1,3,0
+Sáb,Monterrey,0–0,Puebla,0,0,-1
+Sáb,América,3–0,Lobos BUAP,3,0,1
+Sáb,Pachuca,3–1,Guadalajara,3,1,1
+Sáb,Necaxa,1–2,Tijuana,1,2,0
+Dom,Santos,4–0,Toluca,4,0,1
+Sáb,Cruz Azul,2–1,Necaxa,2,1,1
+Vie,Tijuana,3–1,Atlas,3,1,1
+Vie,Morelia,2–2,América,2,2,-1
+Dom,Toluca,3–1,Veracruz,3,1,1
+Dom,Lobos BUAP,2–1,UNAM,2,1,1
+Sáb,León,3–0,Santos,3,0,1
+Sáb,UANL,3–0,Pachuca,3,0,1
+Sáb,Guadalajara,0–2,Monterrey,0,2,0
+Lun,Puebla,1–0,Querétaro,1,0,1
+Mar,América,1–3,Necaxa,1,3,0
+Sáb,Pachuca,4–0,Tijuana,4,0,1
+Vie,Veracruz,2–2,Santos,2,2,-1
+Vie,Atlas,0–2,Cruz Azul,0,2,0
+Dom,UNAM,2–2,Morelia,2,2,-1
+Dom,Lobos BUAP,0–1,León,0,1,0
+Sáb,América,1–0,Puebla,1,0,1
+Sáb,Monterrey,1–1,UANL,1,1,-1
+Sáb,Necaxa,1–1,Toluca,1,1,-1
+Sáb,Querétaro,0–0,Guadalajara,0,0,-1
+Sáb,Cruz Azul,4–1,Pachuca,4,1,1
+Vie,Morelia,1–1,Lobos BUAP,1,1,-1
+Vie,Puebla,1–0,UNAM,1,0,1
+Dom,Toluca,2–0,Atlas,2,0,1
+Sáb,Guadalajara,0–2,América,0,2,0
+Sáb,Tijuana,1–0,Monterrey,1,0,1
+Sáb,UANL,4–1,Querétaro,4,1,1
+Dom,Santos,1–2,Necaxa,1,2,0
+Dom,León,2–0,Veracruz,2,0,1
+Sáb,Querétaro,1–0,Tijuana,1,0,1
+Vie,Morelia,2–3,León,2,3,0
+Vie,Atlas,1–0,Santos,1,0,1
+Dom,UNAM,2–1,Guadalajara,2,1,1
+Dom,Lobos BUAP,0–4,Puebla,0,4,0
+Sáb,Pachuca,3–2,Toluca,3,2,1
+Sáb,América,3–0,UANL,3,0,1
+Sáb,Monterrey,2–2,Cruz Azul,2,2,-1
+Sáb,Necaxa,2–0,Veracruz,2,0,1
+Sáb,Cruz Azul,3–0,Querétaro,3,0,1
+Vie,Veracruz,0–1,Atlas,0,1,0
+Vie,Puebla,1–1,Morelia,1,1,-1
+Dom,Toluca,5–1,Monterrey,5,1,1
+Dom,Santos,0–0,Pachuca,0,0,-1
+Sáb,UANL,2–0,UNAM,2,0,1
+Sáb,León,2–1,Necaxa,2,1,1
+Sáb,Tijuana,3–2,América,3,2,1
+Sáb,Guadalajara,0–1,Lobos BUAP,0,1,0
+Sáb,Querétaro,0–0,Toluca,0,0,-1
+Vie,Puebla,0–3,León,0,3,0
+Vie,Atlas,1–2,Necaxa,1,2,0
+Dom,UNAM,1–0,Tijuana,1,0,1
+Dom,Lobos BUAP,0–3,UANL,0,3,0
+Dom,América,0–0,Cruz Azul,0,0,-1
+Sáb,Pachuca,9–2,Veracruz,9,2,1
+Sáb,Morelia,1–0,Guadalajara,1,0,1
+Dom,Monterrey,4–0,Santos,4,0,1
+Sáb,Necaxa,2–2,Pachuca,2,2,-1
+Sáb,León,5–2,Atlas,5,2,1
+Vie,Tijuana,1–2,Lobos BUAP,1,2,0
+Vie,Veracruz,0–1,Monterrey,0,1,0
+Dom,Toluca,3–2,América,3,2,1
+Dom,Santos,2–1,Querétaro,2,1,1
+Sáb,Cruz Azul,2–1,UNAM,2,1,1
+Sáb,UANL,3–3,Morelia,3,3,-1
+Sáb,Guadalajara,1–3,Puebla,1,3,0
+Sáb,Pachuca,1–0,Atlas,1,0,1
+Vie,Puebla,1–1,UANL,1,1,-1
+Vie,Morelia,1–4,Tijuana,1,4,0
+Dom,UNAM,2–2,Toluca,2,2,-1
+Dom,Lobos BUAP,1–4,Cruz Azul,1,4,0
+Dom,Querétaro,2–1,Veracruz,2,1,1
+Sáb,América,1–0,Santos,1,0,1
+Sáb,Monterrey,2–2,Necaxa,2,2,-1
+Sáb,Guadalajara,2–1,León,2,1,1
+Sáb,Cruz Azul,1–1,Morelia,1,1,-1
+Vie,Veracruz,0–2,América,0,2,0
+Dom,Toluca,4–0,Lobos BUAP,4,0,1
+Dom,Atlas,2–0,Monterrey,2,0,1
+Dom,Santos,5–2,UNAM,5,2,1
+Sáb,UANL,2–1,Guadalajara,2,1,1
+Sáb,León,2–1,Pachuca,2,1,1
+Sáb,Tijuana,4–0,Puebla,4,0,1
+Sáb,Necaxa,1–0,Querétaro,1,0,1
+Mié,Pachuca,1–1,UANL,1,1,-1
+Mié,Tijuana,1–3,León,1,3,0
+Jue,Necaxa,1–0,Monterrey,1,0,1
+Jue,América,3–1,Cruz Azul,3,1,1
+Dom,Cruz Azul,1–0,América,1,0,1
+Sáb,UANL,1–1,Pachuca,1,1,-1
+Sáb,León,2–1,Tijuana,2,1,1
+Dom,Monterrey,1–0,Necaxa,1,0,1
+Mié,Monterrey,1–0,UANL,1,0,1
+Jue,América,0–1,León,0,1,0
+Sáb,UANL,1–0,Monterrey,1,0,1
+Dom,León,0–1,América,0,1,0
+Jue,UANL,1–0,León,1,0,1
+Dom,León,0–0,UANL,0,0,-1
+Sáb,Lobos BUAP,2–2,Santos,2,2,-1
+Sáb,América,0–1,Querétaro,0,1,0
+Vie,Morelia,0–0,Monterrey,0,0,-1
+Vie,Tijuana,0–2,Cruz Azul,0,2,0
+Dom,UNAM,1–0,Pachuca,1,0,1
+Dom,Veracruz,0–2,Necaxa,0,2,0
+Sáb,UANL,5–0,Puebla,5,0,1
+Sáb,León,0–3,Atlas,0,3,0
+Sáb,Guadalajara,0–0,Toluca,0,0,-1
+Sáb,Cruz Azul,1–1,Guadalajara,1,1,-1
+Sáb,Querétaro,0–4,Lobos BUAP,0,4,0
+Vie,Puebla,1–1,Morelia,1,1,-1
+Vie,Atlas,2–1,UNAM,2,1,1
+Dom,Toluca,3–1,León,3,1,1
+Dom,Santos,1–1,UANL,1,1,-1
+Sáb,Monterrey,1–0,Veracruz,1,0,1
+Sáb,Pachuca,0–2,América,0,2,0
+Sáb,Necaxa,1–0,Tijuana,1,0,1
+Sáb,Lobos BUAP,3–2,Pachuca,3,2,1
+Vie,Morelia,1–1,Santos,1,1,-1
+Vie,Tijuana,0–3,Monterrey,0,3,0
+Dom,Toluca,3–2,Atlas,3,2,1
+Dom,Veracruz,2–0,Puebla,2,0,1
+Sáb,UANL,1–1,Querétaro,1,1,-1
+Sáb,León,2–2,Cruz Azul,2,2,-1
+Sáb,América,2–1,UNAM,2,1,1
+Sáb,Guadalajara,2–2,Necaxa,2,2,-1
+Sáb,Cruz Azul,0–0,Toluca,0,0,-1
+Sáb,Querétaro,2–1,Morelia,2,1,1
+Vie,Puebla,1–1,Tijuana,1,1,-1
+Vie,Atlas,0–1,América,0,1,0
+Dom,UNAM,2–0,Lobos BUAP,2,0,1
+Dom,Santos,2–3,Veracruz,2,3,0
+Sáb,Monterrey,4–1,Guadalajara,4,1,1
+Sáb,Pachuca,2–1,UANL,2,1,1
+Sáb,Necaxa,0–3,León,0,3,0
+Sáb,Cruz Azul,2–1,Atlas,2,1,1
+Sáb,Lobos BUAP,2–3,América,2,3,0
+Vie,Tijuana,2–0,Santos,2,0,1
+Vie,Morelia,1–2,Pachuca,1,2,0
+Dom,Toluca,0–0,Necaxa,0,0,-1
+Sáb,UANL,2–0,UNAM,2,0,1
+Sáb,Veracruz,1–1,Querétaro,1,1,-1
+Sáb,León,1–2,Monterrey,1,2,0
+Sáb,Guadalajara,0–1,Puebla,0,1,0
+Mar,Pachuca,4–1,Veracruz,4,1,1
+Mar,Atlas,1–1,Lobos BUAP,1,1,-1
+Mar,Querétaro,1–3,Tijuana,1,3,0
+Mar,UNAM,1–2,Morelia,1,2,0
+Mié,América,2–2,UANL,2,2,-1
+Mié,Puebla,0–1,León,0,1,0
+Mié,Santos,1–1,Guadalajara,1,1,-1
+Mié,Monterrey,4–1,Toluca,4,1,1
+Mié,Necaxa,1–1,Cruz Azul,1,1,-1
+Sáb,Cruz Azul,1–1,Monterrey,1,1,-1
+Vie,Tijuana,2–1,Pachuca,2,1,1
+Dom,Toluca,2–1,Puebla,2,1,1
+Dom,Veracruz,1–0,UNAM,1,0,1
+Sáb,UANL,3–2,Lobos BUAP,3,2,1
+Sáb,León,1–2,Santos,1,2,0
+Sáb,Morelia,2–0,América,2,0,1
+Sáb,Necaxa,2–1,Atlas,2,1,1
+Sáb,Guadalajara,0–0,Querétaro,0,0,-1
+Sáb,Querétaro,1–2,León,1,2,0
+Sáb,Lobos BUAP,1–3,Morelia,1,3,0
+Vie,Puebla,0–0,Cruz Azul,0,0,-1
+Dom,UNAM,0–2,Tijuana,0,2,0
+Dom,Santos,0–0,Toluca,0,0,-1
+Sáb,Monterrey,1–0,Necaxa,1,0,1
+Sáb,Pachuca,1–3,Guadalajara,1,3,0
+Sáb,América,2–0,Veracruz,2,0,1
+Sáb,Cruz Azul,2–1,Santos,2,1,1
+Vie,Morelia,3–3,UANL,3,3,-1
+Vie,Tijuana,1–1,América,1,1,-1
+Dom,Toluca,3–2,Querétaro,3,2,1
+Dom,Veracruz,0–1,Lobos BUAP,0,1,0
+Sáb,Monterrey,2–1,Atlas,2,1,1
+Sáb,León,3–1,Pachuca,3,1,1
+Sáb,Necaxa,1–1,Puebla,1,1,-1
+Sáb,Guadalajara,1–1,UNAM,1,1,-1
+Mar,Guadalajara,1–2,Lobos BUAP,1,2,0
+Mar,Puebla,1–2,Atlas,1,2,0
+Mar,Tijuana,0–1,UANL,0,1,0
+Mar,Veracruz,2–1,Morelia,2,1,1
+Mié,León,2–1,América,2,1,1
+Mié,Necaxa,1–0,Querétaro,1,0,1
+Mié,Toluca,2–1,UNAM,2,1,1
+Mié,Pachuca,4–0,Cruz Azul,4,0,1
+Sáb,Querétaro,2–2,Monterrey,2,2,-1
+Sáb,Lobos BUAP,0–3,León,0,3,0
+Vie,Morelia,3–0,Tijuana,3,0,1
+Vie,Atlas,2–0,Veracruz,2,0,1
+Dom,UNAM,1–4,Cruz Azul,1,4,0
+Dom,Santos,0–0,Puebla,0,0,-1
+Sáb,UANL,1–0,Guadalajara,1,0,1
+Sáb,Pachuca,0–0,Necaxa,0,0,-1
+Sáb,Toluca,1–2,América,1,2,0
+Mié,Toluca,3–1,Lobos BUAP,3,1,1
+Sáb,Cruz Azul,1–3,América,1,3,0
+Vie,Tijuana,0–0,Veracruz,0,0,-1
+Vie,Puebla,2–2,Querétaro,2,2,-1
+Dom,Santos,0–1,Atlas,0,1,0
+Sáb,Monterrey,2–0,Pachuca,2,0,1
+Sáb,León,1–0,UANL,1,0,1
+Sáb,Necaxa,0–0,UNAM,0,0,-1
+Sáb,Guadalajara,1–2,Morelia,1,2,0
+Mar,Lobos BUAP,1–2,Tijuana,1,2,0
+Mar,Querétaro,1–2,Cruz Azul,1,2,0
+Mar,UANL,1–0,Veracruz,1,0,1
+Mar,UNAM,2–0,León,2,0,1
+Mar,Atlas,0–1,Morelia,0,1,0
+Mié,Santos,3–2,Necaxa,3,2,1
+Mié,Pachuca,2–2,Toluca,2,2,-1
+Mié,América,2–1,Guadalajara,2,1,1
+Mié,Puebla,2–0,Monterrey,2,0,1
+Sáb,Lobos BUAP,3–0,Cruz Azul,3,0,1
+Sáb,Querétaro,1–2,Santos,1,2,0
+Vie,Morelia,0–0,León,0,0,-1
+Vie,Atlas,1–0,Tijuana,1,0,1
+Dom,UNAM,0–1,Monterrey,0,1,0
+Sáb,UANL,3–0,Toluca,3,0,1
+Sáb,Pachuca,1–0,Puebla,1,0,1
+Sáb,América,0–1,Necaxa,0,1,0
+Dom,Veracruz,2–3,Guadalajara,2,3,0
+Sáb,Cruz Azul,1–2,UANL,1,2,0
+Sáb,Querétaro,2–2,Atlas,2,2,-1
+Vie,Puebla,3–0,UNAM,3,0,1
+Dom,Toluca,0–1,Morelia,0,1,0
+Sáb,Monterrey,2–0,América,2,0,1
+Sáb,León,6–2,Veracruz,6,2,1
+Sáb,Necaxa,5–0,Lobos BUAP,5,0,1
+Sáb,Guadalajara,3–1,Tijuana,3,1,1
+Dom,Santos,2–2,Pachuca,2,2,-1
+Mié,Atlas,1–1,UANL,1,1,-1
+Sáb,Lobos BUAP,2–1,Monterrey,2,1,1
+Vie,Morelia,1–2,Cruz Azul,1,2,0
+Vie,Tijuana,2–1,León,2,1,1
+Dom,UNAM,2–2,Santos,2,2,-1
+Sáb,Pachuca,0–1,Querétaro,0,1,0
+Sáb,América,1–1,Puebla,1,1,-1
+Sáb,Guadalajara,1–2,Atlas,1,2,0
+Dom,UANL,1–0,Necaxa,1,0,1
+Dom,Veracruz,0–1,Toluca,0,1,0
+Jue,Monterrey,1–1,Santos,1,1,-1
+Sáb,Querétaro,1–1,UNAM,1,1,-1
+Sáb,Cruz Azul,1–0,Veracruz,1,0,1
+Vie,Puebla,0–1,Lobos BUAP,0,1,0
+Vie,Atlas,1–1,Pachuca,1,1,-1
+Dom,Toluca,3–1,Tijuana,3,1,1
+Sáb,Monterrey,2–0,UANL,2,0,1
+Sáb,León,0–2,Guadalajara,0,2,0
+Sáb,Necaxa,1–2,Morelia,1,2,0
+Dom,Santos,0–1,América,0,1,0
+Mié,Toluca,2–1,Morelia,2,1,1
+Mié,León,1–1,UANL,1,1,-1
+Jue,Cruz Azul,0–0,América,0,0,-1
+Jue,Atlas,1–2,Monterrey,1,2,0
+Sáb,UANL,1–1,León,1,1,-1
+Sáb,Morelia,2–1,Toluca,2,1,1
+Dom,Monterrey,4–1,Atlas,4,1,1
+Dom,América,0–0,Cruz Azul,0,0,-1
+Mié,América,0–1,UANL,0,1,0
+Jue,Morelia,0–1,Monterrey,0,1,0
+Sáb,UANL,3–0,América,3,0,1
+Dom,Monterrey,4–0,Morelia,4,0,1
+Jue,UANL,1–1,Monterrey,1,1,-1
+Dom,Monterrey,1–2,UANL,1,2,0
+Sáb,Cruz Azul,0–0,Tijuana,0,0,-1
+Vie,Puebla,2–1,UANL,2,1,1
+Vie,Atlas,1–2,León,1,2,0
+Dom,Toluca,1–1,Guadalajara,1,1,-1
+Sáb,Monterrey,1–1,Morelia,1,1,-1
+Sáb,Pachuca,2–3,UNAM,2,3,0
+Sáb,Necaxa,0–0,Veracruz,0,0,-1
+Dom,Santos,4–2,Lobos BUAP,4,2,1
+Dom,Querétaro,0–1,América,0,1,0
+Sáb,América,2–2,Pachuca,2,2,-1
+Sáb,Lobos BUAP,0–2,Querétaro,0,2,0
+Vie,Tijuana,1–0,Necaxa,1,0,1
+Vie,Morelia,1–0,Puebla,1,0,1
+Dom,UNAM,3–1,Atlas,3,1,1
+Sáb,UANL,2–1,Santos,2,1,1
+Sáb,León,3–1,Toluca,3,1,1
+Sáb,Guadalajara,1–3,Cruz Azul,1,3,0
+Dom,Veracruz,0–2,Monterrey,0,2,0
+Sáb,Cruz Azul,0–0,León,0,0,-1
+Sáb,Querétaro,0–0,UANL,0,0,-1
+Vie,Puebla,2–0,Veracruz,2,0,1
+Vie,Atlas,1–3,Toluca,1,3,0
+Dom,UNAM,0–0,América,0,0,-1
+Sáb,Monterrey,0–0,Tijuana,0,0,-1
+Sáb,Pachuca,3–1,Lobos BUAP,3,1,1
+Sáb,Necaxa,1–3,Guadalajara,1,3,0
+Dom,Santos,1–0,Morelia,1,0,1
+Sáb,Lobos BUAP,1–1,UNAM,1,1,-1
+Vie,Morelia,1–0,Querétaro,1,0,1
+Vie,Tijuana,2–0,Puebla,2,0,1
+Dom,Toluca,1–1,Cruz Azul,1,1,-1
+Sáb,UANL,3–2,Pachuca,3,2,1
+Sáb,León,0–4,Necaxa,0,4,0
+Sáb,América,1–0,Atlas,1,0,1
+Sáb,Guadalajara,1–2,Monterrey,1,2,0
+Dom,Veracruz,1–1,Santos,1,1,-1
+Sáb,Querétaro,0–1,Veracruz,0,1,0
+Vie,Puebla,2–0,Guadalajara,2,0,1
+Vie,Atlas,2–1,Cruz Azul,2,1,1
+Dom,UNAM,2–0,UANL,2,0,1
+Sáb,Santos,0–0,Tijuana,0,0,-1
+Sáb,Monterrey,5–1,León,5,1,1
+Sáb,Pachuca,2–3,Morelia,2,3,0
+Sáb,América,5–1,Lobos BUAP,5,1,1
+Sáb,Necaxa,0–0,Toluca,0,0,-1
+Sáb,Lobos BUAP,3–1,Atlas,3,1,1
+Sáb,Cruz Azul,0–2,Necaxa,0,2,0
+Vie,Morelia,1–2,UNAM,1,2,0
+Vie,Tijuana,0–2,Querétaro,0,2,0
+Dom,Toluca,2–1,Monterrey,2,1,1
+Sáb,UANL,1–1,América,1,1,-1
+Sáb,León,2–1,Puebla,2,1,1
+Sáb,Guadalajara,0–2,Santos,0,2,0
+Dom,Veracruz,0–1,Pachuca,0,1,0
+Mar,Atlas,1–1,Necaxa,1,1,-1
+Mar,Lobos BUAP,0–0,UANL,0,0,-1
+Mar,América,4–1,Morelia,4,1,1
+Mié,Santos,5–1,León,5,1,1
+Mié,Querétaro,2–2,Guadalajara,2,2,-1
+Mié,Monterrey,2–2,Cruz Azul,2,2,-1
+Mié,UNAM,1–2,Veracruz,1,2,0
+Mié,Puebla,2–0,Toluca,2,0,1
+Mié,Pachuca,2–0,Tijuana,2,0,1
+Sáb,Cruz Azul,1–1,Puebla,1,1,-1
+Vie,Morelia,2–1,Lobos BUAP,2,1,1
+Dom,Toluca,2–0,Santos,2,0,1
+Sáb,Tijuana,4–1,UNAM,4,1,1
+Sáb,UANL,2–0,Atlas,2,0,1
+Sáb,León,1–1,Querétaro,1,1,-1
+Sáb,Necaxa,3–0,Monterrey,3,0,1
+Sáb,Guadalajara,1–1,Pachuca,1,1,-1
+Dom,Veracruz,1–1,América,1,1,-1
+Sáb,Lobos BUAP,5–0,Veracruz,5,0,1
+Sáb,Querétaro,0–2,Toluca,0,2,0
+Vie,Atlas,0–1,Monterrey,0,1,0
+Vie,Puebla,1–1,Necaxa,1,1,-1
+Dom,UNAM,1–1,Guadalajara,1,1,-1
+Sáb,UANL,2–1,Morelia,2,1,1
+Sáb,Pachuca,2–1,León,2,1,1
+Sáb,América,0–0,Tijuana,0,0,-1
+Dom,Santos,2–0,Cruz Azul,2,0,1
+Sáb,Cruz Azul,0–1,Querétaro,0,1,0
+Vie,Tijuana,3–1,Lobos BUAP,3,1,1
+Vie,Morelia,2–1,Atlas,2,1,1
+Dom,Toluca,2–1,Pachuca,2,1,1
+Sáb,Monterrey,1–3,Puebla,1,3,0
+Sáb,León,3–0,UNAM,3,0,1
+Sáb,Necaxa,1–2,Santos,1,2,0
+Sáb,Guadalajara,1–1,América,1,1,-1
+Dom,Veracruz,0–2,UANL,0,2,0
+Sáb,Lobos BUAP,0–1,Guadalajara,0,1,0
+Sáb,Querétaro,1–1,Necaxa,1,1,-1
+Sáb,Cruz Azul,5–0,Pachuca,5,0,1
+Vie,Morelia,2–0,Veracruz,2,0,1
+Vie,Atlas,1–0,Puebla,1,0,1
+Dom,UNAM,0–1,Toluca,0,1,0
+Sáb,UANL,1–0,Tijuana,1,0,1
+Sáb,América,2–0,León,2,0,1
+Dom,Santos,3–2,Monterrey,3,2,1
+Sáb,Cruz Azul,1–1,UNAM,1,1,-1
+Vie,Tijuana,1–1,Morelia,1,1,-1
+Vie,Puebla,0–1,Santos,0,1,0
+Sáb,Monterrey,3–1,Querétaro,3,1,1
+Sáb,León,2–2,Lobos BUAP,2,2,-1
+Sáb,América,1–2,Toluca,1,2,0
+Sáb,Necaxa,1–1,Pachuca,1,1,-1
+Sáb,Guadalajara,0–0,UANL,0,0,-1
+Dom,Veracruz,3–1,Atlas,3,1,1
+Sáb,Lobos BUAP,1–2,Toluca,1,2,0
+Sáb,Querétaro,2–1,Puebla,2,1,1
+Vie,Morelia,1–2,Guadalajara,1,2,0
+Vie,Atlas,3–2,Santos,3,2,1
+Dom,UNAM,1–1,Necaxa,1,1,-1
+Dom,Veracruz,1–0,Tijuana,1,0,1
+Sáb,UANL,4–1,León,4,1,1
+Sáb,Pachuca,1–2,Monterrey,1,2,0
+Sáb,América,2–1,Cruz Azul,2,1,1
+Sáb,Cruz Azul,1–0,Lobos BUAP,1,0,1
+Vie,Puebla,2–6,Pachuca,2,6,0
+Vie,Tijuana,2–2,Atlas,2,2,-1
+Dom,Toluca,1–0,UANL,1,0,1
+Dom,Santos,3–0,Querétaro,3,0,1
+Sáb,Monterrey,2–1,UNAM,2,1,1
+Sáb,León,2–3,Morelia,2,3,0
+Sáb,Necaxa,1–1,América,1,1,-1
+Sáb,Guadalajara,0–1,Veracruz,0,1,0
+Sáb,Lobos BUAP,0–1,Necaxa,0,1,0
+Vie,Tijuana,3–0,Guadalajara,3,0,1
+Vie,Atlas,1–0,Querétaro,1,0,1
+Dom,UNAM,4–2,Puebla,4,2,1
+Dom,Veracruz,1–2,León,1,2,0
+Sáb,UANL,2–2,Cruz Azul,2,2,-1
+Sáb,Pachuca,3–1,Santos,3,1,1
+Sáb,Morelia,0–1,Toluca,0,1,0
+Sáb,América,0–0,Monterrey,0,0,-1
+Sáb,Cruz Azul,2–0,Morelia,2,0,1
+Sáb,Querétaro,0–0,Pachuca,0,0,-1
+Vie,Puebla,3–1,América,3,1,1
+Vie,Atlas,1–0,Guadalajara,1,0,1
+Dom,Toluca,3–0,Veracruz,3,0,1
+Dom,Santos,1–2,UNAM,1,2,0
+Sáb,Monterrey,4–0,Lobos BUAP,4,0,1
+Sáb,León,1–1,Tijuana,1,1,-1
+Sáb,Necaxa,1–1,UANL,1,1,-1
+Sáb,Lobos BUAP,0–1,Puebla,0,1,0
+Vie,Morelia,2–2,Necaxa,2,2,-1
+Vie,Tijuana,1–0,Toluca,1,0,1
+Dom,UNAM,1–1,Querétaro,1,1,-1
+Dom,Veracruz,1–2,Cruz Azul,1,2,0
+Sáb,UANL,2–2,Monterrey,2,2,-1
+Sáb,Pachuca,0–0,Atlas,0,0,-1
+Sáb,América,1–0,Santos,1,0,1
+Sáb,Guadalajara,0–2,León,0,2,0
+Mié,UNAM,1–4,América,1,4,0
+Mié,Tijuana,1–1,Monterrey,1,1,-1
+Jue,UANL,2–0,Santos,2,0,1
+Jue,Morelia,2–2,Toluca,2,2,-1
+Dom,Toluca,2–2,Morelia,2,2,-1
+Dom,Santos,2–0,UANL,2,0,1
+Sáb,América,2–1,UNAM,2,1,1
+Sáb,Monterrey,1–2,Tijuana,1,2,0
+Jue,Tijuana,2–1,Toluca,2,1,1
+Jue,Santos,4–1,América,4,1,1
+Dom,Toluca,4–1,Tijuana,4,1,1
+Dom,América,2–2,Santos,2,2,-1
+Jue,Santos,2–1,Toluca,2,1,1
+Dom,Toluca,1–1,Santos,1,1,-1
+Sáb,Querétaro,2–0,Veracruz,2,0,1
+Vie,Tijuana,2–0,Morelia,2,0,1
+Dom,UNAM,1–0,Guadalajara,1,0,1
+Dom,Santos,0–0,UANL,0,0,-1
+Sáb,Atlas,1–1,Toluca,1,1,-1
+Sáb,Monterrey,1–1,Puebla,1,1,-1
+Sáb,Pachuca,5–1,León,5,1,1
+Sáb,América,2–0,Chiapas,2,0,1
+Sáb,Necaxa,0–0,Cruz Azul,0,0,-1
+Sáb,Chiapas,0–2,Pachuca,0,2,0
+Sáb,Cruz Azul,0–0,UNAM,0,0,-1
+Vie,Veracruz,2–0,Santos,2,0,1
+Dom,Puebla,3–2,Tijuana,3,2,1
+Sáb,Morelia,2–2,Querétaro,2,2,-1
+Sáb,UANL,0–0,Atlas,0,0,-1
+Sáb,León,0–0,Necaxa,0,0,-1
+Sáb,Guadalajara,1–0,Monterrey,1,0,1
+Sáb,América,3–1,Toluca,3,1,1
+Sáb,Querétaro,2–1,Puebla,2,1,1
+Vie,Tijuana,4–0,Guadalajara,4,0,1
+Dom,UNAM,1–0,León,1,0,1
+Dom,Chiapas,1–0,Toluca,1,0,1
+Dom,Santos,2–4,Morelia,2,4,0
+Sáb,Atlas,1–0,Veracruz,1,0,1
+Sáb,Monterrey,1–1,Cruz Azul,1,1,-1
+Sáb,Pachuca,1–0,Necaxa,1,0,1
+Sáb,América,0–3,UANL,0,3,0
+Sáb,Cruz Azul,1–2,Tijuana,1,2,0
+Dom,Toluca,2–0,Pachuca,2,0,1
+Dom,Puebla,0–0,Santos,0,0,-1
+Sáb,Morelia,3–2,Atlas,3,2,1
+Sáb,UANL,1–0,Chiapas,1,0,1
+Sáb,León,0–3,Monterrey,0,3,0
+Sáb,Veracruz,2–4,América,2,4,0
+Sáb,Necaxa,2–2,UNAM,2,2,-1
+Sáb,Guadalajara,0–0,Querétaro,0,0,-1
+Sáb,Querétaro,0–0,Cruz Azul,0,0,-1
+Vie,Tijuana,2–0,León,2,0,1
+Dom,Toluca,0–0,UANL,0,0,-1
+Dom,Chiapas,1–1,Veracruz,1,1,-1
+Dom,Santos,0–1,Guadalajara,0,1,0
+Sáb,Monterrey,2–1,Necaxa,2,1,1
+Sáb,Atlas,3–2,Puebla,3,2,1
+Sáb,Pachuca,3–0,UNAM,3,0,1
+Sáb,América,1–1,Morelia,1,1,-1
+Sáb,Cruz Azul,3–1,Santos,3,1,1
+Vie,Veracruz,2–2,Toluca,2,2,-1
+Dom,UNAM,5–3,Monterrey,5,3,1
+Dom,Puebla,2–2,América,2,2,-1
+Sáb,UANL,4–2,Pachuca,4,2,1
+Sáb,Morelia,3–2,Chiapas,3,2,1
+Sáb,León,2–1,Querétaro,2,1,1
+Sáb,Necaxa,1–1,Tijuana,1,1,-1
+Sáb,Guadalajara,2–2,Atlas,2,2,-1
+Sáb,Querétaro,1–2,Necaxa,1,2,0
+Vie,Tijuana,1–0,UNAM,1,0,1
+Dom,Toluca,2–2,Morelia,2,2,-1
+Dom,Chiapas,0–3,Puebla,0,3,0
+Dom,Santos,1–0,León,1,0,1
+Sáb,UANL,1–1,Veracruz,1,1,-1
+Sáb,Atlas,1–1,Cruz Azul,1,1,-1
+Sáb,Pachuca,1–1,Monterrey,1,1,-1
+Sáb,América,0–3,Guadalajara,0,3,0
+Sáb,Cruz Azul,3–4,América,3,4,0
+Vie,Veracruz,1–0,Pachuca,1,0,1
+Dom,UNAM,4–1,Querétaro,4,1,1
+Dom,Puebla,0–2,Toluca,0,2,0
+Sáb,Morelia,0–2,UANL,0,2,0
+Sáb,Monterrey,0–0,Tijuana,0,0,-1
+Sáb,León,4–1,Atlas,4,1,1
+Sáb,Necaxa,2–1,Santos,2,1,1
+Sáb,Guadalajara,2–0,Chiapas,2,0,1
+Sáb,Toluca,2–1,Guadalajara,2,1,1
+Sáb,Querétaro,1–0,Monterrey,1,0,1
+Vie,Veracruz,1–3,Morelia,1,3,0
+Dom,Santos,3–1,UNAM,3,1,1
+Sáb,UANL,2–1,Puebla,2,1,1
+Sáb,Chiapas,0–3,Cruz Azul,0,3,0
+Sáb,Atlas,0–0,Necaxa,0,0,-1
+Sáb,Pachuca,2–2,Tijuana,2,2,-1
+Sáb,América,0–2,León,0,2,0
+Mar,Morelia,1–5,Pachuca,1,5,0
+Mar,Guadalajara,0–1,UANL,0,1,0
+Mar,Cruz Azul,0–1,Toluca,0,1,0
+Mar,Puebla,3–2,Veracruz,3,2,1
+Mar,Necaxa,1–1,América,1,1,-1
+Mié,León,0–0,Chiapas,0,0,-1
+Mié,Tijuana,2–1,Querétaro,2,1,1
+Mié,UNAM,2–0,Atlas,2,0,1
+Mié,Monterrey,5–2,Santos,5,2,1
+Sáb,Chiapas,2–2,Necaxa,2,2,-1
+Vie,Veracruz,0–1,Guadalajara,0,1,0
+Dom,Toluca,1–1,León,1,1,-1
+Dom,Santos,1–2,Tijuana,1,2,0
+Sáb,Atlas,3–1,Monterrey,3,1,1
+Sáb,Morelia,2–3,Puebla,2,3,0
+Sáb,UANL,0–0,Cruz Azul,0,0,-1
+Sáb,Pachuca,2–0,Querétaro,2,0,1
+Sáb,América,2–1,UNAM,2,1,1
+Sáb,Querétaro,1–1,Santos,1,1,-1
+Sáb,Cruz Azul,5–3,Veracruz,5,3,1
+Vie,Tijuana,1–0,Atlas,1,0,1
+Dom,UNAM,1–0,Chiapas,1,0,1
+Dom,Puebla,1–1,Pachuca,1,1,-1
+Sáb,Monterrey,1–1,América,1,1,-1
+Sáb,León,3–2,UANL,3,2,1
+Sáb,Guadalajara,2–1,Morelia,2,1,1
+Sáb,Necaxa,3–1,Toluca,3,1,1
+Sáb,Chiapas,1–4,Monterrey,1,4,0
+Vie,Veracruz,2–3,León,2,3,0
+Dom,Toluca,2–1,UNAM,2,1,1
+Dom,Puebla,0–2,Guadalajara,0,2,0
+Sáb,UANL,0–2,Necaxa,0,2,0
+Sáb,Morelia,1–1,Cruz Azul,1,1,-1
+Sáb,Atlas,2–1,Querétaro,2,1,1
+Sáb,Pachuca,3–0,Santos,3,0,1
+Sáb,América,1–0,Tijuana,1,0,1
+Sáb,Cruz Azul,1–2,Puebla,1,2,0
+Vie,Tijuana,2–0,Chiapas,2,0,1
+Dom,UNAM,1–3,UANL,1,3,0
+Dom,Santos,2–2,Atlas,2,2,-1
+Sáb,Querétaro,1–1,América,1,1,-1
+Sáb,Monterrey,1–1,Toluca,1,1,-1
+Sáb,Necaxa,3–2,Veracruz,3,2,1
+Sáb,León,3–1,Morelia,3,1,1
+Dom,Guadalajara,1–2,Pachuca,1,2,0
+Sáb,Chiapas,1–2,Querétaro,1,2,0
+Vie,Veracruz,1–4,UNAM,1,4,0
+Dom,Toluca,0–1,Tijuana,0,1,0
+Sáb,UANL,1–1,Monterrey,1,1,-1
+Sáb,Morelia,2–1,Necaxa,2,1,1
+Sáb,Pachuca,3–2,Atlas,3,2,1
+Sáb,América,3–1,Santos,3,1,1
+Sáb,Guadalajara,3–2,Cruz Azul,3,2,1
+Dom,Puebla,2–2,León,2,2,-1
+Sáb,Querétaro,2–3,Toluca,2,3,0
+Sáb,Cruz Azul,2–1,Pachuca,2,1,1
+Vie,Tijuana,0–1,UANL,0,1,0
+Dom,UNAM,1–1,Morelia,1,1,-1
+Sáb,Atlas,1–1,América,1,1,-1
+Sáb,Monterrey,4–0,Veracruz,4,0,1
+Sáb,León,1–1,Guadalajara,1,1,-1
+Sáb,Necaxa,3–1,Puebla,3,1,1
+Dom,Santos,2–0,Chiapas,2,0,1
+Sáb,Chiapas,1–0,Atlas,1,0,1
+Sáb,Cruz Azul,2–3,León,2,3,0
+Vie,Veracruz,2–1,Tijuana,2,1,1
+Dom,Toluca,1–2,Santos,1,2,0
+Sáb,Morelia,1–2,Monterrey,1,2,0
+Sáb,UANL,1–2,Querétaro,1,2,0
+Sáb,Pachuca,3–3,América,3,3,-1
+Sáb,Guadalajara,1–1,Necaxa,1,1,-1
+Dom,Puebla,0–3,UNAM,0,3,0
+Mié,León,3–0,Tijuana,3,0,1
+Mié,UNAM,2–2,UANL,2,2,-1
+Jue,Necaxa,2–1,Pachuca,2,1,1
+Jue,América,1–1,Guadalajara,1,1,-1
+Sáb,Tijuana,3–2,León,3,2,1
+Sáb,UANL,5–0,UNAM,5,0,1
+Dom,Guadalajara,0–1,América,0,1,0
+Dom,Pachuca,0–0,Necaxa,0,0,-1
+Mié,León,0–1,UANL,0,1,0
+Jue,Necaxa,1–1,América,1,1,-1
+Sáb,UANL,2–1,León,2,1,1
+Dom,América,2–0,Necaxa,2,0,1
+Jue,América,1–1,UANL,1,1,-1
+Dom,UANL,1–1,América,1,1,-1
+Sáb,Cruz Azul,1–0,Necaxa,1,0,1
+Vie,Veracruz,1–0,Querétaro,1,0,1
+Dom,Toluca,4–1,Atlas,4,1,1
+Sáb,Morelia,2–0,Tijuana,2,0,1
+Sáb,UANL,0–0,Santos,0,0,-1
+Sáb,León,2–4,Pachuca,2,4,0
+Sáb,Guadalajara,2–1,UNAM,2,1,1
+Dom,Puebla,2–3,Monterrey,2,3,0
+Sáb,Querétaro,0–0,Morelia,0,0,-1
+Vie,Tijuana,6–2,Puebla,6,2,1
+Dom,UNAM,1–0,Cruz Azul,1,0,1
+Dom,Toluca,2–1,América,2,1,1
+Sáb,Monterrey,2–2,Guadalajara,2,2,-1
+Sáb,Atlas,2–0,UANL,2,0,1
+Sáb,Pachuca,1–0,Chiapas,1,0,1
+Sáb,Necaxa,0–1,León,0,1,0
+Dom,Santos,2–1,Veracruz,2,1,1
+Sáb,Cruz Azul,2–2,Monterrey,2,2,-1
+Vie,Veracruz,1–0,Atlas,1,0,1
+Dom,Toluca,0–1,Chiapas,0,1,0
+Sáb,Morelia,1–1,Santos,1,1,-1
+Sáb,UANL,4–2,América,4,2,1
+Sáb,León,0–1,UNAM,0,1,0
+Sáb,Necaxa,1–0,Pachuca,1,0,1
+Sáb,Guadalajara,0–1,Tijuana,0,1,0
+Dom,Puebla,0–0,Querétaro,0,0,-1
+Sáb,Querétaro,0–1,Guadalajara,0,1,0
+Vie,Tijuana,1–0,Cruz Azul,1,0,1
+Dom,UNAM,3–1,Necaxa,3,1,1
+Dom,Chiapas,1–0,UANL,1,0,1
+Sáb,Atlas,3–1,Morelia,3,1,1
+Sáb,Monterrey,0–0,León,0,0,-1
+Sáb,Pachuca,0–0,Toluca,0,0,-1
+Sáb,América,1–0,Veracruz,1,0,1
+Dom,Santos,2–0,Puebla,2,0,1
+Sáb,Cruz Azul,1–1,Querétaro,1,1,-1
+Vie,Puebla,1–1,Atlas,1,1,-1
+Vie,Veracruz,2–0,Chiapas,2,0,1
+Dom,UNAM,1–1,Pachuca,1,1,-1
+Dom,Guadalajara,1–1,Santos,1,1,-1
+Sáb,UANL,0–1,Toluca,0,1,0
+Sáb,Morelia,0–2,América,0,2,0
+Sáb,León,2–4,Tijuana,2,4,0
+Sáb,Necaxa,1–1,Monterrey,1,1,-1
+Mar,Chiapas,2–0,América,2,0,1
+Sáb,Querétaro,2–1,León,2,1,1
+Vie,Tijuana,1–2,Necaxa,1,2,0
+Dom,Toluca,1–0,Veracruz,1,0,1
+Dom,Chiapas,1–2,Morelia,1,2,0
+Sáb,Atlas,1–2,Guadalajara,1,2,0
+Sáb,Monterrey,2–0,UNAM,2,0,1
+Sáb,Pachuca,1–0,UANL,1,0,1
+Sáb,América,0–0,Puebla,0,0,-1
+Dom,Santos,2–2,Cruz Azul,2,2,-1
+Sáb,Cruz Azul,0–1,Atlas,0,1,0
+Vie,Veracruz,0–3,UANL,0,3,0
+Dom,UNAM,3–3,Tijuana,3,3,-1
+Dom,Puebla,3–0,Chiapas,3,0,1
+Sáb,Monterrey,1–0,Pachuca,1,0,1
+Sáb,Morelia,1–2,Toluca,1,2,0
+Sáb,León,2–2,Santos,2,2,-1
+Sáb,Necaxa,1–4,Querétaro,1,4,0
+Sáb,Guadalajara,1–0,América,1,0,1
+Sáb,Querétaro,4–3,UNAM,4,3,1
+Vie,Tijuana,2–0,Monterrey,2,0,1
+Dom,Toluca,1–3,Puebla,1,3,0
+Dom,Chiapas,4–3,Guadalajara,4,3,1
+Sáb,UANL,1–1,Morelia,1,1,-1
+Sáb,Atlas,2–0,León,2,0,1
+Sáb,Pachuca,1–0,Veracruz,1,0,1
+Sáb,América,2–0,Cruz Azul,2,0,1
+Dom,Santos,2–2,Necaxa,2,2,-1
+Sáb,Cruz Azul,2–0,Chiapas,2,0,1
+Vie,Tijuana,2–3,Pachuca,2,3,0
+Dom,UNAM,2–1,Santos,2,1,1
+Dom,Puebla,0–2,UANL,0,2,0
+Sáb,Monterrey,4–1,Querétaro,4,1,1
+Sáb,Morelia,1–0,Veracruz,1,0,1
+Sáb,León,1–1,América,1,1,-1
+Sáb,Necaxa,1–1,Atlas,1,1,-1
+Sáb,Guadalajara,2–0,Toluca,2,0,1
+Sáb,Querétaro,3–0,Pachuca,3,0,1
+Sáb,Cruz Azul,0–0,UANL,0,0,-1
+Vie,Tijuana,1–1,Santos,1,1,-1
+Dom,UNAM,2–3,América,2,3,0
+Sáb,Monterrey,2–0,Atlas,2,0,1
+Sáb,León,2–3,Toluca,2,3,0
+Sáb,Necaxa,2–2,Chiapas,2,2,-1
+Sáb,Guadalajara,2–0,Veracruz,2,0,1
+Dom,Puebla,0–1,Morelia,0,1,0
+Sáb,Chiapas,0–3,UNAM,0,3,0
+Vie,Veracruz,3–1,Cruz Azul,3,1,1
+Dom,Toluca,2–0,Necaxa,2,0,1
+Dom,Santos,1–0,Querétaro,1,0,1
+Sáb,UANL,0–1,León,0,1,0
+Sáb,Atlas,3–3,Tijuana,3,3,-1
+Sáb,Morelia,0–0,Guadalajara,0,0,-1
+Sáb,Pachuca,0–0,Puebla,0,0,-1
+Sáb,América,1–0,Monterrey,1,0,1
+Sáb,Cruz Azul,1–1,Morelia,1,1,-1
+Sáb,Querétaro,1–4,Atlas,1,4,0
+Vie,Tijuana,0–0,América,0,0,-1
+Dom,UNAM,0–1,Toluca,0,1,0
+Dom,Santos,1–0,Pachuca,1,0,1
+Sáb,Monterrey,4–1,Chiapas,4,1,1
+Sáb,León,4–0,Veracruz,4,0,1
+Sáb,Necaxa,1–1,UANL,1,1,-1
+Sáb,Guadalajara,3–2,Puebla,3,2,1
+Mar,Chiapas,0–0,León,0,0,-1
+Mar,Veracruz,3–2,Puebla,3,2,1
+Mar,UANL,3–0,Guadalajara,3,0,1
+Mié,Querétaro,0–1,Tijuana,0,1,0
+Mié,Santos,2–2,Monterrey,2,2,-1
+Mié,América,1–0,Necaxa,1,0,1
+Mié,Pachuca,0–0,Morelia,0,0,-1
+Mié,Atlas,1–1,UNAM,1,1,-1
+Jue,Toluca,0–2,Cruz Azul,0,2,0
+Sáb,Chiapas,1–2,Tijuana,1,2,0
+Dom,Toluca,1–1,Monterrey,1,1,-1
+Dom,Puebla,2–1,Cruz Azul,2,1,1
+Sáb,UANL,4–0,UNAM,4,0,1
+Sáb,Morelia,1–2,León,1,2,0
+Sáb,Veracruz,0–1,Necaxa,0,1,0
+Sáb,Atlas,1–1,Santos,1,1,-1
+Sáb,Pachuca,0–0,Guadalajara,0,0,-1
+Sáb,América,1–0,Querétaro,1,0,1
+Sáb,Cruz Azul,2–1,Guadalajara,2,1,1
+Sáb,Querétaro,2–2,Chiapas,2,2,-1
+Vie,Tijuana,2–0,Toluca,2,0,1
+Dom,UNAM,0–2,Veracruz,0,2,0
+Sáb,Monterrey,1–0,UANL,1,0,1
+Sáb,Atlas,1–0,Pachuca,1,0,1
+Sáb,León,1–0,Puebla,1,0,1
+Sáb,Necaxa,2–1,Morelia,2,1,1
+Dom,Santos,2–1,América,2,1,1
+Sáb,Chiapas,2–2,Santos,2,2,-1
+Vie,Veracruz,1–0,Monterrey,1,0,1
+Dom,Toluca,1–2,Querétaro,1,2,0
+Dom,Puebla,0–1,Necaxa,0,1,0
+Sáb,Morelia,4–0,UNAM,4,0,1
+Sáb,UANL,3–0,Tijuana,3,0,1
+Sáb,Guadalajara,1–1,León,1,1,-1
+Sáb,Pachuca,2–2,Cruz Azul,2,2,-1
+Sáb,América,1–2,Atlas,1,2,0
+Sáb,Querétaro,1–5,UANL,1,5,0
+Dom,UNAM,0–1,Puebla,0,1,0
+Dom,Santos,2–2,Toluca,2,2,-1
+Sáb,Tijuana,1–0,Veracruz,1,0,1
+Sáb,León,1–2,Cruz Azul,1,2,0
+Sáb,Monterrey,1–2,Morelia,1,2,0
+Sáb,Atlas,0–1,Chiapas,0,1,0
+Sáb,Necaxa,0–0,Guadalajara,0,0,-1
+Sáb,América,2–3,Pachuca,2,3,0
+Mié,UANL,4–1,Monterrey,4,1,1
+Mié,Santos,1–4,Toluca,1,4,0
+Jue,Morelia,1–0,Tijuana,1,0,1
+Jue,Atlas,1–0,Guadalajara,1,0,1
+Dom,Guadalajara,1–0,Atlas,1,0,1
+Sáb,Monterrey,0–2,UANL,0,2,0
+Sáb,Toluca,1–3,Santos,1,3,0
+Dom,Tijuana,2–0,Morelia,2,0,1
+Jue,Toluca,1–1,Guadalajara,1,1,-1
+Jue,UANL,2–0,Tijuana,2,0,1
+Dom,Guadalajara,1–1,Toluca,1,1,-1
+Dom,Tijuana,0–2,UANL,0,2,0
+Jue,UANL,2–2,Guadalajara,2,2,-1
+Dom,Guadalajara,2–1,UANL,2,1,1
+Sáb,Cruz Azul,0–3,Morelia,0,3,0
+Vie,Veracruz,2–0,Guadalajara,2,0,1
+Dom,UNAM,3–0,Monterrey,3,0,1
+Dom,Puebla,4–2,América,4,2,1
+Sáb,UANL,0–1,Toluca,0,1,0
+Sáb,Sinaloa,0–0,Chiapas,0,0,-1
+Sáb,Pachuca,2–1,Tijuana,2,1,1
+Sáb,Atlas,0–2,Querétaro,0,2,0
+Sáb,Santos,1–3,León,1,3,0
+Sáb,América,1–3,Atlas,1,3,0
+Vie,Querétaro,1–2,Pachuca,1,2,0
+Vie,Tijuana,1–2,Sinaloa,1,2,0
+Dom,Toluca,2–1,UNAM,2,1,1
+Dom,Guadalajara,0–1,Cruz Azul,0,1,0
+Sáb,León,4–1,Veracruz,4,1,1
+Sáb,Morelia,1–0,UANL,1,0,1
+Sáb,Chiapas,2–1,Santos,2,1,1
+Sáb,Cruz Azul,2–0,León,2,0,1
+Vie,Veracruz,2–1,Chiapas,2,1,1
+Vie,Santos,0–1,Tijuana,0,1,0
+Dom,Toluca,0–1,Morelia,0,1,0
+Dom,Puebla,3–2,UNAM,3,2,1
+Sáb,Sinaloa,1–1,Querétaro,1,1,-1
+Sáb,Pachuca,0–3,América,0,3,0
+Sáb,Atlas,0–3,Monterrey,0,3,0
+Dom,UANL,2–2,Guadalajara,2,2,-1
+Mar,Tijuana,1–3,Veracruz,1,3,0
+Mar,Querétaro,1–2,Santos,1,2,0
+Mar,América,4–0,Sinaloa,4,0,1
+Mar,Monterrey,4–3,Pachuca,4,3,1
+Mié,Puebla,1–0,Toluca,1,0,1
+Mié,León,2–1,UANL,2,1,1
+Mié,Guadalajara,2–0,Morelia,2,0,1
+Mié,UNAM,5–0,Atlas,5,0,1
+Mié,Chiapas,2–1,Cruz Azul,2,1,1
+Sáb,Cruz Azul,1–3,Tijuana,1,3,0
+Sáb,Morelia,3–4,León,3,4,0
+Vie,Veracruz,2–2,Querétaro,2,2,-1
+Vie,Santos,0–2,América,0,2,0
+Dom,Toluca,3–1,Guadalajara,3,1,1
+Sáb,UANL,4–1,Chiapas,4,1,1
+Sáb,Sinaloa,1–4,Monterrey,1,4,0
+Sáb,Pachuca,1–2,UNAM,1,2,0
+Sáb,Atlas,2–1,Puebla,2,1,1
+Sáb,América,3–1,Veracruz,3,1,1
+Vie,Tijuana,1–2,UANL,1,2,0
+Vie,Querétaro,4–2,Cruz Azul,4,2,1
+Dom,UNAM,2–0,Sinaloa,2,0,1
+Dom,Puebla,3–2,Pachuca,3,2,1
+Sáb,Monterrey,1–1,Santos,1,1,-1
+Sáb,León,1–0,Guadalajara,1,0,1
+Sáb,Atlas,1–2,Toluca,1,2,0
+Sáb,Chiapas,3–1,Morelia,3,1,1
+Sáb,Cruz Azul,0–2,América,0,2,0
+Vie,Veracruz,2–1,Monterrey,2,1,1
+Vie,Santos,3–4,UNAM,3,4,0
+Dom,Toluca,1–3,León,1,3,0
+Dom,Guadalajara,4–1,Chiapas,4,1,1
+Sáb,UANL,5–1,Querétaro,5,1,1
+Sáb,Sinaloa,1–0,Puebla,1,0,1
+Sáb,Pachuca,1–1,Atlas,1,1,-1
+Sáb,Morelia,1–2,Tijuana,1,2,0
+Sáb,América,0–1,UANL,0,1,0
+Vie,Tijuana,2–1,Guadalajara,2,1,1
+Vie,Querétaro,0–1,Morelia,0,1,0
+Dom,UNAM,3–0,Veracruz,3,0,1
+Dom,Puebla,0–1,Santos,0,1,0
+Sáb,Monterrey,1–1,Cruz Azul,1,1,-1
+Sáb,Pachuca,3–4,Toluca,3,4,0
+Sáb,Atlas,3–2,Sinaloa,3,2,1
+Sáb,Chiapas,6–2,León,6,2,1
+Sáb,Cruz Azul,2–1,UNAM,2,1,1
+Vie,Veracruz,2–1,Puebla,2,1,1
+Vie,Santos,0–2,Atlas,0,2,0
+Dom,Toluca,1–1,Chiapas,1,1,-1
+Dom,Guadalajara,2–1,Querétaro,2,1,1
+Sáb,UANL,3–1,Monterrey,3,1,1
+Sáb,Sinaloa,1–2,Pachuca,1,2,0
+Sáb,León,2–1,Tijuana,2,1,1
+Sáb,Morelia,0–3,América,0,3,0
+Sáb,América,1–2,Guadalajara,1,2,0
+Vie,Querétaro,3–0,León,3,0,1
+Vie,Tijuana,1–1,Chiapas,1,1,-1
+Dom,UNAM,1–0,UANL,1,0,1
+Dom,Puebla,2–1,Cruz Azul,2,1,1
+Sáb,Monterrey,2–2,Morelia,2,2,-1
+Sáb,Sinaloa,1–2,Toluca,1,2,0
+Sáb,Pachuca,0–0,Santos,0,0,-1
+Sáb,Atlas,0–1,Veracruz,0,1,0
+Mié,Morelia,2–2,UNAM,2,2,-1
+Mar,Toluca,4–1,Tijuana,4,1,1
+Mar,León,3–0,América,3,0,1
+Mar,Guadalajara,2–1,Monterrey,2,1,1
+Mar,Veracruz,0–1,Pachuca,0,1,0
+Mar,Chiapas,0–0,Querétaro,0,0,-1
+Mar,Santos,1–1,Sinaloa,1,1,-1
+Mié,Cruz Azul,1–1,Atlas,1,1,-1
+Mié,UANL,0–1,Puebla,0,1,0
+Sáb,América,2–1,Chiapas,2,1,1
+Vie,Querétaro,2–1,Tijuana,2,1,1
+Dom,UNAM,1–0,Guadalajara,1,0,1
+Dom,Puebla,1–3,Morelia,1,3,0
+Sáb,Monterrey,4–0,León,4,0,1
+Sáb,Santos,0–0,Toluca,0,0,-1
+Sáb,Atlas,0–1,UANL,0,1,0
+Vie,Monterrey,1–1,Puebla,1,1,-1
+Sáb,Cruz Azul,1–1,Sinaloa,1,1,-1
+Vie,Tijuana,0–2,América,0,2,0
+Vie,Veracruz,0–3,Santos,0,3,0
+Dom,Toluca,4–2,Querétaro,4,2,1
+Dom,Guadalajara,1–1,Puebla,1,1,-1
+Sáb,UANL,2–1,Pachuca,2,1,1
+Sáb,León,1–3,UNAM,1,3,0
+Sáb,Morelia,0–1,Atlas,0,1,0
+Sáb,Chiapas,2–2,Monterrey,2,2,-1
+Sáb,América,0–1,Querétaro,0,1,0
+Vie,Veracruz,3–2,Toluca,3,2,1
+Vie,Santos,1–2,Cruz Azul,1,2,0
+Dom,UNAM,2–3,Chiapas,2,3,0
+Dom,Puebla,1–0,León,1,0,1
+Sáb,Sinaloa,0–0,UANL,0,0,-1
+Sáb,Monterrey,3–1,Tijuana,3,1,1
+Sáb,Pachuca,2–0,Morelia,2,0,1
+Sáb,Cruz Azul,1–1,Veracruz,1,1,-1
+Vie,Querétaro,3–1,Monterrey,3,1,1
+Vie,Tijuana,1–2,UNAM,1,2,0
+Dom,Toluca,2–3,América,2,3,0
+Dom,Guadalajara,4–4,Pachuca,4,4,-1
+Sáb,UANL,2–2,Santos,2,2,-1
+Sáb,León,2–1,Atlas,2,1,1
+Sáb,Morelia,4–0,Sinaloa,4,0,1
+Sáb,Chiapas,1–0,Puebla,1,0,1
+Sáb,Cruz Azul,1–2,Toluca,1,2,0
+Vie,Veracruz,1–3,UANL,1,3,0
+Vie,Santos,2–3,Morelia,2,3,0
+Dom,UNAM,2–1,Querétaro,2,1,1
+Dom,Puebla,2–1,Tijuana,2,1,1
+Sáb,Monterrey,2–1,América,2,1,1
+Sáb,Sinaloa,2–1,Guadalajara,2,1,1
+Sáb,Pachuca,3–2,León,3,2,1
+Sáb,Atlas,2–3,Chiapas,2,3,0
+Mar,Sinaloa,0–0,Veracruz,0,0,-1
+Mié,Atlas,0–1,Guadalajara,0,1,0
+Sáb,Pachuca,1–2,Cruz Azul,1,2,0
+Sáb,América,1–1,UNAM,1,1,-1
+Vie,Querétaro,0–0,Puebla,0,0,-1
+Vie,Tijuana,2–0,Atlas,2,0,1
+Dom,Toluca,3–1,Monterrey,3,1,1
+Dom,Guadalajara,0–3,Santos,0,3,0
+Sáb,UANL,0–0,Cruz Azul,0,0,-1
+Sáb,León,3–0,Sinaloa,3,0,1
+Sáb,Morelia,1–2,Veracruz,1,2,0
+Sáb,Chiapas,3–2,Pachuca,3,2,1
+Mié,América,4–1,León,4,1,1
+Mié,UANL,2–1,Chiapas,2,1,1
+Jue,Veracruz,1–0,UNAM,1,0,1
+Jue,Puebla,2–2,Toluca,2,2,-1
+Dom,UNAM,1–0,Veracruz,1,0,1
+Dom,Toluca,1–0,Puebla,1,0,1
+Sáb,Chiapas,0–1,UANL,0,1,0
+Sáb,León,2–1,América,2,1,1
+Jue,América,0–3,UNAM,0,3,0
+Jue,UANL,0–0,Toluca,0,0,-1
+Dom,UNAM,1–3,América,1,3,0
+Dom,Toluca,0–2,UANL,0,2,0
+Jue,UANL,3–0,UNAM,3,0,1
+Dom,UNAM,4–1,UANL,4,1,1
+Sáb,América,0–0,Puebla,0,0,-1
+Vie,Querétaro,1–3,Atlas,1,3,0
+Vie,Tijuana,1–1,Pachuca,1,1,-1
+Dom,Toluca,1–0,UANL,1,0,1
+Dom,Guadalajara,2–2,Veracruz,2,2,-1
+Sáb,Monterrey,1–0,UNAM,1,0,1
+Sáb,León,2–0,Santos,2,0,1
+Sáb,Morelia,2–2,Cruz Azul,2,2,-1
+Sáb,Chiapas,1–0,Sinaloa,1,0,1
+Sáb,Cruz Azul,1–1,Guadalajara,1,1,-1
+Vie,Veracruz,1–3,León,1,3,0
+Vie,Santos,1–0,Chiapas,1,0,1
+Dom,UNAM,3–2,Toluca,3,2,1
+Dom,Puebla,1–3,Monterrey,1,3,0
+Sáb,UANL,2–0,Morelia,2,0,1
+Sáb,Sinaloa,0–1,Tijuana,0,1,0
+Sáb,Pachuca,1–0,Querétaro,1,0,1
+Sáb,Atlas,0–3,América,0,3,0
+Sáb,América,1–4,Pachuca,1,4,0
+Vie,Tijuana,1–3,Santos,1,3,0
+Vie,Querétaro,3–0,Sinaloa,3,0,1
+Dom,UNAM,0–1,Puebla,0,1,0
+Dom,Guadalajara,2–2,UANL,2,2,-1
+Sáb,Monterrey,1–0,Atlas,1,0,1
+Sáb,León,3–2,Cruz Azul,3,2,1
+Sáb,Morelia,1–1,Toluca,1,1,-1
+Sáb,Chiapas,1–1,Veracruz,1,1,-1
+Sáb,Cruz Azul,2–1,Chiapas,2,1,1
+Vie,Santos,2–0,Querétaro,2,0,1
+Vie,Veracruz,2–2,Tijuana,2,2,-1
+Dom,Toluca,1–1,Puebla,1,1,-1
+Sáb,Morelia,2–0,Guadalajara,2,0,1
+Sáb,UANL,3–1,León,3,1,1
+Sáb,Sinaloa,0–3,América,0,3,0
+Sáb,Pachuca,3–1,Monterrey,3,1,1
+Sáb,Atlas,1–1,UNAM,1,1,-1
+Sáb,América,2–0,Santos,2,0,1
+Vie,Querétaro,2–1,Veracruz,2,1,1
+Vie,Tijuana,1–1,Cruz Azul,1,1,-1
+Vie,Chiapas,1–3,UANL,1,3,0
+Dom,UNAM,1–1,Pachuca,1,1,-1
+Sáb,Puebla,4–1,Atlas,4,1,1
+Sáb,Monterrey,3–0,Sinaloa,3,0,1
+Sáb,León,1–2,Morelia,1,2,0
+Sáb,Guadalajara,1–1,Toluca,1,1,-1
+Sáb,Cruz Azul,2–1,Querétaro,2,1,1
+Vie,Veracruz,1–1,América,1,1,-1
+Vie,Toluca,1–1,Atlas,1,1,-1
+Vie,Santos,1–2,Monterrey,1,2,0
+Dom,Guadalajara,0–1,León,0,1,0
+Sáb,UANL,1–2,Tijuana,1,2,0
+Sáb,Sinaloa,2–3,UNAM,2,3,0
+Dom,Pachuca,5–2,Puebla,5,2,1
+Sáb,América,3–3,Cruz Azul,3,3,-1
+Vie,Querétaro,2–2,UANL,2,2,-1
+Vie,Tijuana,1–1,Morelia,1,1,-1
+Dom,UNAM,1–1,Santos,1,1,-1
+Dom,Puebla,3–2,Sinaloa,3,2,1
+Sáb,Monterrey,5–1,Veracruz,5,1,1
+Sáb,León,5–1,Toluca,5,1,1
+Sáb,Atlas,1–0,Pachuca,1,0,1
+Sáb,Chiapas,1–1,Guadalajara,1,1,-1
+Sáb,Cruz Azul,4–0,Monterrey,4,0,1
+Vie,Veracruz,0–0,UNAM,0,0,-1
+Dom,Guadalajara,1–1,Tijuana,1,1,-1
+Sáb,Santos,1–1,Puebla,1,1,-1
+Sáb,UANL,4–1,América,4,1,1
+Sáb,Sinaloa,2–1,Atlas,2,1,1
+Sáb,León,1–3,Chiapas,1,3,0
+Sáb,Morelia,1–1,Querétaro,1,1,-1
+Sáb,Toluca,0–1,Pachuca,0,1,0
+Sáb,América,4–1,Morelia,4,1,1
+Vie,Tijuana,0–0,León,0,0,-1
+Dom,UNAM,2–2,Cruz Azul,2,2,-1
+Dom,Puebla,1–1,Veracruz,1,1,-1
+Sáb,Querétaro,0–2,Guadalajara,0,2,0
+Sáb,Monterrey,1–0,UANL,1,0,1
+Sáb,Pachuca,2–2,Sinaloa,2,2,-1
+Sáb,Atlas,1–2,Santos,1,2,0
+Sáb,Chiapas,3–2,Toluca,3,2,1
+Sáb,Cruz Azul,1–1,Puebla,1,1,-1
+Vie,Veracruz,3–2,Atlas,3,2,1
+Vie,Santos,3–2,Pachuca,3,2,1
+Dom,Toluca,3–0,Sinaloa,3,0,1
+Sáb,UANL,0–0,UNAM,0,0,-1
+Sáb,León,2–0,Querétaro,2,0,1
+Sáb,Morelia,1–3,Monterrey,1,3,0
+Sáb,Chiapas,1–2,Tijuana,1,2,0
+Dom,Guadalajara,1–2,América,1,2,0
+Sáb,América,2–1,León,2,1,1
+Vie,Querétaro,1–1,Chiapas,1,1,-1
+Vie,Tijuana,0–0,Toluca,0,0,-1
+Dom,Puebla,0–0,UANL,0,0,-1
+Sáb,Monterrey,1–3,Guadalajara,1,3,0
+Sáb,Sinaloa,3–1,Santos,3,1,1
+Sáb,Pachuca,6–0,Veracruz,6,0,1
+Sáb,Atlas,0–2,Cruz Azul,0,2,0
+Dom,UNAM,4–2,Morelia,4,2,1
+Sáb,Morelia,2–0,Chiapas,2,0,1
+Sáb,Cruz Azul,0–0,Pachuca,0,0,-1
+Vie,Tijuana,2–4,Querétaro,2,4,0
+Vie,Toluca,0–0,Santos,0,0,-1
+Vie,Veracruz,0–0,Sinaloa,0,0,-1
+Sáb,UANL,2–2,Atlas,2,2,-1
+Sáb,León,1–2,Monterrey,1,2,0
+Sáb,Morelia,2–0,Puebla,2,0,1
+Sáb,Chiapas,0–2,América,0,2,0
+Dom,Guadalajara,4–0,UNAM,4,0,1
+Sáb,América,6–1,Tijuana,6,1,1
+Vie,Querétaro,0–0,Toluca,0,0,-1
+Vie,Santos,2–0,Veracruz,2,0,1
+Dom,Puebla,0–3,Guadalajara,0,3,0
+Dom,UNAM,1–2,León,1,2,0
+Sáb,Monterrey,6–0,Chiapas,6,0,1
+Sáb,Sinaloa,3–0,Cruz Azul,3,0,1
+Sáb,Pachuca,2–1,UANL,2,1,1
+Sáb,Atlas,1–2,Morelia,1,2,0
+Sáb,Toluca,4–2,Veracruz,4,2,1
+Sáb,Cruz Azul,0–1,Santos,0,1,0
+Vie,Tijuana,1–2,Monterrey,1,2,0
+Vie,Querétaro,1–0,América,1,0,1
+Dom,Guadalajara,1–0,Atlas,1,0,1
+Sáb,UANL,5–2,Sinaloa,5,2,1
+Sáb,León,4–1,Puebla,4,1,1
+Sáb,Morelia,1–0,Pachuca,1,0,1
+Sáb,Chiapas,1–2,UNAM,1,2,0
+Sáb,América,0–1,Toluca,0,1,0
+Vie,UNAM,3–1,Tijuana,3,1,1
+Vie,Veracruz,2–1,Cruz Azul,2,1,1
+Dom,Puebla,2–1,Chiapas,2,1,1
+Sáb,Monterrey,3–2,Querétaro,3,2,1
+Sáb,Santos,2–1,UANL,2,1,1
+Sáb,Sinaloa,1–0,Morelia,1,0,1
+Sáb,Pachuca,1–1,Guadalajara,1,1,-1
+Sáb,Atlas,1–1,León,1,1,-1
+Sáb,América,3–3,Monterrey,3,3,-1
+Vie,Querétaro,2–1,UNAM,2,1,1
+Vie,Tijuana,0–0,Puebla,0,0,-1
+Dom,Toluca,0–2,Cruz Azul,0,2,0
+Dom,Guadalajara,2–1,Sinaloa,2,1,1
+Sáb,UANL,0–0,Veracruz,0,0,-1
+Sáb,León,0–0,Pachuca,0,0,-1
+Sáb,Morelia,3–2,Santos,3,2,1
+Sáb,Chiapas,0–3,Atlas,0,3,0
+Sáb,Cruz Azul,0–3,UANL,0,3,0
+Vie,Veracruz,1–2,Morelia,1,2,0
+Vie,Santos,0–1,Guadalajara,0,1,0
+Dom,UNAM,1–1,América,1,1,-1
+Dom,Puebla,3–1,Querétaro,3,1,1
+Sáb,Monterrey,1–2,Toluca,1,2,0
+Sáb,Sinaloa,0–1,León,0,1,0
+Sáb,Pachuca,2–1,Chiapas,2,1,1
+Sáb,Atlas,0–0,Tijuana,0,0,-1
+Mié,UANL,1–3,Monterrey,1,3,0
+Mié,Morelia,1–1,León,1,1,-1
+Jue,Santos,1–1,Pachuca,1,1,-1
+Jue,Guadalajara,0–0,América,0,0,-1
+Dom,América,2–1,Guadalajara,2,1,1
+Sáb,Monterrey,1–2,UANL,1,2,0
+Sáb,León,4–1,Morelia,4,1,1
+Dom,Pachuca,3–2,Santos,3,2,1
+Mié,América,1–0,Monterrey,1,0,1
+Jue,León,1–1,Pachuca,1,1,-1
+Sáb,Monterrey,4–2,América,4,2,1
+Dom,Pachuca,2–1,León,2,1,1
+Jue,Pachuca,1–0,Monterrey,1,0,1
+Dom,Monterrey,1–1,Pachuca,1,1,-1
+Sáb,Cruz Azul,0–1,Pachuca,0,1,0
+Sáb,Veracruz,0–1,Santos,0,1,0
+Vie,Querétaro,1–3,UNAM,1,3,0
+Vie,Tijuana,0–1,Puebla,0,1,0
+Dom,Toluca,0–0,Morelia,0,0,-1
+Dom,Guadalajara,1–1,Chiapas,1,1,-1
+Sáb,Monterrey,3–1,UdeG,3,1,1
+Sáb,León,1–2,América,1,2,0
+Sáb,Atlas,0–0,UANL,0,0,-1
+Sáb,Puebla,0–0,Veracruz,0,0,-1
+Sáb,América,2–1,Tijuana,2,1,1
+Vie,Morelia,0–2,Atlas,0,2,0
+Vie,Santos,1–1,Cruz Azul,1,1,-1
+Dom,UNAM,0–1,Guadalajara,0,1,0
+Dom,UdeG,0–1,Querétaro,0,1,0
+Sáb,UANL,4–2,León,4,2,1
+Sáb,Pachuca,0–1,Monterrey,0,1,0
+Sáb,Chiapas,2–1,Toluca,2,1,1
+Sáb,Cruz Azul,0–0,Veracruz,0,0,-1
+Sáb,Puebla,0–4,América,0,4,0
+Vie,Tijuana,1–1,UANL,1,1,-1
+Vie,Querétaro,2–0,Pachuca,2,0,1
+Dom,Toluca,2–1,UNAM,2,1,1
+Sáb,Monterrey,0–0,Santos,0,0,-1
+Sáb,León,4–0,Morelia,4,0,1
+Sáb,Atlas,4–2,Chiapas,4,2,1
+Sáb,Cruz Azul,1–0,Puebla,1,0,1
+Vie,Morelia,0–0,Tijuana,0,0,-1
+Vie,Veracruz,2–1,Monterrey,2,1,1
+Dom,UNAM,0–1,Atlas,0,1,0
+Dom,UdeG,0–0,Toluca,0,0,-1
+Sáb,UANL,0–2,América,0,2,0
+Sáb,Santos,2–3,Querétaro,2,3,0
+Sáb,Pachuca,3–0,Guadalajara,3,0,1
+Sáb,Chiapas,3–2,León,3,2,1
+Jue,León,2–1,UNAM,2,1,1
+Sáb,América,3–2,Morelia,3,2,1
+Sáb,Puebla,1–1,UANL,1,1,-1
+Vie,Querétaro,0–0,Veracruz,0,0,-1
+Vie,Tijuana,2–1,Chiapas,2,1,1
+Dom,Toluca,3–0,Pachuca,3,0,1
+Dom,Guadalajara,0–1,Santos,0,1,0
+Sáb,Monterrey,3–1,Cruz Azul,3,1,1
+Sáb,Atlas,1–0,UdeG,1,0,1
+Sáb,Veracruz,0–0,Guadalajara,0,0,-1
+Sáb,Cruz Azul,2–1,Querétaro,2,1,1
+Vie,Morelia,1–5,UANL,1,5,0
+Vie,Santos,3–0,Toluca,3,0,1
+Dom,UNAM,1–1,Tijuana,1,1,-1
+Dom,UdeG,1–0,León,1,0,1
+Sáb,Monterrey,1–0,Puebla,1,0,1
+Sáb,Pachuca,3–1,Atlas,3,1,1
+Sáb,Chiapas,0–0,América,0,0,-1
+Sáb,Puebla,3–2,Morelia,3,2,1
+Sáb,América,0–1,UNAM,0,1,0
+Vie,Tijuana,1–1,UdeG,1,1,-1
+Vie,Querétaro,0–1,Monterrey,0,1,0
+Dom,Toluca,2–1,Veracruz,2,1,1
+Dom,Guadalajara,0–0,Cruz Azul,0,0,-1
+Sáb,UANL,0–2,Chiapas,0,2,0
+Sáb,León,1–2,Pachuca,1,2,0
+Sáb,Atlas,1–1,Santos,1,1,-1
+Dom,Guadalajara,3–0,UdeG,3,0,1
+Sáb,Cruz Azul,1–2,Toluca,1,2,0
+Vie,Querétaro,1–1,Puebla,1,1,-1
+Vie,Veracruz,1–1,Atlas,1,1,-1
+Vie,Santos,2–0,León,2,0,1
+Dom,UNAM,2–2,UANL,2,2,-1
+Sáb,Pachuca,1–1,Tijuana,1,1,-1
+Sáb,Chiapas,1–1,Morelia,1,1,-1
+Sáb,UdeG,0–0,América,0,0,-1
+Sáb,América,2–1,Pachuca,2,1,1
+Sáb,Puebla,1–1,Chiapas,1,1,-1
+Vie,Tijuana,4–1,Santos,4,1,1
+Vie,Morelia,2–3,UNAM,2,3,0
+Dom,Toluca,1–0,Monterrey,1,0,1
+Dom,Guadalajara,1–4,Querétaro,1,4,0
+Sáb,UANL,1–0,UdeG,1,0,1
+Sáb,León,3–1,Veracruz,3,1,1
+Sáb,Atlas,2–1,Cruz Azul,2,1,1
+Sáb,Cruz Azul,1–0,León,1,0,1
+Vie,Veracruz,1–0,Tijuana,1,0,1
+Vie,Querétaro,1–1,Toluca,1,1,-1
+Vie,Santos,1–4,América,1,4,0
+Dom,UNAM,2–2,Chiapas,2,2,-1
+Dom,Guadalajara,0–0,Puebla,0,0,-1
+Sáb,Monterrey,2–1,Atlas,2,1,1
+Sáb,Pachuca,2–3,UANL,2,3,0
+Sáb,UdeG,1–2,Morelia,1,2,0
+Mar,León,1–3,Monterrey,1,3,0
+Mar,Atlas,2–1,Querétaro,2,1,1
+Mar,UANL,1–1,Santos,1,1,-1
+Mié,Puebla,1–2,UNAM,1,2,0
+Mié,Tijuana,0–0,Cruz Azul,0,0,-1
+Mié,Morelia,0–1,Pachuca,0,1,0
+Mié,América,2–0,Veracruz,2,0,1
+Mié,Chiapas,1–1,UdeG,1,1,-1
+Jue,Toluca,3–1,Guadalajara,3,1,1
+Sáb,Cruz Azul,4–0,América,4,0,1
+Sáb,Veracruz,0–1,UANL,0,1,0
+Vie,Querétaro,1–2,León,1,2,0
+Dom,Toluca,1–1,Puebla,1,1,-1
+Dom,Guadalajara,0–1,Atlas,0,1,0
+Sáb,Monterrey,1–1,Tijuana,1,1,-1
+Sáb,Santos,2–2,Morelia,2,2,-1
+Sáb,Pachuca,2–0,Chiapas,2,0,1
+Sáb,UdeG,1–0,UNAM,1,0,1
+Sáb,Puebla,1–1,UdeG,1,1,-1
+Sáb,América,2–0,Monterrey,2,0,1
+Vie,Morelia,0–1,Veracruz,0,1,0
+Vie,Tijuana,2–1,Querétaro,2,1,1
+Dom,UNAM,1–1,Pachuca,1,1,-1
+Sáb,UANL,1–0,Cruz Azul,1,0,1
+Sáb,León,2–1,Guadalajara,2,1,1
+Sáb,Chiapas,2–0,Santos,2,0,1
+Sáb,Atlas,0–2,Toluca,0,2,0
+Sáb,Veracruz,1–2,Chiapas,1,2,0
+Sáb,Cruz Azul,3–1,Morelia,3,1,1
+Vie,Querétaro,3–2,América,3,2,1
+Vie,Santos,1–1,UNAM,1,1,-1
+Dom,Toluca,2–3,León,2,3,0
+Dom,Guadalajara,2–3,Tijuana,2,3,0
+Sáb,Monterrey,2–2,UANL,2,2,-1
+Sáb,Pachuca,0–0,UdeG,0,0,-1
+Sáb,Atlas,2–1,Puebla,2,1,1
+Sáb,América,0–0,Guadalajara,0,0,-1
+Sáb,Puebla,1–1,Pachuca,1,1,-1
+Vie,Tijuana,0–1,Toluca,0,1,0
+Vie,Morelia,2–1,Monterrey,2,1,1
+Dom,UNAM,0–0,Veracruz,0,0,-1
+Sáb,UANL,1–0,Querétaro,1,0,1
+Sáb,León,4–0,Atlas,4,0,1
+Sáb,UdeG,1–1,Santos,1,1,-1
+Sáb,Chiapas,0–0,Cruz Azul,0,0,-1
+Sáb,Cruz Azul,0–2,UNAM,0,2,0
+Sáb,Veracruz,0–1,UdeG,0,1,0
+Vie,Querétaro,2–0,Morelia,2,0,1
+Vie,Santos,2–1,Pachuca,2,1,1
+Dom,Toluca,2–2,América,2,2,-1
+Dom,Guadalajara,0–0,UANL,0,0,-1
+Sáb,Monterrey,1–2,Chiapas,1,2,0
+Sáb,León,0–0,Puebla,0,0,-1
+Sáb,Atlas,1–1,Tijuana,1,1,-1
+Sáb,Monterrey,1–0,Guadalajara,1,0,1
+Sáb,América,1–2,Atlas,1,2,0
+Sáb,Puebla,3–3,Santos,3,3,-1
+Vie,Morelia,1–2,Guadalajara,1,2,0
+Vie,Tijuana,3–2,León,3,2,1
+Dom,UNAM,4–2,Monterrey,4,2,1
+Sáb,UANL,2–1,Toluca,2,1,1
+Sáb,UdeG,1–1,Cruz Azul,1,1,-1
+Sáb,Pachuca,1–0,Veracruz,1,0,1
+Sáb,Chiapas,2–1,Querétaro,2,1,1
+Mié,Pachuca,1–1,UANL,1,1,-1
+Mié,UNAM,1–0,América,1,0,1
+Jue,Monterrey,0–1,Atlas,0,1,0
+Jue,Chiapas,1–1,Toluca,1,1,-1
+Sáb,América,1–0,UNAM,1,0,1
+Dom,Toluca,1–1,Chiapas,1,1,-1
+Sáb,UANL,1–1,Pachuca,1,1,-1
+Dom,Atlas,0–2,Monterrey,0,2,0
+Jue,Toluca,0–0,UANL,0,0,-1
+Jue,Monterrey,0–3,América,0,3,0
+Dom,UANL,0–0,Toluca,0,0,-1
+Dom,América,0–0,Monterrey,0,0,-1
+Jue,UANL,1–0,América,1,0,1
+Dom,América,3–0,UANL,3,0,1
+Sáb,Puebla,2–1,Tijuana,2,1,1
+Sáb,América,3–2,León,3,2,1
+Vie,Santos,1–2,Veracruz,1,2,0
+Vie,Morelia,0–0,Toluca,0,0,-1
+Dom,UNAM,1–1,Querétaro,1,1,-1
+Dom,UdeG,1–0,Monterrey,1,0,1
+Sáb,UANL,0–1,Atlas,0,1,0
+Sáb,Chiapas,2–1,Guadalajara,2,1,1
+Sáb,Pachuca,0–1,Cruz Azul,0,1,0
+Sáb,Cruz Azul,1–0,Santos,1,0,1
+Vie,Querétaro,1–0,UdeG,1,0,1
+Vie,Tijuana,1–0,América,1,0,1
+Vie,Veracruz,3–1,Puebla,3,1,1
+Dom,Toluca,3–0,Chiapas,3,0,1
+Dom,Guadalajara,2–1,UNAM,2,1,1
+Sáb,Monterrey,1–0,Pachuca,1,0,1
+Sáb,León,0–1,UANL,0,1,0
+Sáb,Atlas,2–1,Morelia,2,1,1
+Sáb,América,0–0,Puebla,0,0,-1
+Vie,Morelia,0–0,León,0,0,-1
+Vie,Veracruz,0–0,Cruz Azul,0,0,-1
+Vie,Santos,4–1,Monterrey,4,1,1
+Dom,UNAM,3–2,Toluca,3,2,1
+Dom,UdeG,1–1,Guadalajara,1,1,-1
+Sáb,UANL,1–2,Tijuana,1,2,0
+Sáb,Pachuca,2–1,Querétaro,2,1,1
+Sáb,Chiapas,3–1,Atlas,3,1,1
+Sáb,Puebla,0–0,Cruz Azul,0,0,-1
+Sáb,América,1–0,UANL,1,0,1
+Vie,Querétaro,0–1,Santos,0,1,0
+Vie,Tijuana,4–2,Morelia,4,2,1
+Dom,Toluca,3–1,UdeG,3,1,1
+Sáb,Monterrey,1–1,Veracruz,1,1,-1
+Sáb,Guadalajara,1–0,Pachuca,1,0,1
+Sáb,León,1–1,Chiapas,1,1,-1
+Sáb,Atlas,1–1,UNAM,1,1,-1
+Sáb,Cruz Azul,1–0,Monterrey,1,0,1
+Vie,Morelia,2–2,América,2,2,-1
+Vie,Veracruz,1–1,Querétaro,1,1,-1
+Vie,Santos,1–0,Guadalajara,1,0,1
+Dom,UNAM,1–3,León,1,3,0
+Dom,UdeG,0–2,Atlas,0,2,0
+Sáb,UANL,1–0,Puebla,1,0,1
+Sáb,Pachuca,1–1,Toluca,1,1,-1
+Sáb,Chiapas,2–2,Tijuana,2,2,-1
+Sáb,Puebla,2–0,Monterrey,2,0,1
+Sáb,América,5–0,Chiapas,5,0,1
+Vie,Querétaro,1–2,Cruz Azul,1,2,0
+Vie,Tijuana,3–0,UNAM,3,0,1
+Dom,Toluca,2–2,Santos,2,2,-1
+Dom,Guadalajara,0–0,Veracruz,0,0,-1
+Sáb,UANL,1–0,Morelia,1,0,1
+Sáb,León,2–1,UdeG,2,1,1
+Sáb,Atlas,1–3,Pachuca,1,3,0
+Sáb,Cruz Azul,1–2,Guadalajara,1,2,0
+Vie,Morelia,1–2,Puebla,1,2,0
+Vie,Veracruz,3–0,Toluca,3,0,1
+Vie,Santos,0–1,Atlas,0,1,0
+Dom,UNAM,0–1,América,0,1,0
+Dom,UdeG,0–1,Tijuana,0,1,0
+Sáb,Monterrey,2–1,Querétaro,2,1,1
+Sáb,Pachuca,2–1,León,2,1,1
+Sáb,Chiapas,1–0,UANL,1,0,1
+Sáb,Puebla,4–1,Querétaro,4,1,1
+Sáb,América,0–1,UdeG,0,1,0
+Vie,Morelia,3–2,Chiapas,3,2,1
+Vie,Tijuana,2–2,Pachuca,2,2,-1
+Dom,Toluca,1–0,Cruz Azul,1,0,1
+Dom,Guadalajara,3–0,Monterrey,3,0,1
+Sáb,UANL,3–0,UNAM,3,0,1
+Sáb,León,2–1,Santos,2,1,1
+Sáb,Atlas,0–3,Veracruz,0,3,0
+Sáb,Cruz Azul,1–1,Atlas,1,1,-1
+Vie,Veracruz,1–0,León,1,0,1
+Vie,Querétaro,1–0,Guadalajara,1,0,1
+Dom,UNAM,2–1,Morelia,2,1,1
+Dom,UdeG,2–1,UANL,2,1,1
+Sáb,Santos,1–1,Tijuana,1,1,-1
+Sáb,Monterrey,3–2,Toluca,3,2,1
+Sáb,Pachuca,0–0,América,0,0,-1
+Sáb,Chiapas,2–2,Puebla,2,2,-1
+Sáb,Puebla,1–2,Guadalajara,1,2,0
+Sáb,América,1–0,Santos,1,0,1
+Vie,Morelia,0–1,UdeG,0,1,0
+Vie,Tijuana,3–1,Veracruz,3,1,1
+Dom,Toluca,1–0,Querétaro,1,0,1
+Sáb,UANL,2–1,Pachuca,2,1,1
+Sáb,León,2–2,Cruz Azul,2,2,-1
+Sáb,Atlas,2–1,Monterrey,2,1,1
+Sáb,Chiapas,0–2,UNAM,0,2,0
+Sáb,Cruz Azul,2–1,Tijuana,2,1,1
+Vie,Querétaro,2–0,Atlas,2,0,1
+Vie,Veracruz,4–0,América,4,0,1
+Vie,Santos,2–2,UANL,2,2,-1
+Dom,UNAM,2–1,Puebla,2,1,1
+Dom,Guadalajara,1–0,Toluca,1,0,1
+Sáb,Monterrey,5–1,León,5,1,1
+Sáb,Pachuca,2–0,Morelia,2,0,1
+Sáb,UdeG,0–1,Chiapas,0,1,0
+Sáb,Puebla,0–1,Toluca,0,1,0
+Sáb,América,1–0,Cruz Azul,1,0,1
+Vie,Morelia,0–1,Santos,0,1,0
+Dom,UNAM,2–0,UdeG,2,0,1
+Sáb,UANL,3–1,Veracruz,3,1,1
+Sáb,Chiapas,2–2,Pachuca,2,2,-1
+Sáb,Tijuana,3–4,Monterrey,3,4,0
+Sáb,León,4–5,Querétaro,4,5,0
+Sáb,Atlas,1–1,Guadalajara,1,1,-1
+Sáb,Cruz Azul,2–0,UANL,2,0,1
+Vie,Querétaro,2–1,Tijuana,2,1,1
+Vie,Veracruz,1–1,Morelia,1,1,-1
+Vie,Santos,4–3,Chiapas,4,3,1
+Dom,Toluca,0–0,Atlas,0,0,-1
+Dom,Guadalajara,1–0,León,1,0,1
+Sáb,Monterrey,1–1,América,1,1,-1
+Sáb,Pachuca,3–1,UNAM,3,1,1
+Sáb,UdeG,1–1,Puebla,1,1,-1
+Sáb,Puebla,0–1,Atlas,0,1,0
+Sáb,América,0–4,Querétaro,0,4,0
+Vie,Tijuana,1–1,Guadalajara,1,1,-1
+Vie,Morelia,2–0,Cruz Azul,2,0,1
+Vie,Chiapas,1–1,Veracruz,1,1,-1
+Dom,UNAM,1–0,Santos,1,0,1
+Dom,UdeG,1–1,Pachuca,1,1,-1
+Sáb,UANL,3–0,Monterrey,3,0,1
+Sáb,León,1–1,Toluca,1,1,-1
+Sáb,Cruz Azul,0–1,Chiapas,0,1,0
+Vie,Querétaro,1–3,UANL,1,3,0
+Vie,Veracruz,3–3,UNAM,3,3,-1
+Vie,Santos,1–0,UdeG,1,0,1
+Dom,Toluca,2–0,Tijuana,2,0,1
+Dom,Guadalajara,1–1,América,1,1,-1
+Sáb,Monterrey,1–0,Morelia,1,0,1
+Sáb,Pachuca,2–1,Puebla,2,1,1
+Sáb,Atlas,3–2,León,3,2,1
+Sáb,Puebla,2–0,León,2,0,1
+Vie,Morelia,1–2,Querétaro,1,2,0
+Vie,Tijuana,1–2,Atlas,1,2,0
+Dom,UNAM,0–1,Cruz Azul,0,1,0
+Dom,UdeG,1–2,Veracruz,1,2,0
+Sáb,América,3–1,Toluca,3,1,1
+Sáb,UANL,2–1,Guadalajara,2,1,1
+Sáb,Pachuca,2–3,Santos,2,3,0
+Sáb,Chiapas,0–2,Monterrey,0,2,0
+Vie,Querétaro,1–0,Chiapas,1,0,1
+Vie,Veracruz,1–2,Pachuca,1,2,0
+Dom,Toluca,0–0,UANL,0,0,-1
+Dom,Guadalajara,2–3,Morelia,2,3,0
+Sáb,Monterrey,2–2,UNAM,2,2,-1
+Sáb,León,6–2,Tijuana,6,2,1
+Sáb,Cruz Azul,0–2,UdeG,0,2,0
+Sáb,Santos,2–2,Puebla,2,2,-1
+Sáb,Atlas,1–2,América,1,2,0
+Mié,Santos,1–1,UANL,1,1,-1
+Mié,Pachuca,3–2,América,3,2,1
+Jue,Querétaro,2–1,Veracruz,2,1,1
+Jue,Guadalajara,0–0,Atlas,0,0,-1
+Sáb,América,3–4,Pachuca,3,4,0
+Dom,Atlas,1–4,Guadalajara,1,4,0
+Sáb,UANL,0–1,Santos,0,1,0
+Dom,Veracruz,2–2,Querétaro,2,2,-1
+Jue,Pachuca,2–0,Querétaro,2,0,1
+Jue,Santos,0–0,Guadalajara,0,0,-1
+Dom,Guadalajara,0–3,Santos,0,3,0
+Dom,Querétaro,2–0,Pachuca,2,0,1
+Jue,Santos,5–0,Querétaro,5,0,1
+Dom,Querétaro,3–0,Santos,3,0,1

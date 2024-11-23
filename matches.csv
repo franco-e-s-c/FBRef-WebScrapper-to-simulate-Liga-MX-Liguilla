@@ -1,0 +1,339 @@
+﻿,dayofweek,home_team,home_xg,score,away_xg,away_team
+0,Sáb,Atlético,1.4,0–2,2.2,UNAM
+1,Sáb,Pachuca,2.8,1–3,1.8,León
+2,Vie,Puebla,1.1,1–3,1.4,Tijuana
+3,Vie,Atlas,1.0,1–0,1.5,FC Juárez
+4,Dom,Toluca,0.7,0–2,1.5,Querétaro
+5,Dom,Santos,2.3,3–0,0.4,Guadalajara
+6,Sáb,América,2.7,4–2,1.5,Monterrey
+7,Sáb,Necaxa,1.1,0–0,1.5,Cruz Azul
+8,Sáb,UANL,1.7,4–2,1.5,Morelia
+9,Vie,Morelia,1.7,0–1,0.6,Atlas
+10,Vie,Veracruz,1.6,3–3,0.8,Pachuca
+11,Dom,UNAM,1.8,2–0,0.1,Necaxa
+12,Dom,Atlético,1.0,1–0,1.1,Monterrey
+13,Dom,Santos,2.6,3–0,0.3,FC Juárez
+14,Sáb,León,2.2,0–0,0.3,América
+15,Sáb,Tijuana,1.9,1–1,1.3,Querétaro
+16,Sáb,Cruz Azul,1.9,1–1,1.0,Toluca
+17,Dom,Guadalajara,1.8,2–0,0.8,UANL
+18,Sáb,Querétaro,1.6,3–0,0.5,Cruz Azul
+19,Vie,Puebla,1.9,1–1,0.9,Guadalajara
+20,Vie,Atlas,1.8,1–2,3.0,Santos
+21,Dom,UNAM,1.8,0–1,1.0,UANL
+22,Sáb,América,2.7,3–1,0.7,Tijuana
+23,Sáb,Pachuca,1.4,1–2,2.0,Morelia
+24,Sáb,Necaxa,3.0,7–0,0.3,Veracruz
+25,Sáb,Monterrey,2.9,3–2,1.0,León
+26,Dom,FC Juárez,1.3,2–0,0.4,Toluca
+27,Sáb,Cruz Azul,1.9,2–0,0.6,FC Juárez
+28,Sáb,Querétaro,2.4,2–1,1.4,Pachuca
+29,Vie,Morelia,1.0,0–1,1.5,Monterrey
+30,Vie,Tijuana,1.1,1–0,0.3,UNAM
+31,Vie,Veracruz,1.7,1–2,2.1,Atlas
+32,Dom,Toluca,1.0,0–1,0.3,América
+33,Dom,Santos,2.7,4–1,1.5,Puebla
+34,Sáb,UANL,1.2,3–1,0.8,Necaxa
+35,Sáb,Guadalajara,2.9,3–0,0.8,Atlético
+36,Sáb,Atlético,0.4,1–1,0.3,UANL
+37,Vie,Puebla,1.2,0–4,2.5,Pachuca
+38,Vie,Atlas,0.3,1–3,1.9,Cruz Azul
+39,Dom,UNAM,2.9,2–0,0.6,Veracruz
+40,Dom,Necaxa,2.3,3–0,2.3,Santos
+41,Sáb,León,3.8,4–3,1.8,Guadalajara
+42,Sáb,América,0.8,1–0,1.2,Morelia
+43,Sáb,Monterrey,1.5,2–0,0.7,Toluca
+44,Dom,FC Juárez,0.5,0–2,2.0,Querétaro
+45,Sáb,Querétaro,2.0,0–4,2.1,León
+46,Vie,Veracruz,1.1,1–2,1.6,Atlético
+47,Vie,Morelia,0.2,2–0,0.7,UNAM
+48,Vie,Santos,1.7,2–1,1.8,Monterrey
+49,Dom,Toluca,1.3,2–0,0.9,Tijuana
+50,Dom,Guadalajara,1.3,1–2,0.5,Necaxa
+51,Sáb,Pachuca,2.7,3–1,0.4,Atlas
+52,Sáb,Cruz Azul,1.1,1–1,1.6,Puebla
+53,Sáb,UANL,0.8,1–1,0.5,América
+54,Mar,Atlético,1.6,1–1,1.3,Morelia
+55,Mar,Atlas,0.6,1–1,2.2,UANL
+56,Mar,Veracruz,1.3,0–5,2.3,Querétaro
+57,Mar,América,1.5,1–1,1.0,Pachuca
+58,Mié,León,1.1,2–2,2.4,Santos
+59,Mié,Tijuana,1.0,3–2,1.8,Cruz Azul
+60,Mié,Necaxa,1.1,1–1,0.4,Toluca
+61,Jue,Puebla,1.1,2–1,1.5,FC Juárez
+62,Jue,Monterrey,2.0,2–0,1.2,UNAM
+63,Sáb,Necaxa,1.7,3–2,1.0,Tijuana
+64,Vie,Morelia,2.1,1–0,0.2,Veracruz
+65,Vie,Atlas,2.3,3–0,1.6,América
+66,Dom,UNAM,1.7,2–1,0.2,Toluca
+67,Dom,Querétaro,0.9,1–1,0.8,Puebla
+68,Sáb,Pachuca,0.8,0–2,1.1,Atlético
+69,Sáb,UANL,2.6,1–1,0.7,León
+70,Sáb,Cruz Azul,1.1,1–1,0.5,Guadalajara
+71,Dom,FC Juárez,1.1,1–0,0.4,Monterrey
+72,Sáb,Monterrey,1.0,0–2,1.7,Necaxa
+73,Vie,Puebla,0.7,1–3,1.1,Atlético
+74,Vie,Tijuana,1.5,1–1,2.4,UANL
+75,Vie,Veracruz,0.6,0–0,0.7,Cruz Azul
+76,Dom,Toluca,1.2,0–2,1.4,Morelia
+77,Dom,Santos,1.9,2–2,1.0,Pachuca
+78,Sáb,León,2.7,3–1,0.2,FC Juárez
+79,Sáb,Guadalajara,0.6,1–0,0.6,Atlas
+80,Sáb,América,1.4,1–1,0.7,UNAM
+81,Sáb,Monterrey,1.8,3–2,1.9,Puebla
+82,Sáb,Atlético,1.9,2–3,2.3,Santos
+83,Sáb,Necaxa,1.2,2–4,2.5,León
+84,Vie,Atlas,1.6,0–1,1.2,Toluca
+85,Vie,Morelia,1.3,1–0,1.8,Guadalajara
+86,Dom,UNAM,0.8,1–1,1.5,Cruz Azul
+87,Sáb,Pachuca,4.3,4–1,1.2,Tijuana
+88,Sáb,América,2.5,2–2,1.3,Querétaro
+89,Dom,FC Juárez,1.2,2–0,0.3,Veracruz
+90,Mar,Querétaro,1.1,1–2,0.8,Necaxa
+91,Mar,UANL,0.9,0–1,0.5,Puebla
+92,Mar,León,1.8,1–1,0.6,Atlas
+93,Mar,Guadalajara,1.0,2–4,1.7,Pachuca
+94,Mié,FC Juárez,1.1,1–1,1.2,América
+95,Mié,Santos,2.6,5–0,0.3,Veracruz
+96,Mié,Tijuana,3.1,3–2,1.4,Morelia
+97,Mié,Cruz Azul,1.9,1–1,0.8,Monterrey
+98,Jue,Toluca,2.3,3–1,0.7,Atlético
+99,Sáb,Pachuca,0.5,2–0,2.5,Cruz Azul
+100,Vie,Puebla,1.8,2–1,0.4,León
+101,Vie,Atlas,0.6,2–0,1.4,Querétaro
+102,Dom,UNAM,1.5,2–0,0.6,Santos
+103,Dom,Atlético,1.5,2–3,1.0,Tijuana
+104,Sáb,Necaxa,0.9,0–0,0.5,FC Juárez
+105,Sáb,Monterrey,1.2,0–2,0.7,UANL
+106,Sáb,América,2.9,4–1,0.2,Guadalajara
+107,Dom,Veracruz,1.5,1–1,0.5,Toluca
+108,Sáb,León,1.4,1–1,1.4,Veracruz
+109,Vie,Morelia,1.8,2–3,1.3,Necaxa
+110,Dom,Toluca,1.2,1–1,2.6,Puebla
+111,Dom,FC Juárez,1.7,1–2,0.7,Atlético
+112,Sáb,Cruz Azul,2.3,5–2,0.9,América
+113,Sáb,UANL,2.8,4–0,0.4,Santos
+114,Sáb,Tijuana,1.7,2–2,1.0,Atlas
+115,Sáb,Guadalajara,1.1,1–1,0.6,UNAM
+116,Dom,Querétaro,2.3,2–1,1.5,Monterrey
+117,Sáb,Cruz Azul,1.1,2–3,2.1,Morelia
+118,Vie,Puebla,0.9,0–1,0.9,Atlas
+119,Vie,Veracruz,1.7,1–3,0.8,UANL
+120,Vie,Santos,3.3,4–1,0.8,Tijuana
+121,Dom,UNAM,1.3,1–2,2.0,León
+122,Dom,Atlético,1.0,0–2,0.7,Querétaro
+123,Sáb,Pachuca,1.2,0–1,1.0,FC Juárez
+124,Sáb,Necaxa,1.0,2–2,0.7,América
+125,Dom,Monterrey,2.1,1–1,0.5,Guadalajara
+126,Sáb,Querétaro,2.3,3–0,1.8,UNAM
+127,Vie,Morelia,0.9,2–2,2.8,Santos
+128,Vie,Tijuana,2.2,2–0,0.7,Veracruz
+129,Vie,Atlas,0.5,0–2,1.6,Necaxa
+130,Dom,Toluca,1.6,2–0,1.8,Pachuca
+131,Sáb,América,2.5,2–0,1.5,Puebla
+132,Sáb,León,1.1,3–2,0.6,Atlético
+133,Sáb,UANL,1.6,1–1,1.2,Cruz Azul
+134,Dom,FC Juárez,1.2,1–2,1.3,Guadalajara
+135,Mar,Atlético,0.3,0–1,1.8,América
+136,Mar,Veracruz,1.4,1–0,1.1,Puebla
+137,Mar,Santos,1.5,1–0,0.8,Querétaro
+138,Mar,UNAM,2.2,5–1,0.8,Atlas
+139,Mié,Pachuca,1.6,2–3,1.4,Monterrey
+140,Mié,UANL,1.3,1–0,0.2,Toluca
+141,Mié,Guadalajara,1.2,0–1,0.8,Tijuana
+142,Jue,Morelia,1.7,6–1,1.2,FC Juárez
+143,Jue,Cruz Azul,1.2,1–0,1.1,León
+144,Sáb,Querétaro,0.7,0–0,0.6,UANL
+145,Vie,Puebla,1.6,1–1,1.4,UNAM
+146,Vie,Atlas,0.9,1–2,1.7,Atlético
+147,Dom,Toluca,0.3,1–3,2.3,Guadalajara
+148,Sáb,América,0.9,1–2,1.3,Santos
+149,Sáb,Monterrey,2.7,1–1,1.3,Veracruz
+150,Sáb,Necaxa,1.3,1–2,2.7,Pachuca
+151,Dom,FC Juárez,2.3,3–0,1.3,Tijuana
+152,Dom,León,0.5,1–1,1.5,Morelia
+153,Sáb,Atlético,1.7,0–2,2.6,Necaxa
+154,Vie,Morelia,1.4,3–2,1.0,Puebla
+155,Vie,Tijuana,0.6,0–4,3.7,Monterrey
+156,Vie,Veracruz,0.5,0–5,3.4,América
+157,Dom,UNAM,3.5,1–1,0.8,FC Juárez
+158,Sáb,UANL,0.9,0–0,1.3,Pachuca
+159,Sáb,León,2.2,4–0,0.5,Toluca
+160,Sáb,Guadalajara,1.0,3–2,2.1,Querétaro
+161,Dom,Santos,1.5,3–1,0.5,Cruz Azul
+162,Sáb,Querétaro,3.1,3–1,0.9,Morelia
+163,Vie,Puebla,1.3,3–0,1.3,Necaxa
+164,Vie,Tijuana,2.2,1–2,1.3,León
+165,Dom,Toluca,0.8,2–2,1.2,Santos
+166,Sáb,Monterrey,1.8,2–0,1.0,Atlas
+167,Sáb,Cruz Azul,0.6,3–1,0.1,Atlético
+168,Sáb,Guadalajara,0.8,3–1,1.0,Veracruz
+169,Sáb,Pachuca,2.2,2–0,0.9,UNAM
+170,Dom,FC Juárez,1.1,1–2,0.8,UANL
+171,Mié,Morelia,0.9,3–3,1.6,León
+172,Mié,Necaxa,2.1,3–0,1.0,Querétaro
+173,Jue,Monterrey,1.9,5–2,2.2,Santos
+174,Jue,América,1.3,1–2,0.9,UANL
+175,Sáb,León,2.0,1–2,0.9,Morelia
+176,Sáb,Querétaro,1.6,2–3,0.8,Necaxa
+177,Dom,Santos,2.0,1–1,1.1,Monterrey
+178,Dom,UANL,2.5,2–4,2.5,América
+179,Mié,Monterrey,2.4,2–1,0.4,Necaxa
+180,Jue,Morelia,1.9,2–0,1.2,América
+181,Sáb,Necaxa,0.8,0–1,1.0,Monterrey
+182,Dom,América,1.5,2–0,0.6,Morelia
+183,Jue,Monterrey,1.1,2–1,0.7,América
+184,Dom,América,1.7,(2) 2–1 (4),1.6,Monterrey
+185,Sáb,Cruz Azul,1.1,1–2,1.0,Atlas
+186,Vie,Tijuana,1.0,2–1,0.9,Santos
+187,Vie,Morelia,0.7,0–1,0.7,Toluca
+188,Dom,UNAM,1.0,2–1,2.3,Pachuca
+189,Sáb,León,2.3,3–1,0.8,Querétaro
+190,Sáb,Guadalajara,1.3,2–0,0.1,FC Juárez
+191,Sáb,UANL,0.6,0–0,0.2,Atlético
+192,Jue,FC Juárez,2.5,4–4,1.2,UNAM
+193,Sáb,Monterrey,2.8,2–2,0.8,Morelia
+194,Vie,Atlético,1.2,2–1,0.4,Cruz Azul
+195,Vie,Atlas,1.2,0–1,0.3,Puebla
+196,Dom,Toluca,0.8,2–3,2.2,Necaxa
+197,Dom,Querétaro,2.3,3–0,0.3,Tijuana
+198,Sáb,Pachuca,1.4,0–0,0.4,Guadalajara
+199,Sáb,América,1.3,1–0,0.5,UANL
+200,Dom,Santos,2.9,3–2,2.1,León
+201,Sáb,Cruz Azul,2.3,3–0,0.6,Santos
+202,Vie,Tijuana,0.8,0–0,0.3,América
+203,Vie,Puebla,0.5,0–1,1.5,Querétaro
+204,Dom,UNAM,2.1,1–0,0.7,Monterrey
+205,Dom,Necaxa,0.5,1–1,1.6,Atlético
+206,Sáb,UANL,0.7,2–1,2.2,Atlas
+207,Sáb,León,1.9,3–0,0.9,Pachuca
+208,Sáb,Guadalajara,1.4,2–2,1.6,Toluca
+209,Dom,FC Juárez,3.4,3–0,0.7,Morelia
+210,Sáb,Necaxa,1.6,2–0,1.0,Puebla
+211,Sáb,Monterrey,1.2,1–2,0.8,Querétaro
+212,Sáb,Morelia,2.4,1–2,2.0,León
+213,Vie,Atlético,2.6,2–2,1.7,Guadalajara
+214,Vie,Atlas,0.4,2–1,1.3,Tijuana
+215,Dom,Toluca,1.3,3–3,2.2,Cruz Azul
+216,Sáb,Pachuca,1.8,2–0,0.6,UANL
+217,Sáb,América,1.9,1–3,3.1,FC Juárez
+218,Sáb,Santos,3.1,1–1,0.3,UNAM
+219,Mar,Puebla,1.3,0–1,2.4,América
+220,Mié,Necaxa,1.8,2–2,0.8,Monterrey
+221,Jue,Atlas,1.5,1–3,2.0,Morelia
+222,Sáb,Cruz Azul,2.3,3–1,1.0,Pachuca
+223,Vie,Tijuana,1.9,1–1,0.8,Toluca
+224,Vie,Puebla,2.3,2–2,1.3,Santos
+225,Dom,UNAM,2.6,4–0,0.9,Atlético
+226,Sáb,UANL,3.3,3–0,1.7,Guadalajara
+227,Sáb,León,1.4,3–1,2.0,Monterrey
+228,Dom,Querétaro,1.2,1–2,1.1,América
+229,Dom,FC Juárez,0.9,2–1,0.5,Necaxa
+230,Sáb,Pachuca,1.8,1–0,0.5,Puebla
+231,Sáb,Toluca,1.8,2–3,2.6,UNAM
+232,Vie,Atlético,3.0,3–1,0.8,León
+233,Vie,Morelia,0.8,1–1,1.2,Tijuana
+234,Dom,Necaxa,1.6,2–3,1.5,Querétaro
+235,Sáb,América,1.0,2–0,1.1,Atlas
+236,Sáb,Monterrey,2.8,1–1,0.8,FC Juárez
+237,Sáb,Guadalajara,3.0,1–2,1.0,Cruz Azul
+238,Dom,Santos,2.0,2–1,1.7,UANL
+239,Sáb,León,0.7,2–1,1.1,Necaxa
+240,Vie,Atlas,0.4,0–2,2.1,Pachuca
+241,Vie,Tijuana,1.5,0–1,0.6,Guadalajara
+242,Vie,Puebla,2.2,2–0,1.1,Toluca
+243,Dom,UNAM,1.0,1–2,1.2,Morelia
+244,Dom,Querétaro,0.3,0–1,0.7,Atlético
+245,Sáb,Cruz Azul,1.2,2–1,1.5,UANL
+246,Sáb,Monterrey,1.8,0–1,1.3,América
+247,Dom,FC Juárez,1.7,1–2,1.2,Santos
+248,Sáb,Pachuca,1.8,1–1,1.3,Querétaro
+249,Vie,Atlético,1.2,0–3,1.3,FC Juárez
+250,Vie,Toluca,0.7,2–0,1.9,Monterrey
+251,Vie,Tijuana,0.8,0–1,0.2,Puebla
+252,Vie,Morelia,3.0,2–4,3.1,Cruz Azul
+253,Dom,Guadalajara,0.9,2–0,0.4,León
+254,Sáb,América,0.3,0–3,1.5,Necaxa
+255,Sáb,UANL,2.5,3–0,0.1,UNAM
+256,Dom,Santos,1.8,1–0,0.6,Atlas
+257,Sáb,Cruz Azul,3.1,4–2,0.7,Tijuana
+258,Sáb,Monterrey,1.8,2–2,1.4,Atlético
+259,Vie,Querétaro,1.2,1–1,1.3,Toluca
+260,Vie,UNAM,1.7,3–3,1.1,América
+261,Vie,Puebla,0.1,0–0,0.8,UANL
+262,Dom,Necaxa,1.0,1–2,1.6,Morelia
+263,Sáb,Pachuca,1.4,1–0,1.0,Santos
+264,Sáb,Atlas,1.7,1–2,1.0,Guadalajara
+265,Dom,FC Juárez,0.6,1–4,4.4,León
+266,Sáb,Atlético,1.6,0–1,0.6,Puebla
+267,Vie,Tijuana,2.7,3–2,1.5,Pachuca
+268,Vie,Morelia,3.1,4–0,0.7,Querétaro
+269,Dom,Toluca,2.3,2–3,2.1,Atlas
+270,Sáb,UANL,1.3,3–2,2.2,FC Juárez
+271,Sáb,León,3.3,3–1,0.3,UNAM
+272,Sáb,Guadalajara,1.3,1–1,1.0,Monterrey
+273,Dom,Santos,1.9,2–1,1.4,Necaxa
+274,Dom,América,1.3,0–1,1.5,Cruz Azul
+275,Sáb,Monterrey,,,,Santos
+276,Sáb,Puebla,,,,Cruz Azul
+277,Vie,Morelia,,,,Atlético
+278,Dom,UNAM,,,,Tijuana
+279,Sáb,América,,,,León
+280,Sáb,Pachuca,,,,Toluca
+281,Sáb,Necaxa,,,,UANL
+282,Dom,Querétaro,,,,Guadalajara
+283,Dom,FC Juárez,,,,Atlas
+284,Vie,Cruz Azul,,,,UNAM
+285,Jue,Atlético,,,,Pachuca
+286,Jue,Atlas,,,,Monterrey
+287,Sáb,Toluca,,,,FC Juárez
+288,Sáb,Santos,,,,América
+289,Vie,UANL,,,,Querétaro
+290,Vie,León,,,,Puebla
+291,Vie,Guadalajara,,,,Morelia
+292,Sáb,Tijuana,,,,Necaxa
+293,Vie,Atlético,,,,Atlas
+294,Vie,Morelia,,,,UANL
+295,Dom,UNAM,,,,Puebla
+296,Sáb,León,,,,Cruz Azul
+297,Sáb,América,,,,Toluca
+298,Sáb,Necaxa,,,,Guadalajara
+299,Sáb,Monterrey,,,,Tijuana
+300,Dom,FC Juárez,,,,Pachuca
+301,Dom,Querétaro,,,,Santos
+302,Jue,Tijuana,,,,FC Juárez
+303,Vie,Puebla,,,,Morelia
+304,Vie,Atlas,,,,UNAM
+305,Dom,Toluca,,,,León
+306,Dom,Santos,,,,Atlético
+307,Sáb,Cruz Azul,,,,Querétaro
+308,Sáb,Pachuca,,,,Necaxa
+309,Sáb,UANL,,,,Monterrey
+310,Dom,Guadalajara,,,,América
+311,Vie,Querétaro,,,,Atlas
+312,Vie,Morelia,,,,Pachuca
+313,Dom,Toluca,,,,UANL
+314,Sáb,América,,,,Atlético
+315,Sáb,Monterrey,,,,Cruz Azul
+316,Sáb,León,,,,Tijuana
+317,Sáb,Guadalajara,,,,Santos
+318,Dom,FC Juárez,,,,Puebla
+319,Dom,Necaxa,,,,UNAM
+320,Jue,Atlético,,,,Toluca
+321,Vie,Puebla,,,,Monterrey
+322,Vie,Atlas,,,,León
+323,Dom,UNAM,,,,Guadalajara
+324,Dom,Querétaro,,,,FC Juárez
+325,Dom,Santos,,,,Morelia
+326,Sáb,Cruz Azul,,,,Necaxa
+327,Sáb,UANL,,,,Tijuana
+328,Sáb,Pachuca,,,,América
+329,Vie,Santos,,,,Toluca
+330,Vie,Tijuana,,,,Atlético
+331,Dom,UNAM,,,,Querétaro
+332,Dom,Guadalajara,,,,Puebla
+333,Dom,FC Juárez,,,,Cruz Azul
+334,Sáb,León,,,,UANL
+335,Sáb,Necaxa,,,,Atlas
+336,Sáb,Monterrey,,,,Pachuca
+337,Dom,Morelia,,,,América

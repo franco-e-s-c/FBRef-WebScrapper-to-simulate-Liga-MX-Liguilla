@@ -1,0 +1,3375 @@
+﻿dayofweek,home_team,score,away_team
+Sáb,Atlético,0–2,UNAM
+Sáb,Pachuca,1–3,León
+Vie,Puebla,1–3,Tijuana
+Vie,Atlas,1–0,FC Juárez
+Dom,Toluca,0–2,Querétaro
+Dom,Santos,3–0,Guadalajara
+Sáb,América,4–2,Monterrey
+Sáb,Necaxa,0–0,Cruz Azul
+Sáb,UANL,4–2,Morelia
+Vie,Morelia,0–1,Atlas
+Vie,Veracruz,3–3,Pachuca
+Dom,UNAM,2–0,Necaxa
+Dom,Atlético,1–0,Monterrey
+Dom,Santos,3–0,FC Juárez
+Sáb,León,0–0,América
+Sáb,Tijuana,1–1,Querétaro
+Sáb,Cruz Azul,1–1,Toluca
+Dom,Guadalajara,2–0,UANL
+Sáb,Querétaro,3–0,Cruz Azul
+Vie,Puebla,1–1,Guadalajara
+Vie,Atlas,1–2,Santos
+Dom,UNAM,0–1,UANL
+Sáb,América,3–1,Tijuana
+Sáb,Pachuca,1–2,Morelia
+Sáb,Necaxa,7–0,Veracruz
+Sáb,Monterrey,3–2,León
+Dom,FC Juárez,2–0,Toluca
+Sáb,Cruz Azul,2–0,FC Juárez
+Sáb,Querétaro,2–1,Pachuca
+Vie,Morelia,0–1,Monterrey
+Vie,Tijuana,1–0,UNAM
+Vie,Veracruz,1–2,Atlas
+Dom,Toluca,0–1,América
+Dom,Santos,4–1,Puebla
+Sáb,UANL,3–1,Necaxa
+Sáb,Guadalajara,3–0,Atlético
+Sáb,Atlético,1–1,UANL
+Vie,Puebla,0–4,Pachuca
+Vie,Atlas,1–3,Cruz Azul
+Dom,UNAM,2–0,Veracruz
+Dom,Necaxa,3–0,Santos
+Sáb,León,4–3,Guadalajara
+Sáb,América,1–0,Morelia
+Sáb,Monterrey,2–0,Toluca
+Dom,FC Juárez,0–2,Querétaro
+Sáb,Querétaro,0–4,León
+Vie,Veracruz,1–2,Atlético
+Vie,Morelia,2–0,UNAM
+Vie,Santos,2–1,Monterrey
+Dom,Toluca,2–0,Tijuana
+Dom,Guadalajara,1–2,Necaxa
+Sáb,Pachuca,3–1,Atlas
+Sáb,Cruz Azul,1–1,Puebla
+Sáb,UANL,1–1,América
+Mar,Atlético,1–1,Morelia
+Mar,Atlas,1–1,UANL
+Mar,Veracruz,0–5,Querétaro
+Mar,América,1–1,Pachuca
+Mié,León,2–2,Santos
+Mié,Tijuana,3–2,Cruz Azul
+Mié,Necaxa,1–1,Toluca
+Jue,Puebla,2–1,FC Juárez
+Jue,Monterrey,2–0,UNAM
+Sáb,Necaxa,3–2,Tijuana
+Vie,Morelia,1–0,Veracruz
+Vie,Atlas,3–0,América
+Dom,UNAM,2–1,Toluca
+Dom,Querétaro,1–1,Puebla
+Sáb,Pachuca,0–2,Atlético
+Sáb,UANL,1–1,León
+Sáb,Cruz Azul,1–1,Guadalajara
+Dom,FC Juárez,1–0,Monterrey
+Sáb,Monterrey,0–2,Necaxa
+Vie,Puebla,1–3,Atlético
+Vie,Tijuana,1–1,UANL
+Vie,Veracruz,0–0,Cruz Azul
+Dom,Toluca,0–2,Morelia
+Dom,Santos,2–2,Pachuca
+Sáb,León,3–1,FC Juárez
+Sáb,Guadalajara,1–0,Atlas
+Sáb,América,1–1,UNAM
+Sáb,Monterrey,3–2,Puebla
+Sáb,Atlético,2–3,Santos
+Sáb,Necaxa,2–4,León
+Vie,Atlas,0–1,Toluca
+Vie,Morelia,1–0,Guadalajara
+Dom,UNAM,1–1,Cruz Azul
+Sáb,Pachuca,4–1,Tijuana
+Sáb,América,2–2,Querétaro
+Dom,FC Juárez,2–0,Veracruz
+Mar,Querétaro,1–2,Necaxa
+Mar,UANL,0–1,Puebla
+Mar,León,1–1,Atlas
+Mar,Guadalajara,2–4,Pachuca
+Mié,FC Juárez,1–1,América
+Mié,Santos,5–0,Veracruz
+Mié,Tijuana,3–2,Morelia
+Mié,Cruz Azul,1–1,Monterrey
+Jue,Toluca,3–1,Atlético
+Sáb,Pachuca,2–0,Cruz Azul
+Vie,Puebla,2–1,León
+Vie,Atlas,2–0,Querétaro
+Dom,UNAM,2–0,Santos
+Dom,Atlético,2–3,Tijuana
+Sáb,Necaxa,0–0,FC Juárez
+Sáb,Monterrey,0–2,UANL
+Sáb,América,4–1,Guadalajara
+Dom,Veracruz,1–1,Toluca
+Sáb,León,1–1,Veracruz
+Vie,Morelia,2–3,Necaxa
+Dom,Toluca,1–1,Puebla
+Dom,FC Juárez,1–2,Atlético
+Sáb,Cruz Azul,5–2,América
+Sáb,UANL,4–0,Santos
+Sáb,Tijuana,2–2,Atlas
+Sáb,Guadalajara,1–1,UNAM
+Dom,Querétaro,2–1,Monterrey
+Sáb,Cruz Azul,2–3,Morelia
+Vie,Puebla,0–1,Atlas
+Vie,Veracruz,1–3,UANL
+Vie,Santos,4–1,Tijuana
+Dom,UNAM,1–2,León
+Dom,Atlético,0–2,Querétaro
+Sáb,Pachuca,0–1,FC Juárez
+Sáb,Necaxa,2–2,América
+Dom,Monterrey,1–1,Guadalajara
+Sáb,Querétaro,3–0,UNAM
+Vie,Morelia,2–2,Santos
+Vie,Tijuana,2–0,Veracruz
+Vie,Atlas,0–2,Necaxa
+Dom,Toluca,2–0,Pachuca
+Sáb,América,2–0,Puebla
+Sáb,León,3–2,Atlético
+Sáb,UANL,1–1,Cruz Azul
+Dom,FC Juárez,1–2,Guadalajara
+Mar,Atlético,0–1,América
+Mar,Veracruz,1–0,Puebla
+Mar,Santos,1–0,Querétaro
+Mar,UNAM,5–1,Atlas
+Mié,Pachuca,2–3,Monterrey
+Mié,UANL,1–0,Toluca
+Mié,Guadalajara,0–1,Tijuana
+Jue,Morelia,6–1,FC Juárez
+Jue,Cruz Azul,1–0,León
+Sáb,Querétaro,0–0,UANL
+Vie,Puebla,1–1,UNAM
+Vie,Atlas,1–2,Atlético
+Dom,Toluca,1–3,Guadalajara
+Sáb,América,1–2,Santos
+Sáb,Monterrey,1–1,Veracruz
+Sáb,Necaxa,1–2,Pachuca
+Dom,FC Juárez,3–0,Tijuana
+Dom,León,1–1,Morelia
+Sáb,Atlético,0–2,Necaxa
+Vie,Morelia,3–2,Puebla
+Vie,Tijuana,0–4,Monterrey
+Vie,Veracruz,0–5,América
+Dom,UNAM,1–1,FC Juárez
+Sáb,UANL,0–0,Pachuca
+Sáb,León,4–0,Toluca
+Sáb,Guadalajara,3–2,Querétaro
+Dom,Santos,3–1,Cruz Azul
+Sáb,Querétaro,3–1,Morelia
+Vie,Puebla,3–0,Necaxa
+Vie,Tijuana,1–2,León
+Dom,Toluca,2–2,Santos
+Sáb,Monterrey,2–0,Atlas
+Sáb,Cruz Azul,3–1,Atlético
+Sáb,Guadalajara,3–1,Veracruz
+Sáb,Pachuca,2–0,UNAM
+Dom,FC Juárez,1–2,UANL
+Mié,Morelia,3–3,León
+Mié,Necaxa,3–0,Querétaro
+Jue,Monterrey,5–2,Santos
+Jue,América,1–2,UANL
+Sáb,León,1–2,Morelia
+Sáb,Querétaro,2–3,Necaxa
+Dom,Santos,1–1,Monterrey
+Dom,UANL,2–4,América
+Mié,Monterrey,2–1,Necaxa
+Jue,Morelia,2–0,América
+Sáb,Necaxa,0–1,Monterrey
+Dom,América,2–0,Morelia
+Jue,Monterrey,2–1,América
+Dom,América,(2) 2–1 (4),Monterrey
+Sáb,Cruz Azul,1–2,Atlas
+Vie,Tijuana,2–1,Santos
+Vie,Morelia,0–1,Toluca
+Dom,UNAM,2–1,Pachuca
+Sáb,León,3–1,Querétaro
+Sáb,Guadalajara,2–0,FC Juárez
+Sáb,UANL,0–0,Atlético
+Jue,FC Juárez,4–4,UNAM
+Sáb,Monterrey,2–2,Morelia
+Vie,Atlético,2–1,Cruz Azul
+Vie,Atlas,0–1,Puebla
+Dom,Toluca,2–3,Necaxa
+Dom,Querétaro,3–0,Tijuana
+Sáb,Pachuca,0–0,Guadalajara
+Sáb,América,1–0,UANL
+Dom,Santos,3–2,León
+Sáb,Cruz Azul,3–0,Santos
+Vie,Tijuana,0–0,América
+Vie,Puebla,0–1,Querétaro
+Dom,UNAM,1–0,Monterrey
+Dom,Necaxa,1–1,Atlético
+Sáb,UANL,2–1,Atlas
+Sáb,León,3–0,Pachuca
+Sáb,Guadalajara,2–2,Toluca
+Dom,FC Juárez,3–0,Morelia
+Sáb,Necaxa,2–0,Puebla
+Sáb,Monterrey,1–2,Querétaro
+Sáb,Morelia,1–2,León
+Vie,Atlético,2–2,Guadalajara
+Vie,Atlas,2–1,Tijuana
+Dom,Toluca,3–3,Cruz Azul
+Sáb,Pachuca,2–0,UANL
+Sáb,América,1–3,FC Juárez
+Sáb,Santos,1–1,UNAM
+Mar,Puebla,0–1,América
+Mié,Necaxa,2–2,Monterrey
+Jue,Atlas,1–3,Morelia
+Sáb,Cruz Azul,3–1,Pachuca
+Vie,Tijuana,1–1,Toluca
+Vie,Puebla,2–2,Santos
+Dom,UNAM,4–0,Atlético
+Sáb,UANL,3–0,Guadalajara
+Sáb,León,3–1,Monterrey
+Dom,Querétaro,1–2,América
+Dom,FC Juárez,2–1,Necaxa
+Sáb,Pachuca,1–0,Puebla
+Sáb,Toluca,2–3,UNAM
+Vie,Atlético,3–1,León
+Vie,Morelia,1–1,Tijuana
+Dom,Necaxa,2–3,Querétaro
+Sáb,América,2–0,Atlas
+Sáb,Monterrey,1–1,FC Juárez
+Sáb,Guadalajara,1–2,Cruz Azul
+Dom,Santos,2–1,UANL
+Sáb,León,2–1,Necaxa
+Vie,Atlas,0–2,Pachuca
+Vie,Tijuana,0–1,Guadalajara
+Vie,Puebla,2–0,Toluca
+Dom,UNAM,1–2,Morelia
+Dom,Querétaro,0–1,Atlético
+Sáb,Cruz Azul,2–1,UANL
+Sáb,Monterrey,0–1,América
+Dom,FC Juárez,1–2,Santos
+Sáb,Pachuca,1–1,Querétaro
+Vie,Atlético,0–3,FC Juárez
+Vie,Toluca,2–0,Monterrey
+Vie,Tijuana,0–1,Puebla
+Vie,Morelia,2–4,Cruz Azul
+Dom,Guadalajara,2–0,León
+Sáb,América,0–3,Necaxa
+Sáb,UANL,3–0,UNAM
+Dom,Santos,1–0,Atlas
+Sáb,Cruz Azul,4–2,Tijuana
+Sáb,Monterrey,2–2,Atlético
+Vie,Querétaro,1–1,Toluca
+Vie,UNAM,3–3,América
+Vie,Puebla,0–0,UANL
+Dom,Necaxa,1–2,Morelia
+Sáb,Pachuca,1–0,Santos
+Sáb,Atlas,1–2,Guadalajara
+Dom,FC Juárez,1–4,León
+Sáb,Atlético,0–1,Puebla
+Vie,Tijuana,3–2,Pachuca
+Vie,Morelia,4–0,Querétaro
+Dom,Toluca,2–3,Atlas
+Sáb,UANL,3–2,FC Juárez
+Sáb,León,3–1,UNAM
+Sáb,Guadalajara,1–1,Monterrey
+Dom,Santos,2–1,Necaxa
+Dom,América,0–1,Cruz Azul
+Sáb,Monterrey,,Santos
+Sáb,Puebla,,Cruz Azul
+Vie,Morelia,,Atlético
+Dom,UNAM,,Tijuana
+Sáb,América,,León
+Sáb,Pachuca,,Toluca
+Sáb,Necaxa,,UANL
+Dom,Querétaro,,Guadalajara
+Dom,FC Juárez,,Atlas
+Vie,Cruz Azul,,UNAM
+Jue,Atlético,,Pachuca
+Jue,Atlas,,Monterrey
+Sáb,Toluca,,FC Juárez
+Sáb,Santos,,América
+Vie,UANL,,Querétaro
+Vie,León,,Puebla
+Vie,Guadalajara,,Morelia
+Sáb,Tijuana,,Necaxa
+Vie,Atlético,,Atlas
+Vie,Morelia,,UANL
+Dom,UNAM,,Puebla
+Sáb,León,,Cruz Azul
+Sáb,América,,Toluca
+Sáb,Necaxa,,Guadalajara
+Sáb,Monterrey,,Tijuana
+Dom,FC Juárez,,Pachuca
+Dom,Querétaro,,Santos
+Jue,Tijuana,,FC Juárez
+Vie,Puebla,,Morelia
+Vie,Atlas,,UNAM
+Dom,Toluca,,León
+Dom,Santos,,Atlético
+Sáb,Cruz Azul,,Querétaro
+Sáb,Pachuca,,Necaxa
+Sáb,UANL,,Monterrey
+Dom,Guadalajara,,América
+Vie,Querétaro,,Atlas
+Vie,Morelia,,Pachuca
+Dom,Toluca,,UANL
+Sáb,América,,Atlético
+Sáb,Monterrey,,Cruz Azul
+Sáb,León,,Tijuana
+Sáb,Guadalajara,,Santos
+Dom,FC Juárez,,Puebla
+Dom,Necaxa,,UNAM
+Jue,Atlético,,Toluca
+Vie,Puebla,,Monterrey
+Vie,Atlas,,León
+Dom,UNAM,,Guadalajara
+Dom,Querétaro,,FC Juárez
+Dom,Santos,,Morelia
+Sáb,Cruz Azul,,Necaxa
+Sáb,UANL,,Tijuana
+Sáb,Pachuca,,América
+Vie,Santos,,Toluca
+Vie,Tijuana,,Atlético
+Dom,UNAM,,Querétaro
+Dom,Guadalajara,,Puebla
+Dom,FC Juárez,,Cruz Azul
+Sáb,León,,UANL
+Sáb,Necaxa,,Atlas
+Sáb,Monterrey,,Pachuca
+Dom,Morelia,,América
+Vie,Necaxa,0–3,UANL
+Dom,UNAM,3–2,Querétaro
+Sáb,Tijuana,3–1,Atlas
+Sáb,Guadalajara,0–0,León
+Sáb,Cruz Azul,2–0,Santos
+Lun,Atlético,1–1,FC Juárez
+Lun,Pachuca,1–2,América
+Lun,Mazatlán,1–4,Puebla
+Mar,Monterrey,3–1,Toluca
+Vie,Puebla,1–1,Cruz Azul
+Vie,FC Juárez,1–0,Necaxa
+Dom,Toluca,3–2,Atlético
+Dom,Querétaro,1–1,Mazatlán
+Sáb,UANL,1–1,Pachuca
+Sáb,América,4–0,Tijuana
+Dom,Santos,2–0,Guadalajara
+Lun,Atlas,1–2,UNAM
+Lun,León,1–0,Monterrey
+Jue,Pachuca,1–0,Querétaro
+Jue,Tijuana,0–0,UANL
+Vie,Necaxa,1–1,América
+Vie,Mazatlán,2–1,Toluca
+Dom,UNAM,1–1,FC Juárez
+Sáb,Cruz Azul,2–0,León
+Sáb,Monterrey,2–2,Santos
+Sáb,Guadalajara,0–1,Puebla
+Dom,Atlético,1–1,Atlas
+Mar,Necaxa,1–0,Mazatlán
+Mié,Querétaro,1–0,Cruz Azul
+Mar,Pachuca,0–1,León
+Mar,UANL,2–1,Puebla
+Mié,FC Juárez,0–2,Guadalajara
+Mié,Tijuana,0–2,Atlético
+Mié,UNAM,1–1,Monterrey
+Jue,Atlas,1–2,Toluca
+Jue,América,3–1,Santos
+Sáb,Guadalajara,2–1,Atlético
+Vie,Puebla,0–1,Pachuca
+Dom,Toluca,3–2,UANL
+Sáb,Cruz Azul,3–2,FC Juárez
+Sáb,Mazatlán,0–0,UNAM
+Sáb,Monterrey,1–1,Necaxa
+Dom,Santos,0–0,Atlas
+Dom,Querétaro,4–1,América
+Lun,León,2–1,Tijuana
+Sáb,Atlas,1–0,Querétaro
+Vie,Necaxa,2–1,Santos
+Vie,FC Juárez,0–0,León
+Dom,Toluca,1–0,Guadalajara
+Sáb,UANL,1–1,UNAM
+Sáb,América,1–3,Monterrey
+Dom,Tijuana,1–0,Puebla
+Dom,Atlético,1–3,Cruz Azul
+Lun,Pachuca,4–3,Mazatlán
+Vie,Puebla,4–1,Toluca
+Vie,Mazatlán,1–1,UANL
+Dom,UNAM,3–0,Tijuana
+Sáb,Guadalajara,0–0,Pachuca
+Sáb,Atlético,1–2,América
+Sáb,Cruz Azul,3–0,Necaxa
+Dom,Santos,2–1,Querétaro
+Dom,Monterrey,2–1,FC Juárez
+Lun,León,2–1,Atlas
+Mié,América,3–1,Mazatlán
+Jue,Querétaro,4–1,Toluca
+Jue,Pachuca,3–1,Atlético
+Sáb,UNAM,4–1,Puebla
+Vie,Tijuana,2–1,Monterrey
+Vie,Necaxa,0–2,León
+Vie,FC Juárez,1–1,Santos
+Sáb,Atlas,1–0,Cruz Azul
+Sáb,UANL,1–3,Guadalajara
+Mar,Atlético,2–1,Necaxa
+Mié,León,1–1,UANL
+Mar,Toluca,0–1,FC Juárez
+Mar,Monterrey,1–1,Atlas
+Mar,Guadalajara,1–1,Querétaro
+Mar,Puebla,2–3,América
+Mié,Cruz Azul,1–0,Pachuca
+Mié,Mazatlán,1–0,Tijuana
+Mié,Santos,1–2,UNAM
+Sáb,Atlas,1–1,Mazatlán
+Vie,Necaxa,1–2,Guadalajara
+Vie,FC Juárez,1–0,Puebla
+Dom,UNAM,3–0,Atlético
+Sáb,UANL,2–0,Santos
+Sáb,América,1–1,Toluca
+Dom,Querétaro,2–3,León
+Dom,Tijuana,1–2,Cruz Azul
+Lun,Pachuca,1–1,Monterrey
+Sáb,Atlas,0–1,Pachuca
+Vie,Necaxa,0–1,Puebla
+Vie,Mazatlán,2–3,Cruz Azul
+Dom,Toluca,1–2,Santos
+Sáb,UANL,3–0,Querétaro
+Sáb,América,1–0,Guadalajara
+Dom,Atlético,1–2,Monterrey
+Lun,León,2–0,UNAM
+Jue,Pachuca,0–0,Toluca
+Sáb,Guadalajara,2–1,Mazatlán
+Vie,Puebla,3–3,Querétaro
+Vie,FC Juárez,0–1,Atlas
+Dom,Atlético,0–2,León
+Sáb,UNAM,1–1,Necaxa
+Sáb,Monterrey,0–2,UANL
+Dom,Cruz Azul,0–0,América
+Mié,Tijuana,2–1,FC Juárez
+Sáb,Atlas,0–1,Necaxa
+Vie,Puebla,0–2,Santos
+Vie,León,2–1,Mazatlán
+Dom,Toluca,2–0,Cruz Azul
+Dom,FC Juárez,1–1,Pachuca
+Sáb,UANL,3–0,Atlético
+Sáb,América,2–2,UNAM
+Dom,Querétaro,1–2,Monterrey
+Dom,Tijuana,0–0,Guadalajara
+Dom,Santos,2–0,Tijuana
+Jue,Atlético,2–1,Querétaro
+Sáb,Monterrey,3–1,Puebla
+Vie,Necaxa,2–0,Tijuana
+Vie,Mazatlán,3–2,FC Juárez
+Dom,UNAM,1–0,Toluca
+Sáb,Guadalajara,3–2,Atlas
+Sáb,Cruz Azul,0–2,UANL
+Dom,Santos,1–1,Pachuca
+Lun,León,3–2,América
+Sáb,Querétaro,0–1,Necaxa
+Vie,Puebla,1–2,León
+Dom,Toluca,2–0,Tijuana
+Dom,Guadalajara,0–2,Cruz Azul
+Sáb,UANL,1–1,FC Juárez
+Sáb,Mazatlán,1–2,Monterrey
+Sáb,América,1–0,Atlas
+Dom,Santos,2–1,Atlético
+Lun,Pachuca,1–1,UNAM
+Jue,Atlético,0–5,Mazatlán
+Sáb,Atlas,0–1,Puebla
+Vie,Necaxa,3–2,Toluca
+Vie,Tijuana,0–2,Pachuca
+Vie,FC Juárez,1–0,Querétaro
+Dom,América,3–1,UANL
+Sáb,UNAM,2–2,Guadalajara
+Sáb,Monterrey,1–0,Cruz Azul
+Lun,León,2–1,Santos
+Sáb,Guadalajara,3–1,Monterrey
+Sáb,Pachuca,0–1,Necaxa
+Vie,Puebla,1–0,Atlético
+Vie,FC Juárez,1–1,América
+Dom,Toluca,2–2,León
+Sáb,UANL,1–1,Atlas
+Sáb,Cruz Azul,1–2,UNAM
+Dom,Santos,4–0,Mazatlán
+Dom,Querétaro,2–2,Tijuana
+Sáb,Santos,0–3,Pachuca
+Sáb,Guadalajara,1–0,Necaxa
+Dom,UANL,2–1,Toluca
+Dom,Monterrey,(2) 2–2 (4),Puebla
+Mié,Puebla,2–1,León
+Mié,Guadalajara,1–0,América
+Jue,UANL,1–3,Cruz Azul
+Jue,Pachuca,0–1,UNAM
+Dom,UNAM,0–0,Pachuca
+Sáb,León,2–0,Puebla
+Sáb,América,1–2,Guadalajara
+Dom,Cruz Azul,0–1,UANL
+Mié,Guadalajara,1–1,León
+Jue,Cruz Azul,4–0,UNAM
+Sáb,León,1–0,Guadalajara
+Dom,UNAM,4–0,Cruz Azul
+Jue,UNAM,1–1,León
+Dom,León,2–0,UNAM
+Sáb,Atlas,0–2,Monterrey
+Vie,Tijuana,0–0,UNAM
+Vie,Puebla,1–1,Guadalajara
+Vie,Mazatlán,3–2,Necaxa
+Dom,Toluca,3–1,Querétaro
+Sáb,UANL,2–0,León
+Sáb,América,2–1,Atlético
+Dom,Santos,1–0,Cruz Azul
+Lun,Pachuca,1–1,FC Juárez
+Sáb,Guadalajara,1–1,Toluca
+Vie,Necaxa,1–0,Atlético
+Vie,FC Juárez,0–0,Tijuana
+Dom,UNAM,3–0,Mazatlán
+Sáb,Cruz Azul,0–1,Puebla
+Sáb,Monterrey,1–0,América
+Dom,Santos,2–0,UANL
+Dom,Querétaro,1–0,Atlas
+Lun,León,0–0,Pachuca
+Jue,Atlético,3–1,Guadalajara
+Vie,Puebla,0–1,Tijuana
+Vie,Mazatlán,0–0,Santos
+Dom,Toluca,2–0,Necaxa
+Sáb,Atlas,0–2,UANL
+Dom,Querétaro,2–0,UNAM
+Lun,Pachuca,0–1,Cruz Azul
+Mar,América,2–0,FC Juárez
+Jue,UANL,1–1,Necaxa
+Vie,Mazatlán,1–0,Pachuca
+Dom,UNAM,0–0,Atlas
+Sáb,Guadalajara,1–2,FC Juárez
+Sáb,Tijuana,3–2,Toluca
+Sáb,Cruz Azul,4–1,Querétaro
+Dom,Santos,1–1,América
+Lun,León,3–1,Atlético
+Mar,Puebla,0–0,Monterrey
+Jue,Atlético,2–2,Tijuana
+Jue,Querétaro,3–1,Pachuca
+Sáb,Atlas,1–1,Santos
+Vie,Necaxa,0–2,Cruz Azul
+Dom,Toluca,4–1,Mazatlán
+Sáb,América,1–0,Puebla
+Sáb,Monterrey,1–0,UNAM
+Lun,León,1–3,Guadalajara
+Vie,Tijuana,2–0,León
+Vie,Puebla,4–0,FC Juárez
+Vie,Mazatlán,0–3,Atlético
+Dom,Toluca,1–0,UNAM
+Sáb,Guadalajara,2–2,Necaxa
+Sáb,América,2–1,Querétaro
+Dom,Santos,1–0,Monterrey
+Lun,Pachuca,0–1,Atlas
+Mié,UANL,0–2,Cruz Azul
+Jue,Atlético,1–0,Santos
+Vie,Necaxa,1–1,Monterrey
+Vie,FC Juárez,1–0,Mazatlán
+Dom,UNAM,0–1,León
+Dom,Querétaro,1–1,Puebla
+Sáb,Cruz Azul,3–2,Toluca
+Sáb,Atlas,3–0,América
+Dom,UANL,3–2,Tijuana
+Lun,Pachuca,1–1,Guadalajara
+Jue,Atlético,2–2,UANL
+Sáb,Toluca,0–0,Atlas
+Vie,Puebla,1–0,Necaxa
+Vie,Mazatlán,3–0,Querétaro
+Dom,Monterrey,1–1,Tijuana
+Sáb,América,2–0,Pachuca
+Sáb,León,0–1,Cruz Azul
+Dom,Santos,3–2,FC Juárez
+Dom,Guadalajara,2–1,UNAM
+Mar,Atlas,3–1,Atlético
+Mar,UANL,0–1,Toluca
+Mar,León,1–2,Puebla
+Mié,FC Juárez,1–6,Monterrey
+Mié,Querétaro,2–2,Guadalajara
+Mié,Tijuana,0–2,América
+Mié,Cruz Azul,1–0,Mazatlán
+Jue,Necaxa,2–2,Pachuca
+Jue,UNAM,1–0,Santos
+Sáb,Atlas,2–0,FC Juárez
+Vie,Atlético,0–0,Toluca
+Vie,Puebla,1–1,UANL
+Sáb,América,2–1,León
+Sáb,Monterrey,2–1,Querétaro
+Sáb,Mazatlán,1–1,Guadalajara
+Dom,Santos,3–1,Necaxa
+Dom,UNAM,0–1,Cruz Azul
+Lun,Pachuca,2–1,Tijuana
+Mié,Monterrey,1–1,León
+Vie,Puebla,0–1,Atlas
+Vie,FC Juárez,1–1,UNAM
+Dom,Toluca,0–2,Pachuca
+Sáb,UANL,1–2,Mazatlán
+Sáb,Tijuana,0–1,Santos
+Sáb,Cruz Azul,1–0,Monterrey
+Dom,Querétaro,2–1,Atlético
+Dom,Guadalajara,0–3,América
+Lun,León,3–1,Necaxa
+Jue,Pachuca,1–0,UANL
+Sáb,Atlético,0–1,UNAM
+Vie,Necaxa,1–0,FC Juárez
+Vie,Mazatlán,0–1,América
+Dom,Toluca,4–4,Puebla
+Sáb,Cruz Azul,3–2,Atlas
+Sáb,Tijuana,3–1,Querétaro
+Dom,Santos,1–2,León
+Sáb,Atlas,1–0,Tijuana
+Vie,Puebla,3–1,Mazatlán
+Vie,FC Juárez,0–1,Cruz Azul
+Dom,UNAM,2–2,Pachuca
+Dom,Guadalajara,1–1,Santos
+Sáb,América,2–1,Necaxa
+Sáb,Monterrey,2–0,Atlético
+Dom,Querétaro,0–1,UANL
+Dom,León,2–1,Toluca
+Sáb,Atlas,1–3,León
+Vie,Necaxa,0–1,UNAM
+Vie,FC Juárez,2–1,Atlético
+Dom,Toluca,1–2,Monterrey
+Sáb,Cruz Azul,1–0,Guadalajara
+Sáb,UANL,1–3,América
+Dom,Querétaro,1–0,Santos
+Dom,Tijuana,2–3,Mazatlán
+Lun,Pachuca,1–3,Puebla
+Mié,FC Juárez,2–3,UANL
+Sáb,Atlético,1–4,Puebla
+Vie,Necaxa,0–0,Querétaro
+Vie,Mazatlán,0–0,Atlas
+Dom,UNAM,0–0,UANL
+Sáb,Guadalajara,2–0,Tijuana
+Sáb,América,1–1,Cruz Azul
+Dom,Santos,3–1,Toluca
+Dom,Monterrey,0–1,Pachuca
+Lun,León,2–0,FC Juárez
+Mié,Monterrey,1–2,Guadalajara
+Sáb,Cruz Azul,3–2,Atlético
+Vie,Tijuana,1–0,Necaxa
+Vie,Puebla,0–0,UNAM
+Vie,Mazatlán,4–3,León
+Dom,Toluca,3–1,América
+Sáb,Atlas,0–1,Guadalajara
+Sáb,UANL,2–1,Monterrey
+Dom,Querétaro,1–0,FC Juárez
+Lun,Pachuca,1–0,Santos
+Jue,Atlético,1–5,Pachuca
+Sáb,Guadalajara,0–0,UANL
+Sáb,León,2–1,Querétaro
+Vie,Necaxa,1–5,Atlas
+Vie,FC Juárez,1–0,Toluca
+Sáb,Cruz Azul,1–1,Tijuana
+Sáb,Monterrey,1–0,Mazatlán
+Dom,Santos,0–0,Puebla
+Dom,UNAM,0–1,América
+Sáb,Atlas,1–0,UANL
+Sáb,Santos,5–0,Querétaro
+Dom,León,(2) 2–2 (4),Toluca
+Dom,Pachuca,4–2,Guadalajara
+Mié,Toluca,2–1,Cruz Azul
+Mié,Atlas,1–0,Puebla
+Jue,Pachuca,3–1,América
+Jue,Santos,2–1,Monterrey
+Sáb,Puebla,1–0,Atlas
+Dom,Monterrey,1–1,Santos
+Sáb,Cruz Azul,3–1,Toluca
+Dom,América,4–2,Pachuca
+Mié,Pachuca,0–0,Cruz Azul
+Jue,Santos,3–0,Puebla
+Sáb,Cruz Azul,1–0,Pachuca
+Dom,Puebla,1–0,Santos
+Jue,Santos,0–1,Cruz Azul
+Dom,Cruz Azul,1–1,Santos
+Jue,Querétaro,0–0,América
+Sáb,Pachuca,4–0,León
+Vie,Necaxa,0–3,Santos
+Vie,FC Juárez,1–3,Toluca
+Dom,UNAM,0–0,Atlas
+Sáb,Guadalajara,1–2,Atlético
+Dom,Monterrey,1–1,Puebla
+Dom,Tijuana,1–2,UANL
+Lun,Cruz Azul,0–2,Mazatlán
+Sáb,León,2–1,Tijuana
+Vie,Mazatlán,2–1,Pachuca
+Vie,Puebla,0–2,Guadalajara
+Dom,Toluca,3–1,UANL
+Dom,Santos,1–1,Cruz Azul
+Sáb,América,2–1,Necaxa
+Sáb,Monterrey,2–0,UNAM
+Sáb,Atlas,2–0,FC Juárez
+Lun,Atlético,1–1,Querétaro
+Jue,Querétaro,0–1,León
+Sáb,Guadalajara,2–2,FC Juárez
+Vie,Mazatlán,1–1,Monterrey
+Vie,Tijuana,0–2,Toluca
+Vie,Necaxa,1–2,Cruz Azul
+Dom,UNAM,1–3,Atlético
+Sáb,América,2–0,Puebla
+Sáb,UANL,1–1,Santos
+Lun,Pachuca,0–1,Atlas
+Jue,Atlético,0–2,Necaxa
+Sáb,UNAM,0–0,Querétaro
+Vie,Puebla,1–1,UANL
+Vie,FC Juárez,1–1,Tijuana
+Dom,Atlas,0–1,América
+Sáb,León,3–0,Mazatlán
+Sáb,Cruz Azul,4–0,Toluca
+Sáb,Monterrey,3–1,Pachuca
+Dom,Santos,0–0,Guadalajara
+Mar,Toluca,2–2,Mazatlán
+Mar,UANL,3–0,Querétaro
+Mar,Tijuana,1–1,Puebla
+Mar,Necaxa,3–0,UNAM
+Mié,Santos,1–1,Atlas
+Mié,Cruz Azul,1–1,Monterrey
+Mié,FC Juárez,1–2,América
+Mié,Guadalajara,0–3,León
+Sáb,Atlas,0–0,Toluca
+Vie,Mazatlán,0–3,UANL
+Dom,UNAM,2–0,Puebla
+Dom,América,2–0,Tijuana
+Sáb,León,1–1,Santos
+Sáb,Atlético,0–0,Cruz Azul
+Sáb,Monterrey,0–0,Guadalajara
+Dom,Necaxa,1–0,FC Juárez
+Dom,Querétaro,0–2,Pachuca
+Sáb,Guadalajara,2–1,Necaxa
+Vie,Mazatlán,2–2,Atlético
+Vie,Tijuana,2–2,Monterrey
+Vie,Puebla,1–0,Querétaro
+Dom,Toluca,2–1,UNAM
+Dom,Santos,2–0,FC Juárez
+Sáb,UANL,1–1,Atlas
+Sáb,León,1–1,América
+Dom,Cruz Azul,1–1,Pachuca
+Sáb,Atlas,2–1,Monterrey
+Vie,Puebla,2–2,Atlético
+Vie,Tijuana,2–1,Santos
+Vie,FC Juárez,2–1,Cruz Azul
+Dom,UNAM,0–0,Guadalajara
+Sáb,UANL,2–2,León
+Sáb,América,2–0,Mazatlán
+Dom,Querétaro,3–0,Necaxa
+Lun,Pachuca,1–2,Toluca
+Jue,Atlético,4–1,Tijuana
+Sáb,León,0–1,FC Juárez
+Vie,Necaxa,0–3,Atlas
+Sáb,Toluca,3–1,América
+Sáb,Mazatlán,2–2,UNAM
+Sáb,Guadalajara,1–0,Pachuca
+Dom,Cruz Azul,2–0,Querétaro
+Dom,Monterrey,2–0,UANL
+Dom,Santos,1–1,Puebla
+Mar,FC Juárez,1–0,Atlético
+Mié,Monterrey,2–0,Toluca
+Jue,Pachuca,1–0,Necaxa
+Sáb,Atlas,2–0,León
+Vie,Tijuana,0–0,Mazatlán
+Vie,Puebla,1–1,Cruz Azul
+Dom,Toluca,1–2,Atlético
+Sáb,UANL,0–0,UNAM
+Sáb,América,0–0,Guadalajara
+Dom,Santos,1–2,Monterrey
+Mar,Necaxa,3–0,Tijuana
+Mié,Atlético,0–3,UANL
+Mar,Mazatlán,3–1,FC Juárez
+Mar,Atlas,0–1,Puebla
+Mar,Pachuca,1–1,América
+Mié,Querétaro,1–0,Guadalajara
+Sáb,León,0–0,Atlético
+Vie,Puebla,1–2,Pachuca
+Vie,FC Juárez,3–1,Monterrey
+Dom,Toluca,1–1,Querétaro
+Dom,América,2–0,UNAM
+Sáb,Santos,1–0,Mazatlán
+Sáb,Guadalajara,0–1,Atlas
+Dom,UANL,0–0,Necaxa
+Dom,Tijuana,0–1,Cruz Azul
+Vie,FC Juárez,0–0,Querétaro
+Jue,Querétaro,1–1,Tijuana
+Sáb,Monterrey,0–1,León
+Vie,Necaxa,0–1,Puebla
+Vie,Mazatlán,1–0,Atlas
+Dom,UNAM,1–0,FC Juárez
+Dom,Guadalajara,2–0,Toluca
+Sáb,Atlético,0–1,América
+Sáb,Pachuca,1–1,Santos
+Sáb,Cruz Azul,1–1,UANL
+Mar,Querétaro,1–0,Monterrey
+Mar,Puebla,2–0,Mazatlán
+Mar,América,2–1,Santos
+Mar,Atlas,0–0,Cruz Azul
+Mié,León,1–2,UNAM
+Mié,Toluca,1–1,Necaxa
+Mié,Tijuana,0–0,Guadalajara
+Mié,UANL,3–0,Pachuca
+Sáb,Puebla,0–1,León
+Sáb,Monterrey,0–1,Necaxa
+Vie,Mazatlán,2–1,Querétaro
+Dom,UNAM,3–1,Tijuana
+Sáb,América,1–0,UANL
+Sáb,Guadalajara,1–1,Cruz Azul
+Dom,Atlético,2–6,Atlas
+Dom,Santos,2–2,Toluca
+Dom,Pachuca,1–1,FC Juárez
+Jue,Atlas,0–2,Tijuana
+Sáb,Querétaro,2–3,Santos
+Vie,Necaxa,2–1,Mazatlán
+Vie,FC Juárez,0–2,Puebla
+Dom,Toluca,0–0,León
+Dom,Cruz Azul,2–1,América
+Sáb,Pachuca,1–1,UNAM
+Sáb,UANL,2–1,Guadalajara
+Dom,Atlético,1–1,Monterrey
+Mié,Pachuca,0–0,Atlético
+Mié,Cruz Azul,0–1,León
+Jue,UNAM,0–3,Santos
+Jue,Atlas,2–0,Querétaro
+Sáb,León,3–0,Necaxa
+Vie,Puebla,1–0,Toluca
+Vie,Mazatlán,0–1,Guadalajara
+Dom,UNAM,4–3,Cruz Azul
+Sáb,América,0–0,Monterrey
+Sáb,Tijuana,3–2,Pachuca
+Sáb,UANL,3–0,FC Juárez
+Dom,Santos,0–0,Atlético
+Dom,Toluca,1–2,UNAM
+Sáb,Santos,2–0,Atlético
+Sáb,Puebla,(6) 2–2 (5),Guadalajara
+Dom,Cruz Azul,1–4,Monterrey
+Mié,UNAM,0–0,América
+Mié,Monterrey,0–0,Atlas
+Jue,Puebla,2–1,León
+Jue,Santos,2–1,UANL
+Sáb,América,1–3,UNAM
+Sáb,Atlas,1–1,Monterrey
+Dom,UANL,1–0,Santos
+Dom,León,2–0,Puebla
+Mié,UANL,2–1,León
+Jue,UNAM,0–1,Atlas
+Sáb,León,2–1,UANL
+Dom,Atlas,0–1,UNAM
+Jue,León,3–2,Atlas
+Dom,Atlas,(4) 1–0 (3),León
+Jue,Atlético,0–2,Pachuca
+Vie,FC Juárez,2–1,Necaxa
+Vie,Puebla,1–1,América
+Sáb,Monterrey,0–0,Querétaro
+Sáb,Cruz Azul,2–0,Tijuana
+Dom,Guadalajara,3–0,Mazatlán
+Lun,UNAM,5–0,Toluca
+Mié,Santos,1–1,UANL
+Sáb,Atlas,1–0,Atlético
+Vie,Querétaro,1–3,UNAM
+Vie,Necaxa,0–4,Monterrey
+Dom,Toluca,3–1,Santos
+Dom,Pachuca,2–1,Guadalajara
+Sáb,UANL,0–2,Puebla
+Sáb,Tijuana,1–1,León
+Sáb,Cruz Azul,1–0,FC Juárez
+Mié,León,1–1,Atlas
+Jue,Atlético,0–1,FC Juárez
+Sáb,Guadalajara,1–1,Querétaro
+Vie,Mazatlán,1–2,Toluca
+Dom,UNAM,1–2,UANL
+Sáb,León,2–1,Pachuca
+Sáb,América,0–2,Atlas
+Sáb,Monterrey,2–2,Cruz Azul
+Dom,Santos,1–4,Necaxa
+Vie,Puebla,3–1,Tijuana
+Sáb,Necaxa,1–3,Pachuca
+Dom,Querétaro,0–2,Puebla
+Sáb,América,2–3,Atlético
+Sáb,Tijuana,1–0,UNAM
+Dom,Atlas,2–1,Santos
+Dom,UANL,4–3,Mazatlán
+Lun,León,0–1,Cruz Azul
+Mié,FC Juárez,1–3,Guadalajara
+Sáb,Guadalajara,1–3,UANL
+Sáb,Atlético,0–1,Toluca
+Vie,Mazatlán,2–0,Tijuana
+Vie,Puebla,1–1,Atlas
+Dom,UNAM,2–1,León
+Sáb,Cruz Azul,1–2,Necaxa
+Sáb,Santos,2–3,América
+Lun,Pachuca,2–2,Querétaro
+Mié,Mazatlán,2–1,América
+Sáb,Querétaro,2–0,Mazatlán
+Vie,Puebla,1–0,Monterrey
+Vie,Tijuana,1–1,Necaxa
+Vie,FC Juárez,0–0,Santos
+Dom,América,1–3,Pachuca
+Sáb,UANL,2–1,Atlético
+Sáb,León,2–1,Guadalajara
+Dom,Toluca,1–4,Cruz Azul
+Dom,Atlas,0–0,UNAM
+Jue,Pachuca,3–1,Mazatlán
+Jue,Querétaro,1–1,Toluca
+Sáb,Monterrey,0–2,Atlético
+Vie,Necaxa,0–1,León
+Vie,Tijuana,2–0,Atlas
+Vie,FC Juárez,2–3,UANL
+Sáb,Guadalajara,2–3,Puebla
+Sáb,UNAM,0–0,América
+Dom,Cruz Azul,1–2,Santos
+Mar,Puebla,1–1,FC Juárez
+Mar,Toluca,1–2,Tijuana
+Mar,Mazatlán,0–0,Necaxa
+Mar,América,1–1,Querétaro
+Mar,León,0–0,Monterrey
+Mié,Atlas,0–1,Pachuca
+Mié,UANL,2–2,Cruz Azul
+Mié,Atlético,2–2,Guadalajara
+Mié,Santos,3–2,UNAM
+Sáb,Querétaro,0–3,Atlas
+Vie,Necaxa,0–1,Toluca
+Vie,FC Juárez,0–1,León
+Sáb,Monterrey,2–1,América
+Sáb,Guadalajara,1–0,Santos
+Sáb,Cruz Azul,1–3,Puebla
+Sáb,León,0–3,UANL
+Vie,Necaxa,1–0,Querétaro
+Vie,FC Juárez,1–2,Atlas
+Vie,Monterrey,2–1,Mazatlán
+Dom,Toluca,0–3,Pachuca
+Dom,Atlético,2–1,Puebla
+Sáb,Cruz Azul,2–1,UNAM
+Sáb,Guadalajara,0–0,América
+Dom,Santos,4–0,Tijuana
+Mar,Monterrey,3–0,FC Juárez
+Jue,Querétaro,2–1,Atlético
+Sáb,UNAM,1–3,Necaxa
+Vie,Puebla,2–2,Santos
+Dom,América,3–0,Toluca
+Sáb,UANL,2–0,Monterrey
+Sáb,Pachuca,1–0,Cruz Azul
+Dom,Atlas,1–1,Guadalajara
+Dom,Mazatlán,1–2,León
+Dom,Tijuana,1–0,FC Juárez
+Sáb,UNAM,1–1,Mazatlán
+Sáb,Cruz Azul,1–0,Atlas
+Vie,Atlético,1–0,Mazatlán
+Dom,Toluca,2–1,Puebla
+Dom,León,1–1,Querétaro
+Sáb,Necaxa,0–1,América
+Sáb,FC Juárez,0–1,UNAM
+Dom,UANL,2–0,Tijuana
+Dom,Santos,3–1,Pachuca
+Mié,Toluca,2–2,Monterrey
+Mié,Tijuana,1–1,Atlético
+Jue,Pachuca,2–1,UANL
+Jue,Atlas,2–1,Necaxa
+Sáb,Atlético,2–0,León
+Vie,Puebla,2–2,UNAM
+Vie,Mazatlán,1–1,Cruz Azul
+Sáb,Toluca,1–1,Guadalajara
+Sáb,Monterrey,1–0,Santos
+Sáb,América,3–0,FC Juárez
+Dom,Querétaro,0–1,UANL
+Lun,Pachuca,0–0,Tijuana
+Mié,Guadalajara,1–3,Monterrey
+Jue,Atlas,1–2,Mazatlán
+Sáb,León,0–1,Puebla
+Vie,Necaxa,4–2,Atlético
+Vie,Tijuana,1–3,América
+Vie,FC Juárez,1–2,Pachuca
+Dom,UNAM,2–0,Monterrey
+Sáb,Santos,1–1,Querétaro
+Sáb,UANL,3–0,Toluca
+Sáb,Cruz Azul,0–1,Guadalajara
+Mar,Pachuca,1–0,Puebla
+Mar,Necaxa,2–0,UANL
+Mar,Mazatlán,1–0,Santos
+Mar,Guadalajara,2–1,Tijuana
+Mar,Toluca,0–1,FC Juárez
+Mié,Atlético,2–0,UNAM
+Mié,América,2–0,León
+Mié,Monterrey,0–0,Atlas
+Jue,Querétaro,0–1,Cruz Azul
+Sáb,Pachuca,3–0,Monterrey
+Vie,Puebla,0–1,Necaxa
+Vie,FC Juárez,0–2,Mazatlán
+Dom,Toluca,2–4,Atlas
+Dom,Cruz Azul,0–1,Atlético
+Sáb,UANL,0–2,América
+Sáb,Guadalajara,3–1,UNAM
+Dom,Santos,1–1,León
+Dom,Tijuana,2–2,Querétaro
+Sáb,Querétaro,4–0,FC Juárez
+Vie,Necaxa,0–1,Guadalajara
+Vie,Mazatlán,2–1,Puebla
+Dom,UNAM,2–0,Pachuca
+Dom,Atlético,1–3,Santos
+Sáb,Atlas,1–1,UANL
+Sáb,Monterrey,2–0,Tijuana
+Sáb,América,0–0,Cruz Azul
+Dom,León,4–4,Toluca
+Sáb,Cruz Azul,(3) 1–1 (1),Necaxa
+Dom,Puebla,(3) 2–2 (1),Mazatlán
+Sáb,Monterrey,(1) 2–2 (3),Atlético
+Dom,Guadalajara,4–1,UNAM
+Mié,Atlético,2–2,Pachuca
+Mié,Puebla,1–1,América
+Jue,Cruz Azul,0–1,UANL
+Jue,Guadalajara,1–2,Atlas
+Sáb,América,3–2,Puebla
+Dom,Atlas,1–1,Guadalajara
+Sáb,Pachuca,3–2,Atlético
+Dom,UANL,0–1,Cruz Azul
+Mié,Atlas,3–0,UANL
+Jue,América,1–1,Pachuca
+Sáb,UANL,4–2,Atlas
+Dom,Pachuca,3–0,América
+Jue,Atlas,2–0,Pachuca
+Dom,Pachuca,2–1,Atlas
+Sáb,Necaxa,1–3,Toluca
+Sáb,Guadalajara,0–0,FC Juárez
+Vie,Mazatlán,2–4,Puebla
+Dom,UNAM,1–1,Tijuana
+Dom,Atlético,1–2,León
+Sáb,UANL,2–3,Cruz Azul
+Sáb,América,0–0,Atlas
+Dom,Santos,4–3,Monterrey
+Lun,Pachuca,2–0,Querétaro
+Vie,Mazatlán,0–1,UANL
+Vie,Tijuana,0–2,FC Juárez
+Vie,Puebla,1–0,Santos
+Dom,Toluca,3–2,Atlas
+Dom,Querétaro,1–2,Necaxa
+Sáb,León,3–3,UNAM
+Sáb,Guadalajara,0–1,Atlético
+Sáb,Monterrey,3–2,América
+Sáb,Cruz Azul,1–2,Pachuca
+Mié,América,1–0,Toluca
+Sáb,Atlas,3–2,Cruz Azul
+Vie,Puebla,1–1,León
+Vie,FC Juárez,1–1,Querétaro
+Dom,UNAM,1–0,Necaxa
+Dom,Atlético,0–1,Monterrey
+Sáb,Santos,1–1,Guadalajara
+Dom,UANL,1–0,Tijuana
+Lun,Pachuca,1–1,Mazatlán
+Mié,Guadalajara,0–0,León
+Jue,Querétaro,0–3,Monterrey
+Sáb,Toluca,2–1,Santos
+Vie,Mazatlán,1–1,Atlético
+Vie,Necaxa,1–0,FC Juárez
+Sáb,Tijuana,2–0,América
+Sáb,Cruz Azul,2–2,Puebla
+Sáb,UANL,2–0,Atlas
+Dom,Pachuca,0–0,UNAM
+Mar,FC Juárez,0–1,UANL
+Mar,Monterrey,1–0,Puebla
+Mar,Atlas,1–2,Tijuana
+Mar,Atlético,0–0,Cruz Azul
+Mar,León,0–1,Toluca
+Mié,Necaxa,2–0,Pachuca
+Mié,Querétaro,2–2,Guadalajara
+Mié,UNAM,1–1,Mazatlán
+Sáb,Cruz Azul,1–0,Necaxa
+Vie,FC Juárez,1–1,Toluca
+Dom,UNAM,1–1,Monterrey
+Sáb,Tijuana,2–0,Mazatlán
+Sáb,UANL,2–1,Querétaro
+Sáb,Guadalajara,0–0,Pachuca
+Sáb,Puebla,0–0,Atlético
+Dom,Santos,1–0,Atlas
+Dom,León,3–2,América
+Mar,Toluca,1–1,Puebla
+Mié,FC Juárez,1–1,Atlético
+Jue,Atlas,3–1,Querétaro
+Vie,Mazatlán,2–1,Guadalajara
+Dom,Toluca,3–1,Tijuana
+Dom,Atlético,1–2,Necaxa
+Dom,Pachuca,2–0,UANL
+Sáb,Monterrey,5–1,León
+Sáb,Santos,4–0,Cruz Azul
+Dom,América,2–1,FC Juárez
+Jue,Querétaro,1–1,Atlético
+Sáb,León,0–3,Mazatlán
+Vie,Tijuana,3–3,Puebla
+Vie,Necaxa,1–2,Monterrey
+Dom,Cruz Azul,2–3,Toluca
+Sáb,UNAM,0–3,América
+Sáb,Guadalajara,1–1,Atlas
+Dom,UANL,2–0,Santos
+Mar,Mazatlán,1–1,Querétaro
+Mar,Atlas,0–1,FC Juárez
+Mar,Puebla,2–2,Necaxa
+Mié,Toluca,1–1,Monterrey
+Mié,Pachuca,0–3,América
+Mié,Cruz Azul,1–2,Tijuana
+Jue,Santos,2–1,León
+Jue,Atlético,3–2,UNAM
+Sáb,Querétaro,2–0,Tijuana
+Vie,Necaxa,0–4,Guadalajara
+Dom,UNAM,1–5,Santos
+Dom,Atlético,1–0,Toluca
+Sáb,Atlas,1–1,Puebla
+Sáb,Monterrey,0–0,UANL
+Sáb,FC Juárez,1–1,Mazatlán
+Sáb,América,7–0,Cruz Azul
+Dom,Pachuca,1–0,León
+Mar,Guadalajara,1–0,Monterrey
+Mar,Querétaro,0–1,América
+Mié,UNAM,1–1,UANL
+Jue,Pachuca,3–1,Atlas
+Jue,Tijuana,0–2,Santos
+Sáb,Cruz Azul,2–1,Querétaro
+Vie,Puebla,2–2,FC Juárez
+Vie,Mazatlán,1–3,América
+Dom,Toluca,1–4,Pachuca
+Sáb,UANL,0–0,Necaxa
+Sáb,Guadalajara,3–1,UNAM
+Dom,León,4–2,Atlas
+Dom,Tijuana,0–3,Monterrey
+Dom,Santos,4–1,Atlético
+Jue,Atlético,0–0,Tijuana
+Jue,Querétaro,1–1,Puebla
+Sáb,Pachuca,2–0,Santos
+Vie,Necaxa,3–2,León
+Vie,FC Juárez,2–2,Cruz Azul
+Dom,Toluca,0–0,Guadalajara
+Sáb,Atlas,0–0,UNAM
+Sáb,Monterrey,0–0,Mazatlán
+Sáb,América,2–1,UANL
+Mar,León,1–0,FC Juárez
+Mar,Santos,3–1,Necaxa
+Mar,América,3–0,Atlético
+Mar,Monterrey,3–2,Cruz Azul
+Mié,Puebla,2–2,Pachuca
+Mié,UANL,3–1,Toluca
+Mié,Tijuana,1–2,Guadalajara
+Mié,Mazatlán,1–0,Atlas
+Mié,UNAM,4–1,Querétaro
+Sáb,Querétaro,3–3,Santos
+Vie,FC Juárez,0–1,Monterrey
+Dom,Cruz Azul,2–0,Mazatlán
+Dom,Atlas,1–3,Atlético
+Sáb,Necaxa,1–2,América
+Sáb,UANL,0–1,León
+Sáb,Guadalajara,1–0,Puebla
+Sáb,Toluca,2–2,UNAM
+Dom,Pachuca,6–1,Tijuana
+Mar,Guadalajara,1–4,UANL
+Mié,FC Juárez,2–1,Pachuca
+Mié,América,3–3,Santos
+Jue,Cruz Azul,2–1,León
+Vie,Puebla,2–1,UANL
+Vie,Mazatlán,1–1,Toluca
+Dom,UNAM,1–2,Cruz Azul
+Sáb,Monterrey,2–0,Atlas
+Sáb,América,2–1,Guadalajara
+Dom,Santos,2–0,FC Juárez
+Dom,León,3–1,Querétaro
+Dom,Tijuana,1–1,Necaxa
+Dom,Atlético,1–2,Pachuca
+Vie,Necaxa,2–2,Mazatlán
+Vie,Puebla,2–1,UNAM
+Sáb,Atlético,0–3,UANL
+Sáb,Monterrey,0–0,Pachuca
+Vie,Puebla,1–2,América
+Vie,FC Juárez,3–1,UNAM
+Dom,Toluca,4–1,Querétaro
+Dom,Santos,3–0,Mazatlán
+Sáb,Atlas,1–0,Necaxa
+Sáb,Cruz Azul,2–1,Guadalajara
+Dom,León,2–2,Tijuana
+Dom,Toluca,3–0,FC Juárez
+Dom,Puebla,(5) 1–1 (4),Guadalajara
+Sáb,UANL,2–0,Necaxa
+Sáb,Cruz Azul,1–0,León
+Mié,Puebla,1–6,América
+Mié,Cruz Azul,0–0,Monterrey
+Jue,Toluca,4–3,Santos
+Jue,UANL,1–0,Pachuca
+Sáb,Monterrey,3–0,Cruz Azul
+Sáb,América,5–1,Puebla
+Dom,Santos,1–2,Toluca
+Dom,Pachuca,2–1,UANL
+Mié,Toluca,2–1,América
+Jue,Pachuca,5–2,Monterrey
+Sáb,América,1–1,Toluca
+Dom,Monterrey,0–1,Pachuca
+Jue,Toluca,1–5,Pachuca
+Dom,Pachuca,3–1,Toluca
+Sáb,América,0–0,Querétaro
+Vie,Necaxa,2–3,Atlético
+Dom,UNAM,2–1,FC Juárez
+Sáb,Monterrey,0–1,Guadalajara
+Dom,Santos,0–3,UANL
+Dom,Tijuana,1–1,Cruz Azul
+Lun,Pachuca,5–1,Puebla
+Jue,Atlas,2–1,Mazatlán
+Sáb,Cruz Azul,2–3,Monterrey
+Vie,Atlético,0–0,Guadalajara
+Vie,Puebla,2–0,Querétaro
+Sáb,FC Juárez,3–0,Tijuana
+Sáb,Toluca,2–2,América
+Sáb,Santos,3–0,UNAM
+Dom,UANL,4–1,Pachuca
+Lun,León,2–1,Necaxa
+Sáb,Monterrey,3–1,Atlético
+Vie,Tijuana,1–1,UANL
+Vie,Mazatlán,1–2,Santos
+Dom,UNAM,4–1,León
+Dom,Querétaro,3–3,Atlas
+Sáb,América,2–2,Puebla
+Sáb,Guadalajara,1–2,Toluca
+Sáb,Necaxa,1–0,Cruz Azul
+Dom,Pachuca,4–1,FC Juárez
+Jue,Atlas,2–2,Santos
+Vie,Tijuana,0–0,UNAM
+Vie,Puebla,1–2,Monterrey
+Dom,Toluca,0–0,León
+Sáb,UANL,0–0,Atlético
+Sáb,FC Juárez,1–2,Guadalajara
+Sáb,América,6–0,Mazatlán
+Dom,Pachuca,2–1,Necaxa
+Mié,Atlas,0–0,Toluca
+Jue,Atlético,2–0,Puebla
+Sáb,León,0–1,Pachuca
+Vie,Necaxa,1–1,Tijuana
+Vie,Mazatlán,2–3,FC Juárez
+Dom,UNAM,2–2,Atlas
+Dom,Guadalajara,1–1,Querétaro
+Sáb,Cruz Azul,0–1,UANL
+Sáb,Santos,2–2,América
+Dom,Monterrey,2–1,Toluca
+Jue,Querétaro,0–3,León
+Jue,Atlas,0–2,Monterrey
+Sáb,América,2–1,Necaxa
+Vie,Puebla,3–1,Mazatlán
+Vie,Tijuana,1–0,Atlético
+Dom,Toluca,3–1,Cruz Azul
+Sáb,FC Juárez,3–1,Santos
+Sáb,UANL,4–2,UNAM
+Sáb,Pachuca,1–1,Guadalajara
+Mar,León,2–0,Puebla
+Mar,UANL,0–0,FC Juárez
+Mar,Atlético,1–3,América
+Mié,Guadalajara,2–1,Tijuana
+Mié,Monterrey,2–0,Querétaro
+Mié,Necaxa,3–1,UNAM
+Jue,Mazatlán,2–3,Pachuca
+Sáb,Atlético,1–1,Santos
+Sáb,Monterrey,2–1,Necaxa
+Vie,FC Juárez,0–0,León
+Vie,Puebla,1–3,Cruz Azul
+Dom,Querétaro,1–1,Mazatlán
+Sáb,Atlas,0–1,UANL
+Sáb,UNAM,1–2,Guadalajara
+Dom,América,2–1,Tijuana
+Dom,Pachuca,1–2,Toluca
+Mié,Cruz Azul,1–0,Atlas
+Jue,Santos,0–5,Toluca
+Sáb,Cruz Azul,1–0,FC Juárez
+Vie,Necaxa,1–1,Querétaro
+Vie,Mazatlán,1–2,UNAM
+Dom,Toluca,2–0,Atlético
+Sáb,UANL,1–2,Guadalajara
+Sáb,Atlas,2–2,América
+Dom,Santos,3–2,Puebla
+Dom,Tijuana,2–0,Pachuca
+Lun,León,1–1,Monterrey
+Sáb,León,2–0,Atlético
+Vie,Mazatlán,3–1,Cruz Azul
+Vie,Necaxa,0–1,UANL
+Vie,Tijuana,1–1,Atlas
+Dom,UNAM,2–4,Puebla
+Sáb,América,0–3,Pachuca
+Sáb,Monterrey,3–0,FC Juárez
+Sáb,Guadalajara,2–0,Santos
+Dom,Querétaro,1–0,Toluca
+Sáb,Atlas,0–1,León
+Vie,Atlético,2–0,Querétaro
+Vie,Puebla,1–0,Guadalajara
+Dom,Toluca,4–1,Mazatlán
+Sáb,Cruz Azul,1–0,UNAM
+Sáb,UANL,0–2,América
+Dom,Santos,3–2,Tijuana
+Dom,Pachuca,1–2,Monterrey
+Dom,FC Juárez,1–1,Necaxa
+Sáb,Cruz Azul,1–0,Atlético
+Vie,Puebla,0–4,Atlas
+Vie,Mazatlán,0–1,Necaxa
+Vie,Tijuana,3–3,Toluca
+Dom,UNAM,0–2,Pachuca
+Sáb,UANL,0–1,Monterrey
+Sáb,Guadalajara,2–4,América
+Dom,Querétaro,2–2,FC Juárez
+Dom,León,4–1,Santos
+Vie,Mazatlán,1–2,León
+Mié,Querétaro,2–2,Cruz Azul
+Sáb,Pachuca,0–2,Cruz Azul
+Vie,Necaxa,0–0,Santos
+Vie,FC Juárez,0–2,Puebla
+Dom,Toluca,3–2,UANL
+Dom,Atlético,2–1,Mazatlán
+Sáb,América,2–2,León
+Sáb,Monterrey,4–0,Tijuana
+Sáb,Atlas,3–3,Guadalajara
+Dom,Querétaro,1–0,UNAM
+Sáb,Guadalajara,1–0,Necaxa
+Vie,Puebla,1–2,Toluca
+Vie,Tijuana,1–2,Querétaro
+Dom,UNAM,3–1,Atlético
+Sáb,León,0–0,Cruz Azul
+Sáb,UANL,1–2,Mazatlán
+Sáb,América,2–1,Monterrey
+Dom,Santos,1–4,Pachuca
+Dom,FC Juárez,1–1,Atlas
+Jue,Atlético,2–0,FC Juárez
+Sáb,Atlas,4–1,Pachuca
+Vie,Necaxa,1–1,Puebla
+Vie,Mazatlán,1–2,Tijuana
+Dom,UNAM,3–1,Toluca
+Dom,Querétaro,0–0,UANL
+Sáb,León,0–2,Guadalajara
+Sáb,Cruz Azul,1–3,América
+Dom,Monterrey,1–2,Santos
+Jue,UANL,1–0,Puebla
+Sáb,Pachuca,2–1,Atlético
+Vie,Mazatlán,0–2,Monterrey
+Vie,Necaxa,1–3,Atlas
+Vie,Tijuana,0–0,León
+Dom,Toluca,1–1,FC Juárez
+Sáb,Guadalajara,2–1,Cruz Azul
+Sáb,América,1–1,UNAM
+Dom,Santos,0–2,Querétaro
+Sáb,Puebla,5–2,Tijuana
+Vie,FC Juárez,0–1,América
+Dom,Toluca,3–0,Necaxa
+Dom,Querétaro,0–1,Pachuca
+Sáb,Atlético,0–0,Atlas
+Sáb,Guadalajara,4–1,Mazatlán
+Sáb,Monterrey,4–1,UNAM
+Sáb,Cruz Azul,3–2,Santos
+Dom,León,3–0,UANL
+Sáb,Cruz Azul,0–1,Atlas
+Sáb,Pachuca,(2) 4–4 (4),Santos
+Dom,León,1–3,Atlético
+Dom,UANL,1–0,Puebla
+Mié,Santos,0–0,Monterrey
+Mié,Atlético,1–3,América
+Jue,Atlas,1–0,Guadalajara
+Jue,UANL,4–1,Toluca
+Dom,Toluca,3–1,UANL
+Sáb,Monterrey,2–0,Santos
+Sáb,América,1–2,Atlético
+Dom,Guadalajara,1–0,Atlas
+Mié,UANL,1–1,Monterrey
+Jue,Guadalajara,0–1,América
+Sáb,Monterrey,0–1,UANL
+Dom,América,1–3,Guadalajara
+Jue,UANL,0–0,Guadalajara
+Dom,Guadalajara,2–3,UANL
+Sáb,Atlético,1–1,Monterrey
+Vie,Mazatlán,1–1,Pachuca
+Vie,Tijuana,2–3,UNAM
+Vie,América,1–2,FC Juárez
+Dom,Toluca,0–0,Necaxa
+Sáb,UANL,1–1,Puebla
+Sáb,Atlas,2–0,Cruz Azul
+Dom,Santos,0–2,Querétaro
+Lun,León,1–2,Guadalajara
+Sáb,Cruz Azul,0–2,Toluca
+Vie,Puebla,2–3,Santos
+Vie,Necaxa,1–1,Tijuana
+Dom,UNAM,0–0,Mazatlán
+Sáb,FC Juárez,1–1,UANL
+Sáb,Guadalajara,3–1,Atlético
+Dom,Monterrey,1–0,Atlas
+Lun,León,4–0,Pachuca
+Jue,Santos,0–0,Atlas
+Jue,Guadalajara,2–0,Necaxa
+Sáb,Atlético,4–1,Querétaro
+Vie,Mazatlán,0–3,Monterrey
+Vie,Tijuana,2–1,Cruz Azul
+Dom,Toluca,2–4,FC Juárez
+Sáb,América,3–0,Puebla
+Sáb,UANL,1–0,León
+Dom,Pachuca,1–1,UNAM
+Vie,León,2–1,Mazatlán
+Vie,FC Juárez,1–1,Guadalajara
+Vie,UNAM,1–1,Toluca
+Vie,Puebla,1–2,Atlético
+Dom,Cruz Azul,2–2,Santos
+Dom,Querétaro,1–1,Pachuca
+Dom,América,1–1,Atlas
+Dom,Necaxa,0–3,UANL
+Mar,Mazatlán,1–0,Puebla
+Mar,Guadalajara,1–0,Tijuana
+Mar,FC Juárez,4–1,UNAM
+Mié,América,3–2,Necaxa
+Mié,Pachuca,1–0,Cruz Azul
+Mié,Atlético,3–0,León
+Sáb,Atlas,0–0,Toluca
+Vie,Puebla,1–0,FC Juárez
+Vie,Tijuana,1–1,Mazatlán
+Dom,Necaxa,0–1,Querétaro
+Sáb,América,1–1,León
+Sáb,Santos,2–1,Guadalajara
+Dom,UNAM,2–1,UANL
+Dom,Monterrey,1–2,Cruz Azul
+Lun,Pachuca,0–2,Atlético
+Mié,Toluca,1–0,Monterrey
+Mié,Querétaro,1–2,Atlas
+Mié,UANL,3–2,Santos
+Sáb,León,1–1,Necaxa
+Vie,FC Juárez,3–1,Mazatlán
+Vie,Puebla,3–0,Tijuana
+Dom,Toluca,5–0,Pachuca
+Dom,Guadalajara,1–2,Monterrey
+Sáb,Santos,2–1,UNAM
+Sáb,UANL,5–0,Querétaro
+Sáb,Cruz Azul,2–3,América
+Dom,Atlético,2–0,Atlas
+Sáb,Necaxa,1–1,FC Juárez
+Vie,Mazatlán,2–2,Cruz Azul
+Vie,Tijuana,2–1,Toluca
+Dom,UNAM,3–2,Atlético
+Dom,Querétaro,1–1,Puebla
+Sáb,Monterrey,3–1,León
+Sáb,América,4–0,Guadalajara
+Dom,Atlas,2–0,UANL
+Lun,Pachuca,3–2,Santos
+Mié,Querétaro,1–2,América
+Vie,FC Juárez,1–2,Atlas
+Vie,Atlético,3–2,Mazatlán
+Vie,Puebla,0–2,UNAM
+Dom,Toluca,1–1,América
+Dom,Cruz Azul,1–3,Querétaro
+Sáb,Guadalajara,0–0,Pachuca
+Sáb,León,1–0,Tijuana
+Sáb,UANL,3–0,Monterrey
+Dom,Santos,2–5,Necaxa
+Mar,Guadalajara,1–3,Mazatlán
+Jue,Atlas,2–3,Puebla
+Sáb,Pachuca,1–1,Necaxa
+Vie,Querétaro,1–1,León
+Vie,Tijuana,5–1,FC Juárez
+Vie,Atlético,1–2,Cruz Azul
+Dom,Toluca,1–1,Guadalajara
+Sáb,Mazatlán,2–3,UANL
+Sáb,América,1–0,UNAM
+Mar,Puebla,1–1,Monterrey
+Mar,América,4–0,Pachuca
+Mié,UNAM,4–0,Querétaro
+Mié,Necaxa,1–3,Cruz Azul
+Mié,Santos,2–1,Tijuana
+Mié,UANL,2–2,Toluca
+Sáb,Monterrey,3–1,FC Juárez
+Vie,Mazatlán,1–2,América
+Dom,Toluca,3–1,Querétaro
+Dom,Necaxa,1–2,Puebla
+Sáb,Pachuca,1–1,UANL
+Sáb,Guadalajara,4–1,Atlas
+Sáb,Cruz Azul,1–4,UNAM
+Dom,Tijuana,2–1,Atlético
+Dom,Santos,0–2,León
+Sáb,León,1–0,Toluca
+Vie,FC Juárez,0–1,Pachuca
+Vie,Atlas,1–3,Mazatlán
+Vie,Puebla,0–2,Guadalajara
+Dom,UNAM,0–1,Monterrey
+Sáb,América,4–3,Santos
+Sáb,Querétaro,1–0,Tijuana
+Sáb,UANL,2–1,Cruz Azul
+Dom,Atlético,4–0,Necaxa
+Mar,León,1–1,Atlas
+Mié,Monterrey,3–1,Tijuana
+Mié,FC Juárez,3–2,Atlético
+Sáb,Cruz Azul,1–0,León
+Vie,Necaxa,1–0,UNAM
+Vie,Mazatlán,3–0,Querétaro
+Dom,Toluca,3–1,Atlético
+Sáb,Pachuca,1–1,Puebla
+Sáb,Guadalajara,0–4,UANL
+Sáb,Monterrey,0–3,América
+Dom,Santos,5–1,FC Juárez
+Dom,Tijuana,2–0,Atlas
+Mar,Toluca,0–1,Puebla
+Mar,Querétaro,1–2,Guadalajara
+Mar,Monterrey,3–0,Necaxa
+Mar,León,1–1,UNAM
+Mié,Cruz Azul,2–0,FC Juárez
+Mié,Atlas,0–2,Pachuca
+Mié,Mazatlán,3–1,Santos
+Mié,Tijuana,2–0,UANL
+Mié,Atlético,0–1,América
+Sáb,UANL,2–2,Atlético
+Vie,Puebla,5–4,León
+Dom,UNAM,3–0,Atlas
+Dom,Necaxa,4–0,Mazatlán
+Sáb,América,3–0,Tijuana
+Sáb,Pachuca,0–2,Monterrey
+Sáb,Guadalajara,1–0,Cruz Azul
+Dom,Santos,3–1,Toluca
+Dom,FC Juárez,0–3,Querétaro
+Mié,Monterrey,3–0,Santos
+Sáb,Querétaro,0–0,Monterrey
+Sáb,Atlético,0–2,Santos
+Vie,Mazatlán,1–0,Toluca
+Vie,Atlas,0–0,Necaxa
+Vie,Tijuana,2–3,Pachuca
+Sáb,UNAM,1–0,Guadalajara
+Sáb,UANL,0–0,América
+Dom,Cruz Azul,1–2,Puebla
+Dom,León,2–1,FC Juárez
+Jue,Atlético,3–2,León
+Jue,Santos,2–1,Mazatlán
+Dom,León,3–2,Santos
+Mié,León,2–2,América
+Mié,Atlético,1–0,Monterrey
+Jue,Puebla,2–2,UANL
+Jue,Guadalajara,1–0,UNAM
+Sáb,América,2–0,León
+Sáb,Monterrey,1–1,Atlético
+Dom,UNAM,3–0,Guadalajara
+Dom,UANL,3–0,Puebla
+Mié,Atlético,0–5,América
+Jue,UNAM,0–1,UANL
+Sáb,América,0–2,Atlético
+Dom,UANL,1–1,UNAM
+Jue,UANL,1–1,América
+Dom,América,3–0,UANL
+Vie,Querétaro,2–2,Toluca
+Vie,Mazatlán,0–1,Atlético
+Dom,UNAM,1–0,FC Juárez
+Sáb,Cruz Azul,0–1,Pachuca
+Sáb,Tijuana,0–2,América
+Sáb,Guadalajara,1–1,Santos
+Sáb,Monterrey,2–0,Puebla
+Dom,Necaxa,2–1,Atlas
+Mié,León,1–2,UANL
+Sáb,Toluca,4–1,Mazatlán
+Vie,Puebla,1–2,Necaxa
+Vie,FC Juárez,0–0,Cruz Azul
+Vie,Atlético,3–1,UNAM
+Sáb,América,2–0,Querétaro
+Sáb,Atlas,0–0,Tijuana
+Dom,UANL,1–0,Guadalajara
+Dom,Santos,0–2,Monterrey
+Mié,Monterrey,1–1,Querétaro
+Mié,Atlético,1–2,UANL
+Mié,FC Juárez,0–2,América
+Sáb,Cruz Azul,2–1,Mazatlán
+Sáb,León,3–2,Santos
+Vie,Tijuana,1–1,Guadalajara
+Vie,Puebla,1–1,Toluca
+Dom,UNAM,3–1,Pachuca
+Sáb,Monterrey,3–1,Atlético
+Sáb,Necaxa,0–0,América
+Dom,Atlas,2–1,FC Juárez
+Dom,Querétaro,1–1,UANL
+Mar,Mazatlán,2–2,León
+Mar,Cruz Azul,1–0,Tijuana
+Mar,Santos,3–0,Puebla
+Mar,Guadalajara,3–2,Toluca
+Mié,Pachuca,4–3,Atlas
+Mié,UNAM,2–2,Necaxa
+Sáb,FC Juárez,2–2,Necaxa
+Sáb,Toluca,4–1,León
+Vie,Querétaro,1–3,Cruz Azul
+Vie,Puebla,3–2,Mazatlán
+Sáb,UANL,2–2,UNAM
+Sáb,Pachuca,3–2,Tijuana
+Sáb,América,1–1,Monterrey
+Dom,Atlas,3–0,Santos
+Dom,Atlético,0–2,Guadalajara
+Mié,Pachuca,3–2,León
+Sáb,Necaxa,3–3,Toluca
+Sáb,Guadalajara,2–1,FC Juárez
+Vie,Mazatlán,2–0,Atlas
+Vie,Tijuana,1–1,Querétaro
+Dom,UNAM,3–0,Puebla
+Sáb,León,0–1,América
+Sáb,Cruz Azul,3–0,Atlético
+Sáb,Monterrey,3–2,Pachuca
+Sáb,Santos,0–3,UANL
+Mié,Atlas,0–0,UNAM
+Sáb,Atlético,3–3,Tijuana
+Vie,Querétaro,1–1,Necaxa
+Vie,Mazatlán,2–2,Guadalajara
+Dom,Atlas,0–1,León
+Sáb,Pachuca,2–1,América
+Sáb,Cruz Azul,1–0,UANL
+Dom,UNAM,3–0,Santos
+Dom,Monterrey,0–0,Toluca
+Mar,Puebla,1–4,Pachuca
+Mar,Necaxa,1–0,Guadalajara
+Mié,Toluca,1–0,Santos
+Mié,León,2–3,Cruz Azul
+Mié,América,2–2,Mazatlán
+Sáb,León,1–0,Atlético
+Vie,Puebla,0–2,Querétaro
+Vie,FC Juárez,0–3,Monterrey
+Vie,Necaxa,1–1,Pachuca
+Dom,Toluca,2–0,Tijuana
+Sáb,UANL,1–1,Atlas
+Sáb,Guadalajara,3–1,UNAM
+Sáb,América,1–0,Cruz Azul
+Dom,Santos,1–0,Mazatlán
+Mar,Querétaro,4–1,Atlético
+Mié,Tijuana,1–1,Monterrey
+Mié,UANL,1–0,FC Juárez
+Sáb,Toluca,2–1,UANL
+Vie,Atlético,4–0,Puebla
+Vie,Querétaro,0–1,Santos
+Vie,Mazatlán,2–1,Necaxa
+Sáb,Pachuca,3–2,FC Juárez
+Sáb,Cruz Azul,3–0,Guadalajara
+Sáb,Atlas,1–5,América
+Dom,Monterrey,3–0,UNAM
+Dom,Tijuana,1–1,León
+Sáb,Guadalajara,1–2,León
+Vie,Puebla,2–2,Atlas
+Vie,FC Juárez,1–1,Toluca
+Vie,Necaxa,3–1,Atlético
+Dom,UNAM,3–3,Tijuana
+Sáb,Santos,3–0,Cruz Azul
+Sáb,Pachuca,1–2,Querétaro
+Sáb,América,2–0,UANL
+Dom,Monterrey,2–1,Mazatlán
+Sáb,Cruz Azul,1–2,Necaxa
+Vie,Querétaro,1–0,FC Juárez
+Vie,Tijuana,2–2,Santos
+Dom,Atlas,1–2,Monterrey
+Sáb,León,2–1,Puebla
+Sáb,UANL,5–1,Mazatlán
+Sáb,Guadalajara,0–0,América
+Dom,Atlético,2–1,Pachuca
+Dom,Toluca,3–0,UNAM
+Sáb,FC Juárez,4–3,Puebla
+Vie,Puebla,2–3,UANL
+Vie,Mazatlán,2–0,Tijuana
+Vie,América,2–1,Atlético
+Dom,Atlas,2–3,Querétaro
+Sáb,Monterrey,0–2,Guadalajara
+Sáb,Pachuca,2–3,Toluca
+Sáb,UNAM,0–0,Cruz Azul
+Dom,Necaxa,1–2,León
+Dom,FC Juárez,2–1,Santos
+Sáb,León,0–2,Querétaro
+Vie,Mazatlán,0–4,UNAM
+Vie,Tijuana,2–3,Necaxa
+Dom,Toluca,4–1,Atlas
+Sáb,UANL,0–3,Pachuca
+Sáb,Guadalajara,3–2,Puebla
+Sáb,Santos,1–1,América
+Sáb,Cruz Azul,2–1,Monterrey
+Lun,Atlético,2–3,FC Juárez
+Sáb,Pachuca,0–1,Guadalajara
+Vie,Querétaro,0–2,Mazatlán
+Vie,Puebla,0–1,Cruz Azul
+Vie,Necaxa,2–0,Santos
+Sáb,América,5–1,Toluca
+Sáb,Monterrey,3–3,UANL
+Dom,Atlas,2–1,Atlético
+Dom,UNAM,1–0,León
+Dom,FC Juárez,0–1,Tijuana
+Sáb,León,2–0,Monterrey
+Vie,Mazatlán,0–2,FC Juárez
+Vie,Tijuana,3–1,Puebla
+Vie,Atlético,1–5,Toluca
+Sáb,UANL,5–2,Necaxa
+Sáb,Guadalajara,2–0,Querétaro
+Sáb,Santos,0–2,Pachuca
+Sáb,UNAM,2–1,América
+Dom,Cruz Azul,2–2,Atlas
+Sáb,FC Juárez,1–1,León
+Vie,Puebla,1–2,América
+Vie,Querétaro,1–1,UNAM
+Sáb,Toluca,0–1,Cruz Azul
+Sáb,UANL,4–1,Tijuana
+Sáb,Pachuca,1–1,Mazatlán
+Sáb,Atlas,0–1,Guadalajara
+Dom,Necaxa,2–5,Monterrey
+Dom,Santos,0–3,Atlético
+Jue,Necaxa,(3) 1–1 (2),Querétaro
+Jue,Pachuca,(3) 0–0 (5),UNAM
+Dom,Pachuca,2–1,Necaxa
+Mié,Guadalajara,1–0,Toluca
+Mié,Pachuca,1–1,América
+Jue,UNAM,0–2,Cruz Azul
+Jue,UANL,1–2,Monterrey
+Sáb,América,1–1,Pachuca
+Sáb,Toluca,0–0,Guadalajara
+Dom,Cruz Azul,2–2,UNAM
+Dom,Monterrey,1–1,UANL
+Mié,Guadalajara,0–0,América
+Jue,Monterrey,0–1,Cruz Azul
+Sáb,América,1–0,Guadalajara
+Dom,Cruz Azul,1–2,Monterrey
+Jue,Cruz Azul,1–1,América
+Dom,América,1–0,Cruz Azul
+Sáb,Cruz Azul,3–0,Puebla
+Vie,Veracruz,0–2,UNAM
+Vie,Atlas,0–0,Querétaro
+Dom,Toluca,2–0,Morelia
+Dom,Santos,2–1,Lobos BUAP
+Sáb,Tijuana,2–1,Guadalajara
+Sáb,Pachuca,0–1,Monterrey
+Sáb,UANL,2–0,León
+Dom,Necaxa,2–1,América
+Sáb,Querétaro,1–0,Pachuca
+Vie,Morelia,3–1,Santos
+Vie,Puebla,2–1,Toluca
+Dom,UNAM,5–3,Necaxa
+Dom,Lobos BUAP,2–0,Veracruz
+Dom,UANL,1–0,Tijuana
+Sáb,América,3–0,Atlas
+Sáb,Guadalajara,0–1,Cruz Azul
+Dom,León,0–2,Monterrey
+Sáb,Necaxa,1–0,Lobos BUAP
+Vie,Veracruz,2–2,Morelia
+Vie,Atlas,0–3,UNAM
+Dom,Toluca,2–2,Guadalajara
+Dom,Santos,2–0,Puebla
+Sáb,Pachuca,1–3,América
+Sáb,Cruz Azul,1–0,UANL
+Sáb,Monterrey,2–1,Querétaro
+Dom,Tijuana,1–1,León
+Sáb,Lobos BUAP,0–0,Atlas
+Vie,Puebla,1–2,Veracruz
+Vie,Morelia,2–1,Necaxa
+Dom,UNAM,0–0,Pachuca
+Dom,Guadalajara,1–2,Santos
+Sáb,León,4–0,Querétaro
+Sáb,UANL,1–2,Toluca
+Sáb,América,3–0,Monterrey
+Dom,Tijuana,1–1,Cruz Azul
+Sáb,Cruz Azul,3–0,León
+Vie,Veracruz,0–2,Guadalajara
+Vie,Atlas,0–1,Morelia
+Dom,Toluca,3–0,Tijuana
+Dom,Santos,3–1,UANL
+Sáb,Pachuca,3–0,Lobos BUAP
+Sáb,Necaxa,2–2,Puebla
+Sáb,Querétaro,1–1,América
+Sáb,Monterrey,1–0,UNAM
+Mar,UNAM,0–1,Querétaro
+Mar,Morelia,1–1,Pachuca
+Mar,Puebla,2–0,Atlas
+Mar,Guadalajara,1–0,Necaxa
+Mié,Cruz Azul,1–0,Toluca
+Mié,León,2–0,América
+Mié,Tijuana,2–2,Santos
+Mié,UANL,4–0,Veracruz
+Mié,Lobos BUAP,1–2,Monterrey
+Sáb,Pachuca,2–0,Puebla
+Vie,Atlas,0–1,Guadalajara
+Dom,Querétaro,2–0,Lobos BUAP
+Dom,Toluca,1–2,León
+Dom,Santos,1–1,Cruz Azul
+Sáb,América,2–2,UNAM
+Sáb,Veracruz,1–0,Tijuana
+Sáb,Necaxa,1–1,UANL
+Sáb,Monterrey,2–2,Morelia
+Sáb,Cruz Azul,4–1,Veracruz
+Vie,Morelia,1–4,Querétaro
+Vie,Tijuana,1–0,Necaxa
+Vie,Puebla,2–1,Monterrey
+Dom,Toluca,2–1,Santos
+Dom,Lobos BUAP,0–2,América
+Sáb,UANL,3–1,Atlas
+Sáb,León,1–2,UNAM
+Sáb,Guadalajara,1–3,Pachuca
+Sáb,Querétaro,0–1,Puebla
+Vie,Veracruz,2–3,Toluca
+Dom,UNAM,4–2,Lobos BUAP
+Dom,Santos,3–0,León
+Dom,Atlas,0–1,Tijuana
+Sáb,Pachuca,1–1,UANL
+Sáb,América,2–1,Morelia
+Sáb,Necaxa,2–0,Cruz Azul
+Sáb,Monterrey,2–4,Guadalajara
+Sáb,Toluca,3–2,Necaxa
+Vie,Morelia,0–0,UNAM
+Vie,Puebla,2–3,América
+Dom,Guadalajara,1–1,Querétaro
+Dom,Santos,1–1,Veracruz
+Sáb,León,0–1,Lobos BUAP
+Sáb,Tijuana,1–0,Pachuca
+Sáb,Cruz Azul,2–0,Atlas
+Dom,UANL,0–0,Monterrey
+Sáb,Querétaro,0–2,UANL
+Vie,Veracruz,0–4,León
+Vie,Atlas,2–0,Toluca
+Dom,UNAM,2–2,Puebla
+Dom,Lobos BUAP,3–1,Morelia
+Dom,América,1–1,Guadalajara
+Sáb,Pachuca,3–1,Cruz Azul
+Sáb,Necaxa,0–1,Santos
+Sáb,Monterrey,3–0,Tijuana
+Sáb,Cruz Azul,2–1,Monterrey
+Vie,Santos,3–1,Atlas
+Vie,Veracruz,0–0,Necaxa
+Dom,Toluca,2–1,Pachuca
+Dom,Puebla,2–2,Lobos BUAP
+Sáb,UANL,2–3,América
+Sáb,León,1–2,Morelia
+Sáb,Tijuana,1–1,Querétaro
+Sáb,Guadalajara,1–2,UNAM
+Sáb,Querétaro,2–0,Cruz Azul
+Vie,Atlas,4–3,Veracruz
+Dom,Lobos BUAP,1–1,Guadalajara
+Dom,UNAM,3–3,UANL
+Dom,Morelia,2–0,Puebla
+Sáb,América,3–0,Tijuana
+Sáb,Pachuca,1–1,Santos
+Sáb,Necaxa,0–2,León
+Sáb,Monterrey,2–1,Toluca
+Sáb,Necaxa,2–2,Atlas
+Vie,Santos,1–0,Monterrey
+Vie,Veracruz,2–3,Pachuca
+Dom,Toluca,4–0,Querétaro
+Sáb,Tijuana,0–1,UNAM
+Sáb,UANL,2–2,Lobos BUAP
+Sáb,Guadalajara,1–2,Morelia
+Sáb,Cruz Azul,0–0,América
+Dom,León,0–4,Puebla
+Sáb,Pachuca,6–2,Necaxa
+Vie,Morelia,0–2,UANL
+Vie,Puebla,2–2,Guadalajara
+Dom,UNAM,1–2,Cruz Azul
+Dom,Querétaro,2–1,Santos
+Sáb,América,1–1,Toluca
+Sáb,Monterrey,2–0,Veracruz
+Sáb,Lobos BUAP,3–1,Tijuana
+Dom,Atlas,0–0,León
+Sáb,Cruz Azul,2–1,Lobos BUAP
+Vie,Veracruz,2–2,Querétaro
+Vie,Atlas,0–0,Pachuca
+Dom,Toluca,0–1,UNAM
+Sáb,Tijuana,2–3,Morelia
+Sáb,León,0–1,Guadalajara
+Sáb,UANL,6–1,Puebla
+Sáb,Necaxa,1–1,Monterrey
+Dom,Santos,1–1,América
+Sáb,Querétaro,1–0,Necaxa
+Vie,Morelia,0–2,Cruz Azul
+Vie,Puebla,0–0,Tijuana
+Dom,UNAM,1–1,Santos
+Dom,Lobos BUAP,2–0,Toluca
+Sáb,América,4–1,Veracruz
+Sáb,Pachuca,1–1,León
+Sáb,Guadalajara,0–1,UANL
+Sáb,Monterrey,3–1,Atlas
+Mié,Querétaro,0–2,Cruz Azul
+Mié,Monterrey,1–0,Santos
+Jue,Toluca,2–2,América
+Jue,UANL,2–1,UNAM
+Dom,UNAM,3–1,UANL
+Sáb,Cruz Azul,1–1,Querétaro
+Sáb,Santos,0–2,Monterrey
+Dom,América,3–2,Toluca
+Mié,Monterrey,1–0,Cruz Azul
+Jue,UNAM,1–1,América
+Sáb,Cruz Azul,1–0,Monterrey
+Dom,América,6–1,UNAM
+Jue,América,0–0,Cruz Azul
+Dom,Cruz Azul,0–2,América
+Sáb,Querétaro,1–2,Atlas
+Sáb,Monterrey,5–0,Pachuca
+Vie,Morelia,1–3,Toluca
+Vie,Puebla,1–1,Cruz Azul
+Dom,UNAM,0–0,Veracruz
+Dom,Lobos BUAP,2–0,Santos
+Sáb,León,2–2,UANL
+Sáb,Guadalajara,2–0,Tijuana
+Sáb,Monterrey,2–2,León
+Vie,Veracruz,0–1,Lobos BUAP
+Vie,Atlas,1–2,América
+Dom,Toluca,2–0,Puebla
+Sáb,Cruz Azul,0–1,Guadalajara
+Sáb,Tijuana,0–3,UANL
+Sáb,Pachuca,3–0,Querétaro
+Sáb,Necaxa,2–1,UNAM
+Dom,Santos,1–0,Morelia
+Sáb,Querétaro,1–2,Monterrey
+Vie,Morelia,2–0,Veracruz
+Vie,Puebla,1–1,Santos
+Dom,UNAM,2–2,Atlas
+Dom,Lobos BUAP,2–3,Necaxa
+Sáb,América,3–0,Pachuca
+Sáb,UANL,0–1,Cruz Azul
+Dom,Guadalajara,1–0,Toluca
+Dom,León,0–1,Tijuana
+Sáb,Cruz Azul,1–0,Tijuana
+Sáb,Monterrey,3–2,América
+Vie,Veracruz,0–1,Puebla
+Vie,Atlas,3–1,Lobos BUAP
+Dom,Toluca,0–1,UANL
+Dom,Querétaro,0–4,León
+Sáb,Pachuca,1–0,UNAM
+Sáb,Necaxa,0–0,Morelia
+Dom,Santos,1–0,Guadalajara
+Sáb,América,2–0,Querétaro
+Vie,Morelia,1–2,Atlas
+Vie,Puebla,1–4,Necaxa
+Dom,UNAM,1–1,Monterrey
+Dom,Lobos BUAP,1–1,Pachuca
+Sáb,León,2–0,Cruz Azul
+Sáb,UANL,2–1,Santos
+Sáb,Tijuana,2–0,Toluca
+Lun,Guadalajara,0–0,Veracruz
+Sáb,Monterrey,4–0,Lobos BUAP
+Sáb,Querétaro,0–2,UNAM
+Vie,Veracruz,0–2,UANL
+Vie,Atlas,1–2,Puebla
+Dom,Toluca,1–1,Cruz Azul
+Sáb,Pachuca,2–0,Morelia
+Sáb,América,0–3,León
+Sáb,Necaxa,3–3,Guadalajara
+Dom,Santos,1–1,Tijuana
+Sáb,Cruz Azul,1–2,Santos
+Vie,Morelia,2–3,Monterrey
+Vie,Tijuana,3–0,Veracruz
+Vie,Puebla,1–1,Pachuca
+Dom,UNAM,1–0,América
+Dom,Lobos BUAP,3–1,Querétaro
+Sáb,UANL,3–2,Necaxa
+Sáb,León,3–0,Toluca
+Sáb,Guadalajara,3–0,Atlas
+Sáb,Querétaro,3–0,Morelia
+Vie,Atlas,0–1,UANL
+Vie,Veracruz,1–1,Cruz Azul
+Dom,UNAM,1–3,León
+Sáb,Monterrey,0–0,Puebla
+Sáb,América,3–0,Lobos BUAP
+Sáb,Pachuca,3–1,Guadalajara
+Sáb,Necaxa,1–2,Tijuana
+Dom,Santos,4–0,Toluca
+Sáb,Cruz Azul,2–1,Necaxa
+Vie,Tijuana,3–1,Atlas
+Vie,Morelia,2–2,América
+Dom,Toluca,3–1,Veracruz
+Dom,Lobos BUAP,2–1,UNAM
+Sáb,León,3–0,Santos
+Sáb,UANL,3–0,Pachuca
+Sáb,Guadalajara,0–2,Monterrey
+Lun,Puebla,1–0,Querétaro
+Mar,América,1–3,Necaxa
+Sáb,Pachuca,4–0,Tijuana
+Vie,Veracruz,2–2,Santos
+Vie,Atlas,0–2,Cruz Azul
+Dom,UNAM,2–2,Morelia
+Dom,Lobos BUAP,0–1,León
+Sáb,América,1–0,Puebla
+Sáb,Monterrey,1–1,UANL
+Sáb,Necaxa,1–1,Toluca
+Sáb,Querétaro,0–0,Guadalajara
+Sáb,Cruz Azul,4–1,Pachuca
+Vie,Morelia,1–1,Lobos BUAP
+Vie,Puebla,1–0,UNAM
+Dom,Toluca,2–0,Atlas
+Sáb,Guadalajara,0–2,América
+Sáb,Tijuana,1–0,Monterrey
+Sáb,UANL,4–1,Querétaro
+Dom,Santos,1–2,Necaxa
+Dom,León,2–0,Veracruz
+Sáb,Querétaro,1–0,Tijuana
+Vie,Morelia,2–3,León
+Vie,Atlas,1–0,Santos
+Dom,UNAM,2–1,Guadalajara
+Dom,Lobos BUAP,0–4,Puebla
+Sáb,Pachuca,3–2,Toluca
+Sáb,América,3–0,UANL
+Sáb,Monterrey,2–2,Cruz Azul
+Sáb,Necaxa,2–0,Veracruz
+Sáb,Cruz Azul,3–0,Querétaro
+Vie,Veracruz,0–1,Atlas
+Vie,Puebla,1–1,Morelia
+Dom,Toluca,5–1,Monterrey
+Dom,Santos,0–0,Pachuca
+Sáb,UANL,2–0,UNAM
+Sáb,León,2–1,Necaxa
+Sáb,Tijuana,3–2,América
+Sáb,Guadalajara,0–1,Lobos BUAP
+Sáb,Querétaro,0–0,Toluca
+Vie,Puebla,0–3,León
+Vie,Atlas,1–2,Necaxa
+Dom,UNAM,1–0,Tijuana
+Dom,Lobos BUAP,0–3,UANL
+Dom,América,0–0,Cruz Azul
+Sáb,Pachuca,9–2,Veracruz
+Sáb,Morelia,1–0,Guadalajara
+Dom,Monterrey,4–0,Santos
+Sáb,Necaxa,2–2,Pachuca
+Sáb,León,5–2,Atlas
+Vie,Tijuana,1–2,Lobos BUAP
+Vie,Veracruz,0–1,Monterrey
+Dom,Toluca,3–2,América
+Dom,Santos,2–1,Querétaro
+Sáb,Cruz Azul,2–1,UNAM
+Sáb,UANL,3–3,Morelia
+Sáb,Guadalajara,1–3,Puebla
+Sáb,Pachuca,1–0,Atlas
+Vie,Puebla,1–1,UANL
+Vie,Morelia,1–4,Tijuana
+Dom,UNAM,2–2,Toluca
+Dom,Lobos BUAP,1–4,Cruz Azul
+Dom,Querétaro,2–1,Veracruz
+Sáb,América,1–0,Santos
+Sáb,Monterrey,2–2,Necaxa
+Sáb,Guadalajara,2–1,León
+Sáb,Cruz Azul,1–1,Morelia
+Vie,Veracruz,0–2,América
+Dom,Toluca,4–0,Lobos BUAP
+Dom,Atlas,2–0,Monterrey
+Dom,Santos,5–2,UNAM
+Sáb,UANL,2–1,Guadalajara
+Sáb,León,2–1,Pachuca
+Sáb,Tijuana,4–0,Puebla
+Sáb,Necaxa,1–0,Querétaro
+Mié,Pachuca,1–1,UANL
+Mié,Tijuana,1–3,León
+Jue,Necaxa,1–0,Monterrey
+Jue,América,3–1,Cruz Azul
+Dom,Cruz Azul,1–0,América
+Sáb,UANL,1–1,Pachuca
+Sáb,León,2–1,Tijuana
+Dom,Monterrey,1–0,Necaxa
+Mié,Monterrey,1–0,UANL
+Jue,América,0–1,León
+Sáb,UANL,1–0,Monterrey
+Dom,León,0–1,América
+Jue,UANL,1–0,León
+Dom,León,0–0,UANL
+Sáb,Lobos BUAP,2–2,Santos
+Sáb,América,0–1,Querétaro
+Vie,Morelia,0–0,Monterrey
+Vie,Tijuana,0–2,Cruz Azul
+Dom,UNAM,1–0,Pachuca
+Dom,Veracruz,0–2,Necaxa
+Sáb,UANL,5–0,Puebla
+Sáb,León,0–3,Atlas
+Sáb,Guadalajara,0–0,Toluca
+Sáb,Cruz Azul,1–1,Guadalajara
+Sáb,Querétaro,0–4,Lobos BUAP
+Vie,Puebla,1–1,Morelia
+Vie,Atlas,2–1,UNAM
+Dom,Toluca,3–1,León
+Dom,Santos,1–1,UANL
+Sáb,Monterrey,1–0,Veracruz
+Sáb,Pachuca,0–2,América
+Sáb,Necaxa,1–0,Tijuana
+Sáb,Lobos BUAP,3–2,Pachuca
+Vie,Morelia,1–1,Santos
+Vie,Tijuana,0–3,Monterrey
+Dom,Toluca,3–2,Atlas
+Dom,Veracruz,2–0,Puebla
+Sáb,UANL,1–1,Querétaro
+Sáb,León,2–2,Cruz Azul
+Sáb,América,2–1,UNAM
+Sáb,Guadalajara,2–2,Necaxa
+Sáb,Cruz Azul,0–0,Toluca
+Sáb,Querétaro,2–1,Morelia
+Vie,Puebla,1–1,Tijuana
+Vie,Atlas,0–1,América
+Dom,UNAM,2–0,Lobos BUAP
+Dom,Santos,2–3,Veracruz
+Sáb,Monterrey,4–1,Guadalajara
+Sáb,Pachuca,2–1,UANL
+Sáb,Necaxa,0–3,León
+Sáb,Cruz Azul,2–1,Atlas
+Sáb,Lobos BUAP,2–3,América
+Vie,Tijuana,2–0,Santos
+Vie,Morelia,1–2,Pachuca
+Dom,Toluca,0–0,Necaxa
+Sáb,UANL,2–0,UNAM
+Sáb,Veracruz,1–1,Querétaro
+Sáb,León,1–2,Monterrey
+Sáb,Guadalajara,0–1,Puebla
+Mar,Pachuca,4–1,Veracruz
+Mar,Atlas,1–1,Lobos BUAP
+Mar,Querétaro,1–3,Tijuana
+Mar,UNAM,1–2,Morelia
+Mié,América,2–2,UANL
+Mié,Puebla,0–1,León
+Mié,Santos,1–1,Guadalajara
+Mié,Monterrey,4–1,Toluca
+Mié,Necaxa,1–1,Cruz Azul
+Sáb,Cruz Azul,1–1,Monterrey
+Vie,Tijuana,2–1,Pachuca
+Dom,Toluca,2–1,Puebla
+Dom,Veracruz,1–0,UNAM
+Sáb,UANL,3–2,Lobos BUAP
+Sáb,León,1–2,Santos
+Sáb,Morelia,2–0,América
+Sáb,Necaxa,2–1,Atlas
+Sáb,Guadalajara,0–0,Querétaro
+Sáb,Querétaro,1–2,León
+Sáb,Lobos BUAP,1–3,Morelia
+Vie,Puebla,0–0,Cruz Azul
+Dom,UNAM,0–2,Tijuana
+Dom,Santos,0–0,Toluca
+Sáb,Monterrey,1–0,Necaxa
+Sáb,Pachuca,1–3,Guadalajara
+Sáb,América,2–0,Veracruz
+Sáb,Cruz Azul,2–1,Santos
+Vie,Morelia,3–3,UANL
+Vie,Tijuana,1–1,América
+Dom,Toluca,3–2,Querétaro
+Dom,Veracruz,0–1,Lobos BUAP
+Sáb,Monterrey,2–1,Atlas
+Sáb,León,3–1,Pachuca
+Sáb,Necaxa,1–1,Puebla
+Sáb,Guadalajara,1–1,UNAM
+Mar,Guadalajara,1–2,Lobos BUAP
+Mar,Puebla,1–2,Atlas
+Mar,Tijuana,0–1,UANL
+Mar,Veracruz,2–1,Morelia
+Mié,León,2–1,América
+Mié,Necaxa,1–0,Querétaro
+Mié,Toluca,2–1,UNAM
+Mié,Pachuca,4–0,Cruz Azul
+Sáb,Querétaro,2–2,Monterrey
+Sáb,Lobos BUAP,0–3,León
+Vie,Morelia,3–0,Tijuana
+Vie,Atlas,2–0,Veracruz
+Dom,UNAM,1–4,Cruz Azul
+Dom,Santos,0–0,Puebla
+Sáb,UANL,1–0,Guadalajara
+Sáb,Pachuca,0–0,Necaxa
+Sáb,Toluca,1–2,América
+Mié,Toluca,3–1,Lobos BUAP
+Sáb,Cruz Azul,1–3,América
+Vie,Tijuana,0–0,Veracruz
+Vie,Puebla,2–2,Querétaro
+Dom,Santos,0–1,Atlas
+Sáb,Monterrey,2–0,Pachuca
+Sáb,León,1–0,UANL
+Sáb,Necaxa,0–0,UNAM
+Sáb,Guadalajara,1–2,Morelia
+Mar,Lobos BUAP,1–2,Tijuana
+Mar,Querétaro,1–2,Cruz Azul
+Mar,UANL,1–0,Veracruz
+Mar,UNAM,2–0,León
+Mar,Atlas,0–1,Morelia
+Mié,Santos,3–2,Necaxa
+Mié,Pachuca,2–2,Toluca
+Mié,América,2–1,Guadalajara
+Mié,Puebla,2–0,Monterrey
+Sáb,Lobos BUAP,3–0,Cruz Azul
+Sáb,Querétaro,1–2,Santos
+Vie,Morelia,0–0,León
+Vie,Atlas,1–0,Tijuana
+Dom,UNAM,0–1,Monterrey
+Sáb,UANL,3–0,Toluca
+Sáb,Pachuca,1–0,Puebla
+Sáb,América,0–1,Necaxa
+Dom,Veracruz,2–3,Guadalajara
+Sáb,Cruz Azul,1–2,UANL
+Sáb,Querétaro,2–2,Atlas
+Vie,Puebla,3–0,UNAM
+Dom,Toluca,0–1,Morelia
+Sáb,Monterrey,2–0,América
+Sáb,León,6–2,Veracruz
+Sáb,Necaxa,5–0,Lobos BUAP
+Sáb,Guadalajara,3–1,Tijuana
+Dom,Santos,2–2,Pachuca
+Mié,Atlas,1–1,UANL
+Sáb,Lobos BUAP,2–1,Monterrey
+Vie,Morelia,1–2,Cruz Azul
+Vie,Tijuana,2–1,León
+Dom,UNAM,2–2,Santos
+Sáb,Pachuca,0–1,Querétaro
+Sáb,América,1–1,Puebla
+Sáb,Guadalajara,1–2,Atlas
+Dom,UANL,1–0,Necaxa
+Dom,Veracruz,0–1,Toluca
+Jue,Monterrey,1–1,Santos
+Sáb,Querétaro,1–1,UNAM
+Sáb,Cruz Azul,1–0,Veracruz
+Vie,Puebla,0–1,Lobos BUAP
+Vie,Atlas,1–1,Pachuca
+Dom,Toluca,3–1,Tijuana
+Sáb,Monterrey,2–0,UANL
+Sáb,León,0–2,Guadalajara
+Sáb,Necaxa,1–2,Morelia
+Dom,Santos,0–1,América
+Mié,Toluca,2–1,Morelia
+Mié,León,1–1,UANL
+Jue,Cruz Azul,0–0,América
+Jue,Atlas,1–2,Monterrey
+Sáb,UANL,1–1,León
+Sáb,Morelia,2–1,Toluca
+Dom,Monterrey,4–1,Atlas
+Dom,América,0–0,Cruz Azul
+Mié,América,0–1,UANL
+Jue,Morelia,0–1,Monterrey
+Sáb,UANL,3–0,América
+Dom,Monterrey,4–0,Morelia
+Jue,UANL,1–1,Monterrey
+Dom,Monterrey,1–2,UANL
+Sáb,Cruz Azul,0–0,Tijuana
+Vie,Puebla,2–1,UANL
+Vie,Atlas,1–2,León
+Dom,Toluca,1–1,Guadalajara
+Sáb,Monterrey,1–1,Morelia
+Sáb,Pachuca,2–3,UNAM
+Sáb,Necaxa,0–0,Veracruz
+Dom,Santos,4–2,Lobos BUAP
+Dom,Querétaro,0–1,América
+Sáb,América,2–2,Pachuca
+Sáb,Lobos BUAP,0–2,Querétaro
+Vie,Tijuana,1–0,Necaxa
+Vie,Morelia,1–0,Puebla
+Dom,UNAM,3–1,Atlas
+Sáb,UANL,2–1,Santos
+Sáb,León,3–1,Toluca
+Sáb,Guadalajara,1–3,Cruz Azul
+Dom,Veracruz,0–2,Monterrey
+Sáb,Cruz Azul,0–0,León
+Sáb,Querétaro,0–0,UANL
+Vie,Puebla,2–0,Veracruz
+Vie,Atlas,1–3,Toluca
+Dom,UNAM,0–0,América
+Sáb,Monterrey,0–0,Tijuana
+Sáb,Pachuca,3–1,Lobos BUAP
+Sáb,Necaxa,1–3,Guadalajara
+Dom,Santos,1–0,Morelia
+Sáb,Lobos BUAP,1–1,UNAM
+Vie,Morelia,1–0,Querétaro
+Vie,Tijuana,2–0,Puebla
+Dom,Toluca,1–1,Cruz Azul
+Sáb,UANL,3–2,Pachuca
+Sáb,León,0–4,Necaxa
+Sáb,América,1–0,Atlas
+Sáb,Guadalajara,1–2,Monterrey
+Dom,Veracruz,1–1,Santos
+Sáb,Querétaro,0–1,Veracruz
+Vie,Puebla,2–0,Guadalajara
+Vie,Atlas,2–1,Cruz Azul
+Dom,UNAM,2–0,UANL
+Sáb,Santos,0–0,Tijuana
+Sáb,Monterrey,5–1,León
+Sáb,Pachuca,2–3,Morelia
+Sáb,América,5–1,Lobos BUAP
+Sáb,Necaxa,0–0,Toluca
+Sáb,Lobos BUAP,3–1,Atlas
+Sáb,Cruz Azul,0–2,Necaxa
+Vie,Morelia,1–2,UNAM
+Vie,Tijuana,0–2,Querétaro
+Dom,Toluca,2–1,Monterrey
+Sáb,UANL,1–1,América
+Sáb,León,2–1,Puebla
+Sáb,Guadalajara,0–2,Santos
+Dom,Veracruz,0–1,Pachuca
+Mar,Atlas,1–1,Necaxa
+Mar,Lobos BUAP,0–0,UANL
+Mar,América,4–1,Morelia
+Mié,Santos,5–1,León
+Mié,Querétaro,2–2,Guadalajara
+Mié,Monterrey,2–2,Cruz Azul
+Mié,UNAM,1–2,Veracruz
+Mié,Puebla,2–0,Toluca
+Mié,Pachuca,2–0,Tijuana
+Sáb,Cruz Azul,1–1,Puebla
+Vie,Morelia,2–1,Lobos BUAP
+Dom,Toluca,2–0,Santos
+Sáb,Tijuana,4–1,UNAM
+Sáb,UANL,2–0,Atlas
+Sáb,León,1–1,Querétaro
+Sáb,Necaxa,3–0,Monterrey
+Sáb,Guadalajara,1–1,Pachuca
+Dom,Veracruz,1–1,América
+Sáb,Lobos BUAP,5–0,Veracruz
+Sáb,Querétaro,0–2,Toluca
+Vie,Atlas,0–1,Monterrey
+Vie,Puebla,1–1,Necaxa
+Dom,UNAM,1–1,Guadalajara
+Sáb,UANL,2–1,Morelia
+Sáb,Pachuca,2–1,León
+Sáb,América,0–0,Tijuana
+Dom,Santos,2–0,Cruz Azul
+Sáb,Cruz Azul,0–1,Querétaro
+Vie,Tijuana,3–1,Lobos BUAP
+Vie,Morelia,2–1,Atlas
+Dom,Toluca,2–1,Pachuca
+Sáb,Monterrey,1–3,Puebla
+Sáb,León,3–0,UNAM
+Sáb,Necaxa,1–2,Santos
+Sáb,Guadalajara,1–1,América
+Dom,Veracruz,0–2,UANL
+Sáb,Lobos BUAP,0–1,Guadalajara
+Sáb,Querétaro,1–1,Necaxa
+Sáb,Cruz Azul,5–0,Pachuca
+Vie,Morelia,2–0,Veracruz
+Vie,Atlas,1–0,Puebla
+Dom,UNAM,0–1,Toluca
+Sáb,UANL,1–0,Tijuana
+Sáb,América,2–0,León
+Dom,Santos,3–2,Monterrey
+Sáb,Cruz Azul,1–1,UNAM
+Vie,Tijuana,1–1,Morelia
+Vie,Puebla,0–1,Santos
+Sáb,Monterrey,3–1,Querétaro
+Sáb,León,2–2,Lobos BUAP
+Sáb,América,1–2,Toluca
+Sáb,Necaxa,1–1,Pachuca
+Sáb,Guadalajara,0–0,UANL
+Dom,Veracruz,3–1,Atlas
+Sáb,Lobos BUAP,1–2,Toluca
+Sáb,Querétaro,2–1,Puebla
+Vie,Morelia,1–2,Guadalajara
+Vie,Atlas,3–2,Santos
+Dom,UNAM,1–1,Necaxa
+Dom,Veracruz,1–0,Tijuana
+Sáb,UANL,4–1,León
+Sáb,Pachuca,1–2,Monterrey
+Sáb,América,2–1,Cruz Azul
+Sáb,Cruz Azul,1–0,Lobos BUAP
+Vie,Puebla,2–6,Pachuca
+Vie,Tijuana,2–2,Atlas
+Dom,Toluca,1–0,UANL
+Dom,Santos,3–0,Querétaro
+Sáb,Monterrey,2–1,UNAM
+Sáb,León,2–3,Morelia
+Sáb,Necaxa,1–1,América
+Sáb,Guadalajara,0–1,Veracruz
+Sáb,Lobos BUAP,0–1,Necaxa
+Vie,Tijuana,3–0,Guadalajara
+Vie,Atlas,1–0,Querétaro
+Dom,UNAM,4–2,Puebla
+Dom,Veracruz,1–2,León
+Sáb,UANL,2–2,Cruz Azul
+Sáb,Pachuca,3–1,Santos
+Sáb,Morelia,0–1,Toluca
+Sáb,América,0–0,Monterrey
+Sáb,Cruz Azul,2–0,Morelia
+Sáb,Querétaro,0–0,Pachuca
+Vie,Puebla,3–1,América
+Vie,Atlas,1–0,Guadalajara
+Dom,Toluca,3–0,Veracruz
+Dom,Santos,1–2,UNAM
+Sáb,Monterrey,4–0,Lobos BUAP
+Sáb,León,1–1,Tijuana
+Sáb,Necaxa,1–1,UANL
+Sáb,Lobos BUAP,0–1,Puebla
+Vie,Morelia,2–2,Necaxa
+Vie,Tijuana,1–0,Toluca
+Dom,UNAM,1–1,Querétaro
+Dom,Veracruz,1–2,Cruz Azul
+Sáb,UANL,2–2,Monterrey
+Sáb,Pachuca,0–0,Atlas
+Sáb,América,1–0,Santos
+Sáb,Guadalajara,0–2,León
+Mié,UNAM,1–4,América
+Mié,Tijuana,1–1,Monterrey
+Jue,UANL,2–0,Santos
+Jue,Morelia,2–2,Toluca
+Dom,Toluca,2–2,Morelia
+Dom,Santos,2–0,UANL
+Sáb,América,2–1,UNAM
+Sáb,Monterrey,1–2,Tijuana
+Jue,Tijuana,2–1,Toluca
+Jue,Santos,4–1,América
+Dom,Toluca,4–1,Tijuana
+Dom,América,2–2,Santos
+Jue,Santos,2–1,Toluca
+Dom,Toluca,1–1,Santos
+Sáb,Querétaro,2–0,Veracruz
+Vie,Tijuana,2–0,Morelia
+Dom,UNAM,1–0,Guadalajara
+Dom,Santos,0–0,UANL
+Sáb,Atlas,1–1,Toluca
+Sáb,Monterrey,1–1,Puebla
+Sáb,Pachuca,5–1,León
+Sáb,América,2–0,Chiapas
+Sáb,Necaxa,0–0,Cruz Azul
+Sáb,Chiapas,0–2,Pachuca
+Sáb,Cruz Azul,0–0,UNAM
+Vie,Veracruz,2–0,Santos
+Dom,Puebla,3–2,Tijuana
+Sáb,Morelia,2–2,Querétaro
+Sáb,UANL,0–0,Atlas
+Sáb,León,0–0,Necaxa
+Sáb,Guadalajara,1–0,Monterrey
+Sáb,América,3–1,Toluca
+Sáb,Querétaro,2–1,Puebla
+Vie,Tijuana,4–0,Guadalajara
+Dom,UNAM,1–0,León
+Dom,Chiapas,1–0,Toluca
+Dom,Santos,2–4,Morelia
+Sáb,Atlas,1–0,Veracruz
+Sáb,Monterrey,1–1,Cruz Azul
+Sáb,Pachuca,1–0,Necaxa
+Sáb,América,0–3,UANL
+Sáb,Cruz Azul,1–2,Tijuana
+Dom,Toluca,2–0,Pachuca
+Dom,Puebla,0–0,Santos
+Sáb,Morelia,3–2,Atlas
+Sáb,UANL,1–0,Chiapas
+Sáb,León,0–3,Monterrey
+Sáb,Veracruz,2–4,América
+Sáb,Necaxa,2–2,UNAM
+Sáb,Guadalajara,0–0,Querétaro
+Sáb,Querétaro,0–0,Cruz Azul
+Vie,Tijuana,2–0,León
+Dom,Toluca,0–0,UANL
+Dom,Chiapas,1–1,Veracruz
+Dom,Santos,0–1,Guadalajara
+Sáb,Monterrey,2–1,Necaxa
+Sáb,Atlas,3–2,Puebla
+Sáb,Pachuca,3–0,UNAM
+Sáb,América,1–1,Morelia
+Sáb,Cruz Azul,3–1,Santos
+Vie,Veracruz,2–2,Toluca
+Dom,UNAM,5–3,Monterrey
+Dom,Puebla,2–2,América
+Sáb,UANL,4–2,Pachuca
+Sáb,Morelia,3–2,Chiapas
+Sáb,León,2–1,Querétaro
+Sáb,Necaxa,1–1,Tijuana
+Sáb,Guadalajara,2–2,Atlas
+Sáb,Querétaro,1–2,Necaxa
+Vie,Tijuana,1–0,UNAM
+Dom,Toluca,2–2,Morelia
+Dom,Chiapas,0–3,Puebla
+Dom,Santos,1–0,León
+Sáb,UANL,1–1,Veracruz
+Sáb,Atlas,1–1,Cruz Azul
+Sáb,Pachuca,1–1,Monterrey
+Sáb,América,0–3,Guadalajara
+Sáb,Cruz Azul,3–4,América
+Vie,Veracruz,1–0,Pachuca
+Dom,UNAM,4–1,Querétaro
+Dom,Puebla,0–2,Toluca
+Sáb,Morelia,0–2,UANL
+Sáb,Monterrey,0–0,Tijuana
+Sáb,León,4–1,Atlas
+Sáb,Necaxa,2–1,Santos
+Sáb,Guadalajara,2–0,Chiapas
+Sáb,Toluca,2–1,Guadalajara
+Sáb,Querétaro,1–0,Monterrey
+Vie,Veracruz,1–3,Morelia
+Dom,Santos,3–1,UNAM
+Sáb,UANL,2–1,Puebla
+Sáb,Chiapas,0–3,Cruz Azul
+Sáb,Atlas,0–0,Necaxa
+Sáb,Pachuca,2–2,Tijuana
+Sáb,América,0–2,León
+Mar,Morelia,1–5,Pachuca
+Mar,Guadalajara,0–1,UANL
+Mar,Cruz Azul,0–1,Toluca
+Mar,Puebla,3–2,Veracruz
+Mar,Necaxa,1–1,América
+Mié,León,0–0,Chiapas
+Mié,Tijuana,2–1,Querétaro
+Mié,UNAM,2–0,Atlas
+Mié,Monterrey,5–2,Santos
+Sáb,Chiapas,2–2,Necaxa
+Vie,Veracruz,0–1,Guadalajara
+Dom,Toluca,1–1,León
+Dom,Santos,1–2,Tijuana
+Sáb,Atlas,3–1,Monterrey
+Sáb,Morelia,2–3,Puebla
+Sáb,UANL,0–0,Cruz Azul
+Sáb,Pachuca,2–0,Querétaro
+Sáb,América,2–1,UNAM
+Sáb,Querétaro,1–1,Santos
+Sáb,Cruz Azul,5–3,Veracruz
+Vie,Tijuana,1–0,Atlas
+Dom,UNAM,1–0,Chiapas
+Dom,Puebla,1–1,Pachuca
+Sáb,Monterrey,1–1,América
+Sáb,León,3–2,UANL
+Sáb,Guadalajara,2–1,Morelia
+Sáb,Necaxa,3–1,Toluca
+Sáb,Chiapas,1–4,Monterrey
+Vie,Veracruz,2–3,León
+Dom,Toluca,2–1,UNAM
+Dom,Puebla,0–2,Guadalajara
+Sáb,UANL,0–2,Necaxa
+Sáb,Morelia,1–1,Cruz Azul
+Sáb,Atlas,2–1,Querétaro
+Sáb,Pachuca,3–0,Santos
+Sáb,América,1–0,Tijuana
+Sáb,Cruz Azul,1–2,Puebla
+Vie,Tijuana,2–0,Chiapas
+Dom,UNAM,1–3,UANL
+Dom,Santos,2–2,Atlas
+Sáb,Querétaro,1–1,América
+Sáb,Monterrey,1–1,Toluca
+Sáb,Necaxa,3–2,Veracruz
+Sáb,León,3–1,Morelia
+Dom,Guadalajara,1–2,Pachuca
+Sáb,Chiapas,1–2,Querétaro
+Vie,Veracruz,1–4,UNAM
+Dom,Toluca,0–1,Tijuana
+Sáb,UANL,1–1,Monterrey
+Sáb,Morelia,2–1,Necaxa
+Sáb,Pachuca,3–2,Atlas
+Sáb,América,3–1,Santos
+Sáb,Guadalajara,3–2,Cruz Azul
+Dom,Puebla,2–2,León
+Sáb,Querétaro,2–3,Toluca
+Sáb,Cruz Azul,2–1,Pachuca
+Vie,Tijuana,0–1,UANL
+Dom,UNAM,1–1,Morelia
+Sáb,Atlas,1–1,América
+Sáb,Monterrey,4–0,Veracruz
+Sáb,León,1–1,Guadalajara
+Sáb,Necaxa,3–1,Puebla
+Dom,Santos,2–0,Chiapas
+Sáb,Chiapas,1–0,Atlas
+Sáb,Cruz Azul,2–3,León
+Vie,Veracruz,2–1,Tijuana
+Dom,Toluca,1–2,Santos
+Sáb,Morelia,1–2,Monterrey
+Sáb,UANL,1–2,Querétaro
+Sáb,Pachuca,3–3,América
+Sáb,Guadalajara,1–1,Necaxa
+Dom,Puebla,0–3,UNAM
+Mié,León,3–0,Tijuana
+Mié,UNAM,2–2,UANL
+Jue,Necaxa,2–1,Pachuca
+Jue,América,1–1,Guadalajara
+Sáb,Tijuana,3–2,León
+Sáb,UANL,5–0,UNAM
+Dom,Guadalajara,0–1,América
+Dom,Pachuca,0–0,Necaxa
+Mié,León,0–1,UANL
+Jue,Necaxa,1–1,América
+Sáb,UANL,2–1,León
+Dom,América,2–0,Necaxa
+Jue,América,1–1,UANL
+Dom,UANL,(3) 1–1 (0),América
+Sáb,Cruz Azul,1–0,Necaxa
+Vie,Veracruz,1–0,Querétaro
+Dom,Toluca,4–1,Atlas
+Sáb,Morelia,2–0,Tijuana
+Sáb,UANL,0–0,Santos
+Sáb,León,2–4,Pachuca
+Sáb,Guadalajara,2–1,UNAM
+Dom,Puebla,2–3,Monterrey
+Sáb,Querétaro,0–0,Morelia
+Vie,Tijuana,6–2,Puebla
+Dom,UNAM,1–0,Cruz Azul
+Dom,Toluca,2–1,América
+Sáb,Monterrey,2–2,Guadalajara
+Sáb,Atlas,2–0,UANL
+Sáb,Pachuca,1–0,Chiapas
+Sáb,Necaxa,0–1,León
+Dom,Santos,2–1,Veracruz
+Sáb,Cruz Azul,2–2,Monterrey
+Vie,Veracruz,1–0,Atlas
+Dom,Toluca,0–1,Chiapas
+Sáb,Morelia,1–1,Santos
+Sáb,UANL,4–2,América
+Sáb,León,0–1,UNAM
+Sáb,Necaxa,1–0,Pachuca
+Sáb,Guadalajara,0–1,Tijuana
+Dom,Puebla,0–0,Querétaro
+Sáb,Querétaro,0–1,Guadalajara
+Vie,Tijuana,1–0,Cruz Azul
+Dom,UNAM,3–1,Necaxa
+Dom,Chiapas,1–0,UANL
+Sáb,Atlas,3–1,Morelia
+Sáb,Monterrey,0–0,León
+Sáb,Pachuca,0–0,Toluca
+Sáb,América,1–0,Veracruz
+Dom,Santos,2–0,Puebla
+Sáb,Cruz Azul,1–1,Querétaro
+Vie,Puebla,1–1,Atlas
+Vie,Veracruz,2–0,Chiapas
+Dom,UNAM,1–1,Pachuca
+Dom,Guadalajara,1–1,Santos
+Sáb,UANL,0–1,Toluca
+Sáb,Morelia,0–2,América
+Sáb,León,2–4,Tijuana
+Sáb,Necaxa,1–1,Monterrey
+Mar,Chiapas,2–0,América
+Sáb,Querétaro,2–1,León
+Vie,Tijuana,1–2,Necaxa
+Dom,Toluca,1–0,Veracruz
+Dom,Chiapas,1–2,Morelia
+Sáb,Atlas,1–2,Guadalajara
+Sáb,Monterrey,2–0,UNAM
+Sáb,Pachuca,1–0,UANL
+Sáb,América,0–0,Puebla
+Dom,Santos,2–2,Cruz Azul
+Sáb,Cruz Azul,0–1,Atlas
+Vie,Veracruz,0–3,UANL
+Dom,UNAM,3–3,Tijuana
+Dom,Puebla,3–0,Chiapas
+Sáb,Monterrey,1–0,Pachuca
+Sáb,Morelia,1–2,Toluca
+Sáb,León,2–2,Santos
+Sáb,Necaxa,1–4,Querétaro
+Sáb,Guadalajara,1–0,América
+Sáb,Querétaro,4–3,UNAM
+Vie,Tijuana,2–0,Monterrey
+Dom,Toluca,1–3,Puebla
+Dom,Chiapas,4–3,Guadalajara
+Sáb,UANL,1–1,Morelia
+Sáb,Atlas,2–0,León
+Sáb,Pachuca,1–0,Veracruz
+Sáb,América,2–0,Cruz Azul
+Dom,Santos,2–2,Necaxa
+Sáb,Cruz Azul,2–0,Chiapas
+Vie,Tijuana,2–3,Pachuca
+Dom,UNAM,2–1,Santos
+Dom,Puebla,0–2,UANL
+Sáb,Monterrey,4–1,Querétaro
+Sáb,Morelia,1–0,Veracruz
+Sáb,León,1–1,América
+Sáb,Necaxa,1–1,Atlas
+Sáb,Guadalajara,2–0,Toluca
+Sáb,Querétaro,3–0,Pachuca
+Sáb,Cruz Azul,0–0,UANL
+Vie,Tijuana,1–1,Santos
+Dom,UNAM,2–3,América
+Sáb,Monterrey,2–0,Atlas
+Sáb,León,2–3,Toluca
+Sáb,Necaxa,2–2,Chiapas
+Sáb,Guadalajara,2–0,Veracruz
+Dom,Puebla,0–1,Morelia
+Sáb,Chiapas,0–3,UNAM
+Vie,Veracruz,3–1,Cruz Azul
+Dom,Toluca,2–0,Necaxa
+Dom,Santos,1–0,Querétaro
+Sáb,UANL,0–1,León
+Sáb,Atlas,3–3,Tijuana
+Sáb,Morelia,0–0,Guadalajara
+Sáb,Pachuca,0–0,Puebla
+Sáb,América,1–0,Monterrey
+Sáb,Cruz Azul,1–1,Morelia
+Sáb,Querétaro,1–4,Atlas
+Vie,Tijuana,0–0,América
+Dom,UNAM,0–1,Toluca
+Dom,Santos,1–0,Pachuca
+Sáb,Monterrey,4–1,Chiapas
+Sáb,León,4–0,Veracruz
+Sáb,Necaxa,1–1,UANL
+Sáb,Guadalajara,3–2,Puebla
+Mar,Chiapas,0–0,León
+Mar,Veracruz,3–2,Puebla
+Mar,UANL,3–0,Guadalajara
+Mié,Querétaro,0–1,Tijuana
+Mié,Santos,2–2,Monterrey
+Mié,América,1–0,Necaxa
+Mié,Pachuca,0–0,Morelia
+Mié,Atlas,1–1,UNAM
+Jue,Toluca,0–2,Cruz Azul
+Sáb,Chiapas,1–2,Tijuana
+Dom,Toluca,1–1,Monterrey
+Dom,Puebla,2–1,Cruz Azul
+Sáb,UANL,4–0,UNAM
+Sáb,Morelia,1–2,León
+Sáb,Veracruz,0–1,Necaxa
+Sáb,Atlas,1–1,Santos
+Sáb,Pachuca,0–0,Guadalajara
+Sáb,América,1–0,Querétaro
+Sáb,Cruz Azul,2–1,Guadalajara
+Sáb,Querétaro,2–2,Chiapas
+Vie,Tijuana,2–0,Toluca
+Dom,UNAM,0–2,Veracruz
+Sáb,Monterrey,1–0,UANL
+Sáb,Atlas,1–0,Pachuca
+Sáb,León,1–0,Puebla
+Sáb,Necaxa,2–1,Morelia
+Dom,Santos,2–1,América
+Sáb,Chiapas,2–2,Santos
+Vie,Veracruz,1–0,Monterrey
+Dom,Toluca,1–2,Querétaro
+Dom,Puebla,0–1,Necaxa
+Sáb,Morelia,4–0,UNAM
+Sáb,UANL,3–0,Tijuana
+Sáb,Guadalajara,1–1,León
+Sáb,Pachuca,2–2,Cruz Azul
+Sáb,América,1–2,Atlas
+Sáb,Querétaro,1–5,UANL
+Dom,UNAM,0–1,Puebla
+Dom,Santos,2–2,Toluca
+Sáb,Tijuana,1–0,Veracruz
+Sáb,León,1–2,Cruz Azul
+Sáb,Monterrey,1–2,Morelia
+Sáb,Atlas,0–1,Chiapas
+Sáb,Necaxa,0–0,Guadalajara
+Sáb,América,2–3,Pachuca
+Mié,UANL,4–1,Monterrey
+Mié,Santos,1–4,Toluca
+Jue,Morelia,1–0,Tijuana
+Jue,Atlas,1–0,Guadalajara
+Dom,Guadalajara,1–0,Atlas
+Sáb,Monterrey,0–2,UANL
+Sáb,Toluca,1–3,Santos
+Dom,Tijuana,2–0,Morelia
+Jue,Toluca,1–1,Guadalajara
+Jue,UANL,2–0,Tijuana
+Dom,Guadalajara,1–1,Toluca
+Dom,Tijuana,0–2,UANL
+Jue,UANL,2–2,Guadalajara
+Dom,Guadalajara,2–1,UANL
+Sáb,Cruz Azul,0–3,Morelia
+Vie,Veracruz,2–0,Guadalajara
+Dom,UNAM,3–0,Monterrey
+Dom,Puebla,4–2,América
+Sáb,UANL,0–1,Toluca
+Sáb,Sinaloa,0–0,Chiapas
+Sáb,Pachuca,2–1,Tijuana
+Sáb,Atlas,0–2,Querétaro
+Sáb,Santos,1–3,León
+Sáb,América,1–3,Atlas
+Vie,Querétaro,1–2,Pachuca
+Vie,Tijuana,1–2,Sinaloa
+Dom,Toluca,2–1,UNAM
+Dom,Guadalajara,0–1,Cruz Azul
+Sáb,León,4–1,Veracruz
+Sáb,Morelia,1–0,UANL
+Sáb,Chiapas,2–1,Santos
+Sáb,Cruz Azul,2–0,León
+Vie,Veracruz,2–1,Chiapas
+Vie,Santos,0–1,Tijuana
+Dom,Toluca,0–1,Morelia
+Dom,Puebla,3–2,UNAM
+Sáb,Sinaloa,1–1,Querétaro
+Sáb,Pachuca,0–3,América
+Sáb,Atlas,0–3,Monterrey
+Dom,UANL,2–2,Guadalajara
+Mar,Tijuana,1–3,Veracruz
+Mar,Querétaro,1–2,Santos
+Mar,América,4–0,Sinaloa
+Mar,Monterrey,4–3,Pachuca
+Mié,Puebla,1–0,Toluca
+Mié,León,2–1,UANL
+Mié,Guadalajara,2–0,Morelia
+Mié,UNAM,5–0,Atlas
+Mié,Chiapas,2–1,Cruz Azul
+Sáb,Cruz Azul,1–3,Tijuana
+Sáb,Morelia,3–4,León
+Vie,Veracruz,2–2,Querétaro
+Vie,Santos,0–2,América
+Dom,Toluca,3–1,Guadalajara
+Sáb,UANL,4–1,Chiapas
+Sáb,Sinaloa,1–4,Monterrey
+Sáb,Pachuca,1–2,UNAM
+Sáb,Atlas,2–1,Puebla
+Sáb,América,3–1,Veracruz
+Vie,Tijuana,1–2,UANL
+Vie,Querétaro,4–2,Cruz Azul
+Dom,UNAM,2–0,Sinaloa
+Dom,Puebla,3–2,Pachuca
+Sáb,Monterrey,1–1,Santos
+Sáb,León,1–0,Guadalajara
+Sáb,Atlas,1–2,Toluca
+Sáb,Chiapas,3–1,Morelia
+Sáb,Cruz Azul,0–2,América
+Vie,Veracruz,2–1,Monterrey
+Vie,Santos,3–4,UNAM
+Dom,Toluca,1–3,León
+Dom,Guadalajara,4–1,Chiapas
+Sáb,UANL,5–1,Querétaro
+Sáb,Sinaloa,1–0,Puebla
+Sáb,Pachuca,1–1,Atlas
+Sáb,Morelia,1–2,Tijuana
+Sáb,América,0–1,UANL
+Vie,Tijuana,2–1,Guadalajara
+Vie,Querétaro,0–1,Morelia
+Dom,UNAM,3–0,Veracruz
+Dom,Puebla,0–1,Santos
+Sáb,Monterrey,1–1,Cruz Azul
+Sáb,Pachuca,3–4,Toluca
+Sáb,Atlas,3–2,Sinaloa
+Sáb,Chiapas,6–2,León
+Sáb,Cruz Azul,2–1,UNAM
+Vie,Veracruz,2–1,Puebla
+Vie,Santos,0–2,Atlas
+Dom,Toluca,1–1,Chiapas
+Dom,Guadalajara,2–1,Querétaro
+Sáb,UANL,3–1,Monterrey
+Sáb,Sinaloa,1–2,Pachuca
+Sáb,León,2–1,Tijuana
+Sáb,Morelia,0–3,América
+Sáb,América,1–2,Guadalajara
+Vie,Querétaro,3–0,León
+Vie,Tijuana,1–1,Chiapas
+Dom,UNAM,1–0,UANL
+Dom,Puebla,2–1,Cruz Azul
+Sáb,Monterrey,2–2,Morelia
+Sáb,Sinaloa,1–2,Toluca
+Sáb,Pachuca,0–0,Santos
+Sáb,Atlas,0–1,Veracruz
+Mié,Morelia,2–2,UNAM
+Mar,Toluca,4–1,Tijuana
+Mar,León,3–0,América
+Mar,Guadalajara,2–1,Monterrey
+Mar,Veracruz,0–1,Pachuca
+Mar,Chiapas,0–0,Querétaro
+Mar,Santos,1–1,Sinaloa
+Mié,Cruz Azul,1–1,Atlas
+Mié,UANL,0–1,Puebla
+Sáb,América,2–1,Chiapas
+Vie,Querétaro,2–1,Tijuana
+Dom,UNAM,1–0,Guadalajara
+Dom,Puebla,1–3,Morelia
+Sáb,Monterrey,4–0,León
+Sáb,Santos,0–0,Toluca
+Sáb,Atlas,0–1,UANL
+Vie,Monterrey,1–1,Puebla
+Sáb,Cruz Azul,1–1,Sinaloa
+Vie,Tijuana,0–2,América
+Vie,Veracruz,0–3,Santos
+Dom,Toluca,4–2,Querétaro
+Dom,Guadalajara,1–1,Puebla
+Sáb,UANL,2–1,Pachuca
+Sáb,León,1–3,UNAM
+Sáb,Morelia,0–1,Atlas
+Sáb,Chiapas,2–2,Monterrey
+Sáb,América,0–1,Querétaro
+Vie,Veracruz,3–2,Toluca
+Vie,Santos,1–2,Cruz Azul
+Dom,UNAM,2–3,Chiapas
+Dom,Puebla,1–0,León
+Sáb,Sinaloa,0–0,UANL
+Sáb,Monterrey,3–1,Tijuana
+Sáb,Pachuca,2–0,Morelia
+Sáb,Cruz Azul,1–1,Veracruz
+Vie,Querétaro,3–1,Monterrey
+Vie,Tijuana,1–2,UNAM
+Dom,Toluca,2–3,América
+Dom,Guadalajara,4–4,Pachuca
+Sáb,UANL,2–2,Santos
+Sáb,León,2–1,Atlas
+Sáb,Morelia,4–0,Sinaloa
+Sáb,Chiapas,1–0,Puebla
+Sáb,Cruz Azul,1–2,Toluca
+Vie,Veracruz,1–3,UANL
+Vie,Santos,2–3,Morelia
+Dom,UNAM,2–1,Querétaro
+Dom,Puebla,2–1,Tijuana
+Sáb,Monterrey,2–1,América
+Sáb,Sinaloa,2–1,Guadalajara
+Sáb,Pachuca,3–2,León
+Sáb,Atlas,2–3,Chiapas
+Mar,Sinaloa,0–0,Veracruz
+Mié,Atlas,0–1,Guadalajara
+Sáb,Pachuca,1–2,Cruz Azul
+Sáb,América,1–1,UNAM
+Vie,Querétaro,0–0,Puebla
+Vie,Tijuana,2–0,Atlas
+Dom,Toluca,3–1,Monterrey
+Dom,Guadalajara,0–3,Santos
+Sáb,UANL,0–0,Cruz Azul
+Sáb,León,3–0,Sinaloa
+Sáb,Morelia,1–2,Veracruz
+Sáb,Chiapas,3–2,Pachuca
+Mié,América,4–1,León
+Mié,UANL,2–1,Chiapas
+Jue,Veracruz,1–0,UNAM
+Jue,Puebla,2–2,Toluca
+Dom,UNAM,1–0,Veracruz
+Dom,Toluca,1–0,Puebla
+Sáb,Chiapas,0–1,UANL
+Sáb,León,2–1,América
+Jue,América,0–3,UNAM
+Jue,UANL,0–0,Toluca
+Dom,UNAM,1–3,América
+Dom,Toluca,0–2,UANL
+Jue,UANL,3–0,UNAM
+Dom,UNAM,(2) 4–1 (4),UANL
+Sáb,América,0–0,Puebla
+Vie,Querétaro,1–3,Atlas
+Vie,Tijuana,1–1,Pachuca
+Dom,Toluca,1–0,UANL
+Dom,Guadalajara,2–2,Veracruz
+Sáb,Monterrey,1–0,UNAM
+Sáb,León,2–0,Santos
+Sáb,Morelia,2–2,Cruz Azul
+Sáb,Chiapas,1–0,Sinaloa
+Sáb,Cruz Azul,1–1,Guadalajara
+Vie,Veracruz,1–3,León
+Vie,Santos,1–0,Chiapas
+Dom,UNAM,3–2,Toluca
+Dom,Puebla,1–3,Monterrey
+Sáb,UANL,2–0,Morelia
+Sáb,Sinaloa,0–1,Tijuana
+Sáb,Pachuca,1–0,Querétaro
+Sáb,Atlas,0–3,América
+Sáb,América,1–4,Pachuca
+Vie,Tijuana,1–3,Santos
+Vie,Querétaro,3–0,Sinaloa
+Dom,UNAM,0–1,Puebla
+Dom,Guadalajara,2–2,UANL
+Sáb,Monterrey,1–0,Atlas
+Sáb,León,3–2,Cruz Azul
+Sáb,Morelia,1–1,Toluca
+Sáb,Chiapas,1–1,Veracruz
+Sáb,Cruz Azul,2–1,Chiapas
+Vie,Santos,2–0,Querétaro
+Vie,Veracruz,2–2,Tijuana
+Dom,Toluca,1–1,Puebla
+Sáb,Morelia,2–0,Guadalajara
+Sáb,UANL,3–1,León
+Sáb,Sinaloa,0–3,América
+Sáb,Pachuca,3–1,Monterrey
+Sáb,Atlas,1–1,UNAM
+Sáb,América,2–0,Santos
+Vie,Querétaro,2–1,Veracruz
+Vie,Tijuana,1–1,Cruz Azul
+Vie,Chiapas,1–3,UANL
+Dom,UNAM,1–1,Pachuca
+Sáb,Puebla,4–1,Atlas
+Sáb,Monterrey,3–0,Sinaloa
+Sáb,León,1–2,Morelia
+Sáb,Guadalajara,1–1,Toluca
+Sáb,Cruz Azul,2–1,Querétaro
+Vie,Veracruz,1–1,América
+Vie,Toluca,1–1,Atlas
+Vie,Santos,1–2,Monterrey
+Dom,Guadalajara,0–1,León
+Sáb,UANL,1–2,Tijuana
+Sáb,Sinaloa,2–3,UNAM
+Dom,Pachuca,5–2,Puebla
+Sáb,América,3–3,Cruz Azul
+Vie,Querétaro,2–2,UANL
+Vie,Tijuana,1–1,Morelia
+Dom,UNAM,1–1,Santos
+Dom,Puebla,3–2,Sinaloa
+Sáb,Monterrey,5–1,Veracruz
+Sáb,León,5–1,Toluca
+Sáb,Atlas,1–0,Pachuca
+Sáb,Chiapas,1–1,Guadalajara
+Sáb,Cruz Azul,4–0,Monterrey
+Vie,Veracruz,0–0,UNAM
+Dom,Guadalajara,1–1,Tijuana
+Sáb,Santos,1–1,Puebla
+Sáb,UANL,4–1,América
+Sáb,Sinaloa,2–1,Atlas
+Sáb,León,1–3,Chiapas
+Sáb,Morelia,1–1,Querétaro
+Sáb,Toluca,0–1,Pachuca
+Sáb,América,4–1,Morelia
+Vie,Tijuana,0–0,León
+Dom,UNAM,2–2,Cruz Azul
+Dom,Puebla,1–1,Veracruz
+Sáb,Querétaro,0–2,Guadalajara
+Sáb,Monterrey,1–0,UANL
+Sáb,Pachuca,2–2,Sinaloa
+Sáb,Atlas,1–2,Santos
+Sáb,Chiapas,3–2,Toluca
+Sáb,Cruz Azul,1–1,Puebla
+Vie,Veracruz,3–2,Atlas
+Vie,Santos,3–2,Pachuca
+Dom,Toluca,3–0,Sinaloa
+Sáb,UANL,0–0,UNAM
+Sáb,León,2–0,Querétaro
+Sáb,Morelia,1–3,Monterrey
+Sáb,Chiapas,1–2,Tijuana
+Dom,Guadalajara,1–2,América
+Sáb,América,2–1,León
+Vie,Querétaro,1–1,Chiapas
+Vie,Tijuana,0–0,Toluca
+Dom,Puebla,0–0,UANL
+Sáb,Monterrey,1–3,Guadalajara
+Sáb,Sinaloa,3–1,Santos
+Sáb,Pachuca,6–0,Veracruz
+Sáb,Atlas,0–2,Cruz Azul
+Dom,UNAM,4–2,Morelia
+Sáb,Morelia,2–0,Chiapas
+Sáb,Cruz Azul,0–0,Pachuca
+Vie,Tijuana,2–4,Querétaro
+Vie,Toluca,0–0,Santos
+Vie,Veracruz,0–0,Sinaloa
+Sáb,UANL,2–2,Atlas
+Sáb,León,1–2,Monterrey
+Sáb,Morelia,2–0,Puebla
+Sáb,Chiapas,0–2,América
+Dom,Guadalajara,4–0,UNAM
+Sáb,América,6–1,Tijuana
+Vie,Querétaro,0–0,Toluca
+Vie,Santos,2–0,Veracruz
+Dom,Puebla,0–3,Guadalajara
+Dom,UNAM,1–2,León
+Sáb,Monterrey,6–0,Chiapas
+Sáb,Sinaloa,3–0,Cruz Azul
+Sáb,Pachuca,2–1,UANL
+Sáb,Atlas,1–2,Morelia
+Sáb,Toluca,4–2,Veracruz
+Sáb,Cruz Azul,0–1,Santos
+Vie,Tijuana,1–2,Monterrey
+Vie,Querétaro,1–0,América
+Dom,Guadalajara,1–0,Atlas
+Sáb,UANL,5–2,Sinaloa
+Sáb,León,4–1,Puebla
+Sáb,Morelia,1–0,Pachuca
+Sáb,Chiapas,1–2,UNAM
+Sáb,América,0–1,Toluca
+Vie,UNAM,3–1,Tijuana
+Vie,Veracruz,2–1,Cruz Azul
+Dom,Puebla,2–1,Chiapas
+Sáb,Monterrey,3–2,Querétaro
+Sáb,Santos,2–1,UANL
+Sáb,Sinaloa,1–0,Morelia
+Sáb,Pachuca,1–1,Guadalajara
+Sáb,Atlas,1–1,León
+Sáb,América,3–3,Monterrey
+Vie,Querétaro,2–1,UNAM
+Vie,Tijuana,0–0,Puebla
+Dom,Toluca,0–2,Cruz Azul
+Dom,Guadalajara,2–1,Sinaloa
+Sáb,UANL,0–0,Veracruz
+Sáb,León,0–0,Pachuca
+Sáb,Morelia,3–2,Santos
+Sáb,Chiapas,0–3,Atlas
+Sáb,Cruz Azul,0–3,UANL
+Vie,Veracruz,1–2,Morelia
+Vie,Santos,0–1,Guadalajara
+Dom,UNAM,1–1,América
+Dom,Puebla,3–1,Querétaro
+Sáb,Monterrey,1–2,Toluca
+Sáb,Sinaloa,0–1,León
+Sáb,Pachuca,2–1,Chiapas
+Sáb,Atlas,0–0,Tijuana
+Mié,UANL,1–3,Monterrey
+Mié,Morelia,1–1,León
+Jue,Santos,1–1,Pachuca
+Jue,Guadalajara,0–0,América
+Dom,América,2–1,Guadalajara
+Sáb,Monterrey,1–2,UANL
+Sáb,León,4–1,Morelia
+Dom,Pachuca,3–2,Santos
+Mié,América,1–0,Monterrey
+Jue,León,1–1,Pachuca
+Sáb,Monterrey,4–2,América
+Dom,Pachuca,2–1,León
+Jue,Pachuca,1–0,Monterrey
+Dom,Monterrey,1–1,Pachuca
+Sáb,Cruz Azul,0–1,Pachuca
+Sáb,Veracruz,0–1,Santos
+Vie,Querétaro,1–3,UNAM
+Vie,Tijuana,0–1,Puebla
+Dom,Toluca,0–0,Morelia
+Dom,Guadalajara,1–1,Chiapas
+Sáb,Monterrey,3–1,UdeG
+Sáb,León,1–2,América
+Sáb,Atlas,0–0,UANL
+Sáb,Puebla,0–0,Veracruz
+Sáb,América,2–1,Tijuana
+Vie,Morelia,0–2,Atlas
+Vie,Santos,1–1,Cruz Azul
+Dom,UNAM,0–1,Guadalajara
+Dom,UdeG,0–1,Querétaro
+Sáb,UANL,4–2,León
+Sáb,Pachuca,0–1,Monterrey
+Sáb,Chiapas,2–1,Toluca
+Sáb,Cruz Azul,0–0,Veracruz
+Sáb,Puebla,0–4,América
+Vie,Tijuana,1–1,UANL
+Vie,Querétaro,2–0,Pachuca
+Dom,Toluca,2–1,UNAM
+Sáb,Monterrey,0–0,Santos
+Sáb,León,4–0,Morelia
+Sáb,Atlas,4–2,Chiapas
+Sáb,Cruz Azul,1–0,Puebla
+Vie,Morelia,0–0,Tijuana
+Vie,Veracruz,2–1,Monterrey
+Dom,UNAM,0–1,Atlas
+Dom,UdeG,0–0,Toluca
+Sáb,UANL,0–2,América
+Sáb,Santos,2–3,Querétaro
+Sáb,Pachuca,3–0,Guadalajara
+Sáb,Chiapas,3–2,León
+Jue,León,2–1,UNAM
+Sáb,América,3–2,Morelia
+Sáb,Puebla,1–1,UANL
+Vie,Querétaro,0–0,Veracruz
+Vie,Tijuana,2–1,Chiapas
+Dom,Toluca,3–0,Pachuca
+Dom,Guadalajara,0–1,Santos
+Sáb,Monterrey,3–1,Cruz Azul
+Sáb,Atlas,1–0,UdeG
+Sáb,Veracruz,0–0,Guadalajara
+Sáb,Cruz Azul,2–1,Querétaro
+Vie,Morelia,1–5,UANL
+Vie,Santos,3–0,Toluca
+Dom,UNAM,1–1,Tijuana
+Dom,UdeG,1–0,León
+Sáb,Monterrey,1–0,Puebla
+Sáb,Pachuca,3–1,Atlas
+Sáb,Chiapas,0–0,América
+Sáb,Puebla,3–2,Morelia
+Sáb,América,0–1,UNAM
+Vie,Tijuana,1–1,UdeG
+Vie,Querétaro,0–1,Monterrey
+Dom,Toluca,2–1,Veracruz
+Dom,Guadalajara,0–0,Cruz Azul
+Sáb,UANL,0–2,Chiapas
+Sáb,León,1–2,Pachuca
+Sáb,Atlas,1–1,Santos
+Dom,Guadalajara,3–0,UdeG
+Sáb,Cruz Azul,1–2,Toluca
+Vie,Querétaro,1–1,Puebla
+Vie,Veracruz,1–1,Atlas
+Vie,Santos,2–0,León
+Dom,UNAM,2–2,UANL
+Sáb,Pachuca,1–1,Tijuana
+Sáb,Chiapas,1–1,Morelia
+Sáb,UdeG,0–0,América
+Sáb,América,2–1,Pachuca
+Sáb,Puebla,1–1,Chiapas
+Vie,Tijuana,4–1,Santos
+Vie,Morelia,2–3,UNAM
+Dom,Toluca,1–0,Monterrey
+Dom,Guadalajara,1–4,Querétaro
+Sáb,UANL,1–0,UdeG
+Sáb,León,3–1,Veracruz
+Sáb,Atlas,2–1,Cruz Azul
+Sáb,Cruz Azul,1–0,León
+Vie,Veracruz,1–0,Tijuana
+Vie,Querétaro,1–1,Toluca
+Vie,Santos,1–4,América
+Dom,UNAM,2–2,Chiapas
+Dom,Guadalajara,0–0,Puebla
+Sáb,Monterrey,2–1,Atlas
+Sáb,Pachuca,2–3,UANL
+Sáb,UdeG,1–2,Morelia
+Mar,León,1–3,Monterrey
+Mar,Atlas,2–1,Querétaro
+Mar,UANL,1–1,Santos
+Mié,Puebla,1–2,UNAM
+Mié,Tijuana,0–0,Cruz Azul
+Mié,Morelia,0–1,Pachuca
+Mié,América,2–0,Veracruz
+Mié,Chiapas,1–1,UdeG
+Jue,Toluca,3–1,Guadalajara
+Sáb,Cruz Azul,4–0,América
+Sáb,Veracruz,0–1,UANL
+Vie,Querétaro,1–2,León
+Dom,Toluca,1–1,Puebla
+Dom,Guadalajara,0–1,Atlas
+Sáb,Monterrey,1–1,Tijuana
+Sáb,Santos,2–2,Morelia
+Sáb,Pachuca,2–0,Chiapas
+Sáb,UdeG,1–0,UNAM
+Sáb,Puebla,1–1,UdeG
+Sáb,América,2–0,Monterrey
+Vie,Morelia,0–1,Veracruz
+Vie,Tijuana,2–1,Querétaro
+Dom,UNAM,1–1,Pachuca
+Sáb,UANL,1–0,Cruz Azul
+Sáb,León,2–1,Guadalajara
+Sáb,Chiapas,2–0,Santos
+Sáb,Atlas,0–2,Toluca
+Sáb,Veracruz,1–2,Chiapas
+Sáb,Cruz Azul,3–1,Morelia
+Vie,Querétaro,3–2,América
+Vie,Santos,1–1,UNAM
+Dom,Toluca,2–3,León
+Dom,Guadalajara,2–3,Tijuana
+Sáb,Monterrey,2–2,UANL
+Sáb,Pachuca,0–0,UdeG
+Sáb,Atlas,2–1,Puebla
+Sáb,América,0–0,Guadalajara
+Sáb,Puebla,1–1,Pachuca
+Vie,Tijuana,0–1,Toluca
+Vie,Morelia,2–1,Monterrey
+Dom,UNAM,0–0,Veracruz
+Sáb,UANL,1–0,Querétaro
+Sáb,León,4–0,Atlas
+Sáb,UdeG,1–1,Santos
+Sáb,Chiapas,0–0,Cruz Azul
+Sáb,Cruz Azul,0–2,UNAM
+Sáb,Veracruz,0–1,UdeG
+Vie,Querétaro,2–0,Morelia
+Vie,Santos,2–1,Pachuca
+Dom,Toluca,2–2,América
+Dom,Guadalajara,0–0,UANL
+Sáb,Monterrey,1–2,Chiapas
+Sáb,León,0–0,Puebla
+Sáb,Atlas,1–1,Tijuana
+Sáb,Monterrey,1–0,Guadalajara
+Sáb,América,1–2,Atlas
+Sáb,Puebla,3–3,Santos
+Vie,Morelia,1–2,Guadalajara
+Vie,Tijuana,3–2,León
+Dom,UNAM,4–2,Monterrey
+Sáb,UANL,2–1,Toluca
+Sáb,UdeG,1–1,Cruz Azul
+Sáb,Pachuca,1–0,Veracruz
+Sáb,Chiapas,2–1,Querétaro
+Mié,Pachuca,1–1,UANL
+Mié,UNAM,1–0,América
+Jue,Monterrey,0–1,Atlas
+Jue,Chiapas,1–1,Toluca
+Sáb,América,1–0,UNAM
+Dom,Toluca,1–1,Chiapas
+Sáb,UANL,1–1,Pachuca
+Dom,Atlas,0–2,Monterrey
+Jue,Toluca,0–0,UANL
+Jue,Monterrey,0–3,América
+Dom,UANL,0–0,Toluca
+Dom,América,0–0,Monterrey
+Jue,UANL,1–0,América
+Dom,América,3–0,UANL
+Sáb,Puebla,2–1,Tijuana
+Sáb,América,3–2,León
+Vie,Santos,1–2,Veracruz
+Vie,Morelia,0–0,Toluca
+Dom,UNAM,1–1,Querétaro
+Dom,UdeG,1–0,Monterrey
+Sáb,UANL,0–1,Atlas
+Sáb,Chiapas,2–1,Guadalajara
+Sáb,Pachuca,0–1,Cruz Azul
+Sáb,Cruz Azul,1–0,Santos
+Vie,Querétaro,1–0,UdeG
+Vie,Tijuana,1–0,América
+Vie,Veracruz,3–1,Puebla
+Dom,Toluca,3–0,Chiapas
+Dom,Guadalajara,2–1,UNAM
+Sáb,Monterrey,1–0,Pachuca
+Sáb,León,0–1,UANL
+Sáb,Atlas,2–1,Morelia
+Sáb,América,0–0,Puebla
+Vie,Morelia,0–0,León
+Vie,Veracruz,0–0,Cruz Azul
+Vie,Santos,4–1,Monterrey
+Dom,UNAM,3–2,Toluca
+Dom,UdeG,1–1,Guadalajara
+Sáb,UANL,1–2,Tijuana
+Sáb,Pachuca,2–1,Querétaro
+Sáb,Chiapas,3–1,Atlas
+Sáb,Puebla,0–0,Cruz Azul
+Sáb,América,1–0,UANL
+Vie,Querétaro,0–1,Santos
+Vie,Tijuana,4–2,Morelia
+Dom,Toluca,3–1,UdeG
+Sáb,Monterrey,1–1,Veracruz
+Sáb,Guadalajara,1–0,Pachuca
+Sáb,León,1–1,Chiapas
+Sáb,Atlas,1–1,UNAM
+Sáb,Cruz Azul,1–0,Monterrey
+Vie,Morelia,2–2,América
+Vie,Veracruz,1–1,Querétaro
+Vie,Santos,1–0,Guadalajara
+Dom,UNAM,1–3,León
+Dom,UdeG,0–2,Atlas
+Sáb,UANL,1–0,Puebla
+Sáb,Pachuca,1–1,Toluca
+Sáb,Chiapas,2–2,Tijuana
+Sáb,Puebla,2–0,Monterrey
+Sáb,América,5–0,Chiapas
+Vie,Querétaro,1–2,Cruz Azul
+Vie,Tijuana,3–0,UNAM
+Dom,Toluca,2–2,Santos
+Dom,Guadalajara,0–0,Veracruz
+Sáb,UANL,1–0,Morelia
+Sáb,León,2–1,UdeG
+Sáb,Atlas,1–3,Pachuca
+Sáb,Cruz Azul,1–2,Guadalajara
+Vie,Morelia,1–2,Puebla
+Vie,Veracruz,3–0,Toluca
+Vie,Santos,0–1,Atlas
+Dom,UNAM,0–1,América
+Dom,UdeG,0–1,Tijuana
+Sáb,Monterrey,2–1,Querétaro
+Sáb,Pachuca,2–1,León
+Sáb,Chiapas,1–0,UANL
+Sáb,Puebla,4–1,Querétaro
+Sáb,América,0–1,UdeG
+Vie,Morelia,3–2,Chiapas
+Vie,Tijuana,2–2,Pachuca
+Dom,Toluca,1–0,Cruz Azul
+Dom,Guadalajara,3–0,Monterrey
+Sáb,UANL,3–0,UNAM
+Sáb,León,2–1,Santos
+Sáb,Atlas,0–3,Veracruz
+Sáb,Cruz Azul,1–1,Atlas
+Vie,Veracruz,1–0,León
+Vie,Querétaro,1–0,Guadalajara
+Dom,UNAM,2–1,Morelia
+Dom,UdeG,2–1,UANL
+Sáb,Santos,1–1,Tijuana
+Sáb,Monterrey,3–2,Toluca
+Sáb,Pachuca,0–0,América
+Sáb,Chiapas,2–2,Puebla
+Sáb,Puebla,1–2,Guadalajara
+Sáb,América,1–0,Santos
+Vie,Morelia,0–1,UdeG
+Vie,Tijuana,3–1,Veracruz
+Dom,Toluca,1–0,Querétaro
+Sáb,UANL,2–1,Pachuca
+Sáb,León,2–2,Cruz Azul
+Sáb,Atlas,2–1,Monterrey
+Sáb,Chiapas,0–2,UNAM
+Sáb,Cruz Azul,2–1,Tijuana
+Vie,Querétaro,2–0,Atlas
+Vie,Veracruz,4–0,América
+Vie,Santos,2–2,UANL
+Dom,UNAM,2–1,Puebla
+Dom,Guadalajara,1–0,Toluca
+Sáb,Monterrey,5–1,León
+Sáb,Pachuca,2–0,Morelia
+Sáb,UdeG,0–1,Chiapas
+Sáb,Puebla,0–1,Toluca
+Sáb,América,1–0,Cruz Azul
+Vie,Morelia,0–1,Santos
+Dom,UNAM,2–0,UdeG
+Sáb,UANL,3–1,Veracruz
+Sáb,Chiapas,2–2,Pachuca
+Sáb,Tijuana,3–4,Monterrey
+Sáb,León,4–5,Querétaro
+Sáb,Atlas,1–1,Guadalajara
+Sáb,Cruz Azul,2–0,UANL
+Vie,Querétaro,2–1,Tijuana
+Vie,Veracruz,1–1,Morelia
+Vie,Santos,4–3,Chiapas
+Dom,Toluca,0–0,Atlas
+Dom,Guadalajara,1–0,León
+Sáb,Monterrey,1–1,América
+Sáb,Pachuca,3–1,UNAM
+Sáb,UdeG,1–1,Puebla
+Sáb,Puebla,0–1,Atlas
+Sáb,América,0–4,Querétaro
+Vie,Tijuana,1–1,Guadalajara
+Vie,Morelia,2–0,Cruz Azul
+Vie,Chiapas,1–1,Veracruz
+Dom,UNAM,1–0,Santos
+Dom,UdeG,1–1,Pachuca
+Sáb,UANL,3–0,Monterrey
+Sáb,León,1–1,Toluca
+Sáb,Cruz Azul,0–1,Chiapas
+Vie,Querétaro,1–3,UANL
+Vie,Veracruz,3–3,UNAM
+Vie,Santos,1–0,UdeG
+Dom,Toluca,2–0,Tijuana
+Dom,Guadalajara,1–1,América
+Sáb,Monterrey,1–0,Morelia
+Sáb,Pachuca,2–1,Puebla
+Sáb,Atlas,3–2,León
+Sáb,Puebla,2–0,León
+Vie,Morelia,1–2,Querétaro
+Vie,Tijuana,1–2,Atlas
+Dom,UNAM,0–1,Cruz Azul
+Dom,UdeG,1–2,Veracruz
+Sáb,América,3–1,Toluca
+Sáb,UANL,2–1,Guadalajara
+Sáb,Pachuca,2–3,Santos
+Sáb,Chiapas,0–2,Monterrey
+Vie,Querétaro,1–0,Chiapas
+Vie,Veracruz,1–2,Pachuca
+Dom,Toluca,0–0,UANL
+Dom,Guadalajara,2–3,Morelia
+Sáb,Monterrey,2–2,UNAM
+Sáb,León,6–2,Tijuana
+Sáb,Cruz Azul,0–2,UdeG
+Sáb,Santos,2–2,Puebla
+Sáb,Atlas,1–2,América
+Mié,Santos,1–1,UANL
+Mié,Pachuca,3–2,América
+Jue,Querétaro,2–1,Veracruz
+Jue,Guadalajara,0–0,Atlas
+Sáb,América,3–4,Pachuca
+Dom,Atlas,1–4,Guadalajara
+Sáb,UANL,0–1,Santos
+Dom,Veracruz,2–2,Querétaro
+Jue,Pachuca,2–0,Querétaro
+Jue,Santos,0–0,Guadalajara
+Dom,Guadalajara,0–3,Santos
+Dom,Querétaro,2–0,Pachuca
+Jue,Santos,5–0,Querétaro
+Dom,Querétaro,3–0,Santos
